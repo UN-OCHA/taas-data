@@ -1,170 +1,149 @@
 [
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2376", 
+        "id": "2376", 
         "label": "Administrative Officer", 
-        "label_es": "Oficial administrativo", 
-        "label_fr": "Assistant administratif", 
-        "scope": "Responsible for Office Administration and administrative support"
+        "xx_label_es": "Oficial administrativo", 
+        "xx_label_fr": "Assistant administratif", 
+        "xx_scope": "Responsible for Office Administration and administrative support"
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2377", 
+        "id": "2377", 
         "label": "Head of Agency or Office", 
-        "label_es": "Director de Agencia", 
-        "label_fr": "Directeur d'agence/Chef de bureau", 
-        "scope": "Head of a UN, NGO or local agency or office.  May include managing staff working in the country office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management."
+        "xx_label_es": "Director de Agencia", 
+        "xx_label_fr": "Directeur d'agence/Chef de bureau", 
+        "xx_scope": "Head of a UN, NGO or local agency or office.  May include managing staff working in the country office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2379", 
+        "id": "2379", 
         "label": "Civil-Military Officer", 
-        "label_es": "Coordinador Civil y Militar", 
-        "label_fr": "Coordinateur Civilo-Militaire", 
-        "scope": "Facilitates dialogue\nand interaction between civilian\nand military actors to better deliver humanitarian relief during a natural disaster or complex emergency."
+        "xx_label_es": "Coordinador Civil y Militar", 
+        "xx_label_fr": "Coordinateur Civilo-Militaire", 
+        "xx_scope": "Facilitates dialogue\nand interaction between civilian\nand military actors to better deliver humanitarian relief during a natural disaster or complex emergency."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2380", 
+        "id": "2380", 
         "label": "Cluster Co-Lead", 
-        "label_es": "Co-Presidir Cl\u00faster", 
-        "label_fr": "Co-Chef de file sectoriel", 
-        "scope": "Works in collaboration with the Cluster Coordinator in leading cluster-based activities during humanitarian operations.  Frequently co-chairs cluster coordination meetings and other activities.   "
+        "xx_label_es": "Co-Presidir Cl\u00faster", 
+        "xx_label_fr": "Co-Chef de file sectoriel", 
+        "xx_scope": "Works in collaboration with the Cluster Coordinator in leading cluster-based activities during humanitarian operations.  Frequently co-chairs cluster coordination meetings and other activities.   "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2381", 
+        "id": "2381", 
         "label": "Cluster Coordinator", 
-        "label_es": "Coordinador de Grupo", 
-        "label_fr": "Chef de file sectoriel", 
-        "scope": "Responsible for leading cluster-based activities during humanitarian operations.  Provides leadership and works on behalf of the cluster as a whole, facilitating all cluster activities and developing and maintaining a strategic vision and operational response plan."
+        "xx_label_es": "Coordinador de Grupo", 
+        "xx_label_fr": "Chef de file sectoriel", 
+        "xx_scope": "Responsible for leading cluster-based activities during humanitarian operations.  Provides leadership and works on behalf of the cluster as a whole, facilitating all cluster activities and developing and maintaining a strategic vision and operational response plan."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2382", 
+        "id": "2382", 
         "label": "Public Information Officer", 
-        "label_es": "Funcionario de informaci\u00f3n p\u00fablica", 
-        "label_fr": "Sp\u00e9cialiste en communication et relations publiques", 
-        "scope": "Delivers core messages related to a humanitarian response using various communication tools, including social media tools, radio, television, print, the internet, videoconferencing and other new information technologies."
+        "xx_label_es": "Funcionario de informaci\u00f3n p\u00fablica", 
+        "xx_label_fr": "Sp\u00e9cialiste en communication et relations publiques", 
+        "xx_scope": "Delivers core messages related to a humanitarian response using various communication tools, including social media tools, radio, television, print, the internet, videoconferencing and other new information technologies."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2383", 
+        "id": "2383", 
         "label": "GenCap Officer", 
-        "label_es": "Oficial del GenCap", 
-        "label_fr": "Conseiller inter-agence GenCap", 
-        "scope": "Inter-agency staff trained to advise on, facilitate and strengthen capacity and leadership of humanitarians to undertake and promote gender-sensitive programming to ensure the distinct needs of women, girls, boys and men of all ages and backgrounds, are taken into account in humanitarian action at global, regional, and country levels.  Frequently deploy to be hosted by the Humanitarian Coordinator's Office or a UN agency."
+        "xx_label_es": "Oficial del GenCap", 
+        "xx_label_fr": "Conseiller inter-agence GenCap", 
+        "xx_scope": "Inter-agency staff trained to advise on, facilitate and strengthen capacity and leadership of humanitarians to undertake and promote gender-sensitive programming to ensure the distinct needs of women, girls, boys and men of all ages and backgrounds, are taken into account in humanitarian action at global, regional, and country levels.  Frequently deploy to be hosted by the Humanitarian Coordinator's Office or a UN agency."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2385", 
+        "id": "2385", 
         "label": "Government Official", 
-        "label_es": "Funcionario del Gobierno", 
-        "label_fr": "Repr\u00e9sentant du Gouvernement ", 
-        "scope": "An official who is involved in public administration or government, through either election, appointment, selection, or employment. "
+        "xx_label_es": "Funcionario del Gobierno", 
+        "xx_label_fr": "Repr\u00e9sentant du Gouvernement ", 
+        "xx_scope": "An official who is involved in public administration or government, through either election, appointment, selection, or employment. "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2386", 
+        "id": "2386", 
         "label": "HCT Member", 
-        "label_es": "Miembro del Equipo Humanitario de un Pa\u00eds", 
-        "label_fr": "Membre d'\u00e9quipe Humanitaire Pays", 
-        "scope": "Composed of members of organisations that are undertaking humanitarian action in-country and\nthat have committed to participate in coordination arrangements. These may include UN agencies, the International Organization for Migration, non-governmental organizations, and subject to\ntheir individual mandates, components of the International Red Cross and Red Crescent\nMovement."
+        "xx_label_es": "Miembro del Equipo Humanitario de un Pa\u00eds", 
+        "xx_label_fr": "Membre d'\u00e9quipe Humanitaire Pays", 
+        "xx_scope": "Composed of members of organisations that are undertaking humanitarian action in-country and\nthat have committed to participate in coordination arrangements. These may include UN agencies, the International Organization for Migration, non-governmental organizations, and subject to\ntheir individual mandates, components of the International Red Cross and Red Crescent\nMovement."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2387", 
+        "id": "2387", 
         "label": "Information Management Officer", 
-        "label_es": "", 
-        "label_fr": "Sp\u00e9cialiste de la gestion de l\u2019information ", 
-        "scope": "Manage information and data around the humanitarian programme cycle, including supporting common information processes such as preparedness, needs assessment, strategic planning, resource mobilization, implementation and monitoring."
+        "xx_label_es": "", 
+        "xx_label_fr": "Sp\u00e9cialiste de la gestion de l\u2019information ", 
+        "xx_scope": "Manage information and data around the humanitarian programme cycle, including supporting common information processes such as preparedness, needs assessment, strategic planning, resource mobilization, implementation and monitoring."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/2389", 
+        "id": "2389", 
         "label": "ProCap Officer", 
-        "label_es": "Oficial de la ProCap", 
-        "label_fr": "Conseiller inter-agence ProCap", 
-        "scope": "Inter-agency staff  trained to advise on and support the strategic and operational humanitarian protection response for Displaced Persons and other vulnerable populations. "
+        "xx_label_es": "Oficial de la ProCap", 
+        "xx_label_fr": "Conseiller inter-agence ProCap", 
+        "xx_scope": "Inter-agency staff  trained to advise on and support the strategic and operational humanitarian protection response for Displaced Persons and other vulnerable populations. "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56025", 
+        "id": "56025", 
         "label": "Donor", 
-        "label_es": "Donante", 
-        "label_fr": "Bailleur de fonds", 
-        "scope": "Organization's representative responsible for donating money, goods or other in-kind contributions. "
+        "xx_label_es": "Donante", 
+        "xx_label_fr": "Bailleur de fonds", 
+        "xx_scope": "Organization's representative responsible for donating money, goods or other in-kind contributions. "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56026", 
+        "id": "56026", 
         "label": "Humanitarian Coordinator", 
-        "label_es": "", 
-        "label_fr": "Coordinateur Humanitaire", 
-        "scope": "Senior-most United Nations official in a country experiencing a humanitarian emergency. The Humanitarian Coordinator is appointed by the United Nations Emergency Relief Coordinator when a new emergency occurs or an existing humanitarian situation worsens in degree and/or complexity."
+        "xx_label_es": "", 
+        "xx_label_fr": "Coordinateur Humanitaire", 
+        "xx_scope": "Senior-most United Nations official in a country experiencing a humanitarian emergency. The Humanitarian Coordinator is appointed by the United Nations Emergency Relief Coordinator when a new emergency occurs or an existing humanitarian situation worsens in degree and/or complexity."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56027", 
+        "id": "56027", 
         "label": "Military Officer", 
-        "label_es": "", 
-        "label_fr": "Militaire", 
-        "scope": "Member of an armed force or uniformed service who holds a position of authority."
+        "xx_label_es": "", 
+        "xx_label_fr": "Militaire", 
+        "xx_scope": "Member of an armed force or uniformed service who holds a position of authority."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56028", 
+        "id": "56028", 
         "label": "United Nations Country Team Member", 
-        "label_es": "", 
-        "label_fr": "Membre d\u2019\u00e9quipe ONU du pays (UNCT)", 
-        "scope": "Representatives of the UN funds and programmes, specialized agencies and other UN entities accredited to a given country designated to participate in the United Nations Country Team.  "
+        "xx_label_es": "", 
+        "xx_label_fr": "Membre d\u2019\u00e9quipe ONU du pays (UNCT)", 
+        "xx_scope": "Representatives of the UN funds and programmes, specialized agencies and other UN entities accredited to a given country designated to participate in the United Nations Country Team.  "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56029", 
+        "id": "56029", 
         "label": "Resident Coordinator", 
-        "label_es": "", 
-        "label_fr": "Coordinateur r\u00e9sident", 
-        "scope": "Designated representative of the UN Secretary-General assigned to lead the United Nations Country Team."
+        "xx_label_es": "", 
+        "xx_label_fr": "Coordinateur r\u00e9sident", 
+        "xx_scope": "Designated representative of the UN Secretary-General assigned to lead the United Nations Country Team."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56030", 
+        "id": "56030", 
         "label": "Head of Sub-Office", 
-        "label_es": "", 
-        "label_fr": "", 
-        "scope": "Manages all staff working in the field sub-office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management. "
+        "xx_label_es": "", 
+        "xx_label_fr": "", 
+        "xx_scope": "Manages all staff working in the field sub-office; including assisting in the preparation of office work and cost plans and financial, human resources and administrative management. "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/56055", 
+        "id": "56055", 
         "label": "Executive Assistant", 
-        "label_es": "", 
-        "label_fr": "Assistant ex\u00e9cutif ", 
-        "scope": "Assists senior management (potentially including the management of human and financial resources, ethics, investigation and audit, and management and analysis)."
+        "xx_label_es": "", 
+        "xx_label_fr": "Assistant ex\u00e9cutif ", 
+        "xx_scope": "Assists senior management (potentially including the management of human and financial resources, ethics, investigation and audit, and management and analysis)."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/61563", 
+        "id": "61563", 
         "label": "UNDAC Member", 
-        "label_es": "", 
-        "label_fr": "Membre d\u2019\u00e9quipe UNDAC", 
-        "scope": "Individuals specifially trained as members of the United Nations Disaster Assessment and Coordination team in order to  deploy to disaster-affected locations upon the request of the United Nations Resident or Humanitarian Coordinator and/or the affected Government."
+        "xx_label_es": "", 
+        "xx_label_fr": "Membre d\u2019\u00e9quipe UNDAC", 
+        "xx_scope": "Individuals specifially trained as members of the United Nations Disaster Assessment and Coordination team in order to  deploy to disaster-affected locations upon the request of the United Nations Resident or Humanitarian Coordinator and/or the affected Government."
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/61978", 
+        "id": "61978", 
         "label": "Cluster Coordination Team Member", 
-        "label_es": "", 
-        "label_fr": "", 
-        "scope": "Cluster member who seeks to strategize and coordinate humanitarian activities between clusters. "
+        "xx_label_es": "", 
+        "xx_label_fr": "", 
+        "xx_scope": "Cluster member who seeks to strategize and coordinate humanitarian activities between clusters. "
     }, 
     {
-        "@context": "https://raw.githubusercontent.com/UN-OCHA/taas-data/master/json/v1/functional_roles.jsonld", 
-        "@id": "http://vocabulary.unocha.org/FunctionalRole/", 
+        "id": "", 
         "label": "Environmental Expert", 
-        "label_es": "Experto en medio ambiente", 
-        "label_fr": "Expert environnemental", 
-        "scope": "Expert whose role is to provide information and guidance on environmental topics, including natural resource use, waste management, chemical pollution and energy provision."
+        "xx_label_es": "Experto en medio ambiente", 
+        "xx_label_fr": "Expert environnemental", 
+        "xx_scope": "Expert whose role is to provide information and guidance on environmental topics, including natural resource use, waste management, chemical pollution and energy provision."
     }
 ]
