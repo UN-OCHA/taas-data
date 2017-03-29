@@ -1,0 +1,107 @@
+[
+    {
+        "acryonym": "SHL", 
+        "group": "Global Cluster", 
+        "homepage": "https://www.sheltercluster.org/", 
+        "id": "4", 
+        "label": "Emergency Shelter and NFI"
+    }, 
+    {
+        "acryonym": "CCM", 
+        "group": "Global Cluster", 
+        "homepage": "http://www.globalcccmcluster.org", 
+        "id": "1", 
+        "label": "Camp Coordination / Management"
+    }, 
+    {
+        "acryonym": "PRO-MIN", 
+        "group": "Area Of Responsibility", 
+        "homepage": "http://www.globalprotectioncluster.org/en/areas-of-responsibility/mine-action.html", 
+        "id": "5406", 
+        "label": "Mine Action"
+    }, 
+    {
+        "acryonym": "FSC", 
+        "group": "Global Cluster", 
+        "homepage": "http://foodsecuritycluster.net/", 
+        "id": "6", 
+        "label": "Food Security"
+    }, 
+    {
+        "acryonym": "WSH", 
+        "group": "Global Cluster", 
+        "homepage": "http://washcluster.net/", 
+        "id": "11", 
+        "label": "Water Sanitation Hygiene"
+    }, 
+    {
+        "acryonym": "LOG", 
+        "group": "Global Cluster", 
+        "homepage": "http://www.logcluster.org/", 
+        "id": "8", 
+        "label": "Logistics"
+    }, 
+    {
+        "acryonym": "PRO-CPN", 
+        "group": "Area Of Responsibility", 
+        "homepage": "http://cpwg.net/", 
+        "id": "5403", 
+        "label": "Child Protection"
+    }, 
+    {
+        "acryonym": "PRO", 
+        "group": "Global Cluster", 
+        "homepage": "http://www.globalprotectioncluster.org/", 
+        "id": "10", 
+        "label": "Protection"
+    }, 
+    {
+        "acryonym": "EDU", 
+        "group": "Global Cluster", 
+        "homepage": "http://educationcluster.net/", 
+        "id": "3", 
+        "label": "Education"
+    }, 
+    {
+        "acryonym": "NNUT", 
+        "group": "Global Cluster", 
+        "homepage": "http://nutritioncluster.net/", 
+        "id": "9", 
+        "label": "Nutrition"
+    }, 
+    {
+        "acryonym": "HEA", 
+        "group": "Global Cluster", 
+        "homepage": "http://www.who.int/health-cluster/en/", 
+        "id": "7", 
+        "label": "Health"
+    }, 
+    {
+        "acryonym": "ERY", 
+        "group": "Global Cluster", 
+        "homepage": "http://earlyrecovery.global/", 
+        "id": "2", 
+        "label": "Early Recovery"
+    }, 
+    {
+        "acryonym": "TEL", 
+        "group": "Global Cluster", 
+        "homepage": "https://www.etcluster.org/", 
+        "id": "5", 
+        "label": "Emergency Telecommunications"
+    }, 
+    {
+        "acryonym": "PRO-GBV", 
+        "group": "Area Of Responsibility", 
+        "homepage": "http://gbvaor.net/", 
+        "id": "5404", 
+        "label": "Gender Based Violence"
+    }, 
+    {
+        "acryonym": "PRO-HLP", 
+        "group": "Area Of Responsibility", 
+        "homepage": "http://www.globalprotectioncluster.org/en/areas-of-responsibility/housing-land-and-property.html", 
+        "id": "5405", 
+        "label": "Housing, Land and Property"
+    }
+]
