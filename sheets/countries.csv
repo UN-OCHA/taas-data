@@ -1,0 +1,266 @@
+ID,HRinfo ID,m49 numerical code,ISO 3166-2:2013 Alpha 2-Codes,ISO 3166-3:2013 Alpha 3-Codes,ISO 3166-2:II-3,ISO 3166-3:I-6,Preferred Term,Admin Level,Latitude,Longitude,HRinfo Alt Term,RW Name Alt Term,RW Website Alt Term,m49 Alt Term,INTERNAL Has Status
+1,181,4,AF,AFG,,,Afghanistan,0,33.83147477,66.02621828,,,,,UN Member State
+2,182,248,AX,ALA,,,Åland Islands,0,,,,,Aland Islands (Finland),,?
+3,183,8,AL,ALB,,,Albania,0,41.13180899,20.06882519,,,,,UN Member State
+4,184,12,DZ,DZA,,,Algeria,0,28.16474462,2.63351219,,,,,UN Member State
+5,185,16,AS,ASM,,,American Samoa,0,-14.30440488,-170.70783,,American Samoa (US),,,Non-Self-Governing Territory
+6,186,20,AD,AND,,,Andorra,0,42.55527067,1.578938861,,,,,UN Member State
+7,187,24,AO,AGO,,,Angola,0,-12.3755731,17.59867248,,,,,UN Member State
+8,188,660,AI,AIA,,,Anguilla,0,18.22301491,-63.06006462,,Anguilla (UK),,,Non-Self-Governing Territory
+9,189,10,AQ,ATA,,,Antarctica,0,-80.45066299,21.43458373,,,,,?
+10,190,28,AG,ATG,,,Antigua and Barbuda,0,17.07120733,-61.79815058,,,,,UN Member State
+11,191,32,AR,ARG,,,Argentina,0,-34.98567234,-65.12225892,,,,,UN Member State
+12,192,51,AM,ARM,,,Armenia,0,40.29202499,44.9429026,,,,,UN Member State
+13,193,533,AW,ABW,,,Aruba,0,12.5156546,-69.9757266,,Aruba (NL),Aruba (The Netherlands),,Territory
+14,194,36,AU,AUS,,,Australia,0,-25.40546125,134.2181189,,,,,UN Member State
+15,195,40,AT,AUT,,,Austria,0,47.59086187,14.13920086,,,,,UN Member State
+16,196,31,AZ,AZE,,,Azerbaijan,0,40.42670781,47.80669468,,,,,UN Member State
+17,197,44,BS,BHS,,,Bahamas (the),0,25.90317684,-78.61665744,Bahamas,Bahamas,Bahamas,Bahamas,UN Member State
+18,198,48,BH,BHR,,,Bahrain,0,26.05396006,50.53486327,,,,,UN Member State
+19,199,50,BD,BGD,,,Bangladesh,0,23.88207427,90.24107264,,,,,UN Member State
+20,200,52,BB,BRB,,,Barbados,0,13.184952,-59.55382245,,,,,UN Member State
+21,201,112,BY,BLR,,,Belarus,0,53.53965016,28.04932937,,,,,UN Member State
+22,202,56,BE,BEL,,,Belgium,0,50.64206011,4.658786236,,,,,UN Member State
+23,203,84,BZ,BLZ,,,Belize,0,17.20829609,-88.69988922,,,,,UN Member State
+24,204,204,BJ,BEN,,,Benin,0,9.642665015,2.342864021,,,,,UN Member State
+25,205,60,BM,BMU,,,Bermuda,0,32.31605051,-64.73984042,,Bermuda (UK),,,Non-Self-Governing Territory
+26,206,64,BT,BTN,,,Bhutan,0,27.41443467,90.43085885,,,,,UN Member State
+27,207,68,BO,BOL,,,Bolivia (Plurinational State of),0,-16.71483757,-64.66829843,"Bolivia, Plurinational State of",Bolivia,,,UN Member State
+28,208,70,BA,BIH,,,Bosnia and Herzegovina,0,44.16506495,17.79105724,,,,,UN Member State
+29,209,535,BQ,BES,,,"Bonaire, Sint Eustatius and Saba",0,,,,,"Bonaire, Saint Eustatius and Saba (The Netherlands)",,?
+30,210,72,BW,BWA,,,Botswana,0,-22.17991766,23.81673035,,,,,UN Member State
+31,211,74,BV,BVT,,,Bouvet Island,0,-54.42190835,3.412516924,,Bouvet Island (NO),,,Territory
+32,212,76,BR,BRA,,,Brazil,0,-10.77518961,-53.09141767,,,,,UN Member State
+33,213,86,IO,IOT,,,British Indian Ocean Territory (the),0,-7.334186151,72.43402037,British Indian Ocean Territory,British Indian Ocean Territory (UK),,British Indian Ocean Territory,Territory
+34,214,96,BN,BRN,,,Brunei Darussalam,0,4.439247073,114.4374636,,,,,UN Member State
+35,215,100,BG,BGR,,,Bulgaria,0,42.76069057,25.23572028,,,,,UN Member State
+36,216,854,BF,BFA,,,Burkina Faso,0,12.27790144,-1.738649343,,,,,UN Member State
+37,217,108,BI,BDI,,,Burundi,0,-3.356208708,29.89200134,,,,,UN Member State
+38,218,116,KH,KHM,,,Cambodia,0,12.71583138,104.9221723,,,,,UN Member State
+39,219,120,CM,CMR,,,Cameroon,0,5.68036831,12.74068837,,,,,UN Member State
+40,220,124,CA,CAN,,,Canada,0,61.4126317,-98.23039804,,,,,UN Member State
+41,221,132,CV,CPV,,,Cabo Verde,0,17.52133998,-24.58506404,Cape Verde,Cape Verde,,,UN Member State
+42,222,136,KY,CYM,,,Cayman Islands (the),0,19.31065556,-81.20426038,Cayman Islands,Cayman Islands (UK),Cayman Islands,Cayman Islands,Non-Self-Governing Territory
+43,223,140,CF,CAF,,,Central African Republic (the),0,6.570747926,20.48450088,Central African Republic,Central African Republic,Central African Republic,Central African Republic,UN Member State
+44,224,148,TD,TCD,,,Chad,0,15.35740495,18.66399556,,,,,UN Member State
+45,225,152,CL,CHL,,,Chile,0,-37.68386885,-71.33321859,,,,,UN Member State
+46,226,156,CN,CHN,,,China,0,36.67464756,103.8680636,,,,,UN Member State
+47,227,162,CX,CXR,,,Christmas Island,0,-10.44411458,105.7036972,,Christmas Island (AU),Christmas Island (Australia),,Territory
+48,228,166,CC,CCK,,,Cocos (Keeling) Islands (the),0,-12.17127014,96.83690355,Cocos (Keeling) Islands,Cocos (Keeling) Islands (AU),Cocos (Keeling) Islands (Australia),Cocos (Keeling) Islands,Territory
+49,229,170,CO,COL,,,Colombia,0,3.897367041,-73.07080696,,,,,UN Member State
+50,230,174,KM,COM,,,Comoros (the),0,-11.42407818,42.8293551,Comoros,Comoros,Comoros,Comoros,UN Member State
+51,231,178,CG,COG,,,Congo (the),0,-0.83949506,15.22629207,Congo,Congo,Congo,Congo,UN Member State
+52,232,180,CD,COD,,,Congo (the Democratic Republic of the),0,-2.876807692,23.65623593,"Congo, Democratic Republic of the",Democratic Republic of the Congo,Democratic Republic of the Congo,Democratic Republic of the Congo,UN Member State
+53,233,184,CK,COK,,,Cook Islands (the),0,-20.14332999,-159.7599857,Cook Islands,Cook Islands (NO),Cook Islands,Cook Islands,Territory
+54,234,188,CR,CRI,,,Costa Rica,0,9.960735487,-84.18254176,,,,,UN Member State
+55,235,384,CI,CIV,,,Côte d'Ivoire,0,7.630087005,-5.552402136,,,,,UN Member State
+56,236,191,HR,HRV,,,Croatia,0,45.18877041,16.42353441,,,,,UN Member State
+57,237,192,CU,CUB,,,Cuba,0,21.6053525,-78.90713844,,,,,UN Member State
+58,238,531,CW,CUW,,,Curaçao,0,,,,,Curaçao (The Netherlands),,?
+59,239,196,CY,CYP,,,Cyprus,0,35.01941238,33.1666508,,,,,UN Member State
+60,240,203,CZ,CZE,,,Czechia,0,49.74240068,15.34943448,Czech Republic,Czech Republic,Czech Republic,,UN Member State
+61,241,208,DK,DNK,,,Denmark,0,56.06439188,9.942213684,,,,,UN Member State
+62,242,262,DJ,DJI,,,Djibouti,0,11.74658946,42.58022315,,,,,UN Member State
+63,243,212,DM,DMA,,,Dominica,0,15.42468124,-61.36047599,,,,,UN Member State
+64,244,214,DO,DOM,,,Dominican Republic (the),0,18.89453409,-70.49429315,Dominican Republic,Dominican Republic,Dominican Republic,Dominican Republic,UN Member State
+65,245,218,EC,ECU,,,Ecuador,0,-1.464036749,-78.05190165,,,,,UN Member State
+66,246,818,EG,EGY,,,Egypt,0,26.55281781,29.78562814,,,,,UN Member State
+67,247,222,SV,SLV,,,El Salvador,0,13.72764125,-88.86315324,,,,,UN Member State
+68,248,226,GQ,GNQ,,,Equatorial Guinea,0,1.412936146,10.61572825,,,,,UN Member State
+69,249,232,ER,ERI,,,Eritrea,0,15.37695899,38.82792338,,,,,UN Member State
+70,250,233,EE,EST,,,Estonia,0,58.70758667,26.168216,,,,,UN Member State
+71,251,231,ET,ETH,,,Ethiopia,0,8.633664665,39.61587345,,,,,UN Member State
+72,252,238,FK,FLK,,,Falkland Islands (the) [Malvinas],0,-51.7638724,-55.8098409,Falkland Islands (Malvinas),,Falkland Islands (Malvinas),Falkland Islands (Malvinas),?
+73,253,234,FO,FRO,,,Faroe Islands (the),0,61.64924758,-6.548553177,Faroe Islands,Faroe Islands (DK),Faroe Islands (Denmark),Faroe Islands,Territory
+74,254,242,FJ,FJI,,,Fiji,0,-19.0190607,195.3435043,,,,,UN Member State
+75,255,246,FI,FIN,,,Finland,0,64.52173893,26.29452799,,,,,UN Member State
+76,256,250,FR,FRA,,,France,0,46.6984015,2.350055968,,,,,UN Member State
+77,257,254,GF,GUF,,,French Guiana,0,3.928100844,-53.24266781,,French Guiana (FR),French Guiana (France),,Territory
+78,258,258,PF,PYF,,,French Polynesia,0,-24.06211632,-156.7187297,,French Polynesia (FR),French Polynesia (France),,Territory
+79,259,260,TF,ATF,,,French Southern Territories (the),0,-49.32257975,69.49884805,French Southern Territories,French Southern and Antarctic Territories (FR),,French Southern and Antarctic Territories,Territory
+80,260,266,GA,GAB,,,Gabon,0,-0.595400581,11.79997877,,,,,UN Member State
+81,261,270,GM,GMB,,,Gambia (the),0,13.44470328,-15.44718402,Gambia,Gambia,Gambia,Gambia,UN Member State
+82,262,268,GE,GEO,,,Georgia,0,42.17290221,43.5117089,,,,,UN Member State
+83,263,276,DE,DEU,,,Germany,0,51.08227882,10.37515859,,,,,UN Member State
+84,264,288,GH,GHA,,,Ghana,0,7.956118608,-1.209564758,,,,,UN Member State
+85,265,292,GI,GIB,,,Gibraltar,0,36.13872267,-5.34508156,,Gibraltar (UK),,,Non-Self-Governing Territory
+86,266,300,GR,GRC,,,Greece,0,39.99547189,22.15714659,,,,,UN Member State
+87,267,304,GL,GRL,,,Greenland,0,74.714673,-41.37858526,,Greenland (DK),Greenland (Denmark),,Territory
+88,268,308,GD,GRD,,,Grenada,0,12.11295969,-61.67937955,,,,,UN Member State
+89,269,312,GP,GLP,,,Guadeloupe,0,16.40393131,-61.75296289,,Guadeloupe (FR),Guadeloupe (France),,Territory
+90,270,316,GU,GUM,,,Guam,0,13.47185432,144.784677,,Guam (US),,,Non-Self-Governing Territory
+91,271,320,GT,GTM,,,Guatemala,0,15.699081,-90.35850945,,,,,UN Member State
+92,272,831,GG,GGY,,,Guernsey,0,,,,,,,?
+93,273,324,GN,GIN,,,Guinea,0,10.43642262,-10.95068301,,,,,UN Member State
+94,274,624,GW,GNB,,,Guinea-Bissau,0,12.05479161,-14.94108332,,,,,UN Member State
+95,275,328,GY,GUY,,,Guyana,0,4.800395012,-58.97699814,,,,,UN Member State
+96,276,332,HT,HTI,,,Haiti,0,18.94164176,-72.65840205,,,,,UN Member State
+97,277,334,HM,HMD,,,Heard Island and McDonald Islands,0,-53.0998917,73.52881216,,Heard Island and McDonald Islands (AU),Heard Island and McDonald Islands (Australia),,Territory
+98,278,336,VA,VAT,,,Holy See (the),0,41.90336493,12.45225447,Holy See (Vatican City State),Holy See,Holy See,Holy See,Permanent Observer to the UN
+99,279,340,HN,HND,,,Honduras,0,14.80908243,-86.63495948,,,,,UN Member State
+100,280,344,HK,HKG,,,Hong Kong,0,22.4216098,114.1539976,,,China - Hong Kong (Special Administrative Region),"China, Hong Kong Special Administrative Region",?
+101,281,348,HU,HUN,,,Hungary,0,47.16567815,19.42172591,,,,,UN Member State
+102,282,352,IS,ISL,,,Iceland,0,64.99668622,-18.61425416,,,,,UN Member State
+103,283,356,IN,IND,,,India,0,22.37137039,79.32792202,,,,,UN Member State
+104,284,360,ID,IDN,,,Indonesia,0,-2.21433486,117.2844335,,,,,UN Member State
+105,285,364,IR,IRN,,,Iran (Islamic Republic of),0,32.57533772,54.2973284,"Iran, Islamic Republic of",,,,UN Member State
+106,286,368,IQ,IRQ,,,Iraq,0,33.04497404,43.77207391,,,,,UN Member State
+107,287,372,IE,IRL,,,Ireland,0,53.16969376,-8.154213185,,,,,UN Member State
+108,288,833,IM,IMN,,,Isle of Man,0,,,,,Isle of Man (The United Kingdom of Great Britain and Northern Ireland),,?
+109,289,376,IL,ISR,,,Israel,0,31.33857325,34.96023155,,,,,UN Member State
+110,290,380,IT,ITA,,,Italy,0,43.76610159,11.68396919,,,,,UN Member State
+111,291,388,JM,JAM,,,Jamaica,0,18.15206196,-77.31137184,,,,,UN Member State
+112,292,392,JP,JPN,,,Japan,0,37.63209801,138.0812256,,,,,UN Member State
+113,293,832,JE,JEY,,,Jersey,0,,,,,,,?
+114,294,400,JO,JOR,,,Jordan,0,31.25223934,36.78497101,,,,,UN Member State
+115,295,398,KZ,KAZ,,,Kazakhstan,0,48.16011678,67.30440515,,,,,UN Member State
+116,296,404,KE,KEN,,,Kenya,0,0.529620946,37.85784174,,,,,UN Member State
+117,297,296,KI,KIR,,,Kiribati,0,1.844810739,-160.2677952,,,,,UN Member State
+118,298,408,KP,PRK,,,Korea (the Democratic People's Republic of),0,40.14251168,127.1828259,"Korea, Democratic People's Republic of",Democratic People's Republic of Korea,Democratic People's Republic of Korea,Democratic People's Republic of Korea,UN Member State
+119,299,410,KR,KOR,,,Korea (the Republic of),0,36.52377792,127.8821461,"Korea, Republic of",Republic of Korea,Republic of Korea,Republic of Korea,UN Member State
+120,300,414,KW,KWT,,,Kuwait,0,29.29832118,47.53304536,,,,,UN Member State
+121,301,417,KG,KGZ,,,Kyrgyzstan,0,41.46387775,74.55247592,,,,,UN Member State
+122,302,418,LA,LAO,,,Lao People's Democratic Republic (the),0,18.50518622,103.7662533,Lao People's Democratic Republic,Lao People's Democratic Republic,,Lao People's Democratic Republic,UN Member State
+123,303,428,LV,LVA,,,Latvia,0,56.85765774,24.92335393,,,,,UN Member State
+124,304,422,LB,LBN,,,Lebanon,0,33.91995955,35.88513386,,,,,UN Member State
+125,305,426,LS,LSO,,,Lesotho,0,-29.58448841,28.24105147,,,,,UN Member State
+126,306,430,LR,LBR,,,Liberia,0,6.445498409,-9.307443775,,,,,UN Member State
+127,307,434,LY,LBY,,,Libya,0,27.04420762,18.02212777,,,,,UN Member State
+128,308,438,LI,LIE,,,Liechtenstein,0,47.16457362,9.558885464,,,,,UN Member State
+129,309,440,LT,LTU,,,Lithuania,0,55.3344892,23.90739502,,,,,UN Member State
+130,310,442,LU,LUX,,,Luxembourg,0,49.77027091,6.08637699,,,,,UN Member State
+131,311,446,MO,MAC,,,Macao,0,22.1985265,113.5450075,,,China - Macau (Special Administrative Region),"China, Macao Special Administrative Region",?
+132,312,807,MK,MKD,,,Macedonia (the former Yugoslav Republic of),0,41.59654823,21.69480535,"Macedonia, The Former Yugoslav Republic of",The former Yugoslav Republic of Macedonia,The former Yugoslav Republic of Macedonia,The former Yugoslav Republic of Macedonia,UN Member State
+133,313,450,MG,MDG,,,Madagascar,0,-19.37969027,46.70406219,,,,,UN Member State
+134,314,454,MW,MWI,,,Malawi,0,-13.21991287,34.31171876,,,,,UN Member State
+135,315,458,MY,MYS,,,Malaysia,0,2.745185714,140.4915783,,,,,UN Member State
+136,316,462,MV,MDV,,,Maldives,0,5.068606213,73.32614511,,,,,?
+137,317,466,ML,MLI,,,Mali,0,17.34640627,-3.525051581,,,,,UN Member State
+138,318,470,MT,MLT,,,Malta,0,35.90417953,14.42365795,,,,,UN Member State
+139,319,584,MH,MHL,,,Marshall Islands (the),0,9.499091883,169.0954645,Marshall Islands,Marshall Islands,Marshall Islands,Marshall Islands,UN Member State
+140,320,474,MQ,MTQ,,,Martinique,0,14.65403719,-61.02842534,,Martinique (FR),Martinique (France),,Territory
+141,321,478,MR,MRT,,,Mauritania,0,20.25780429,-10.33010275,,,,,UN Member State
+142,322,480,MU,MUS,,,Mauritius,0,-20.27530781,57.56676664,,,,,UN Member State
+143,323,175,YT,MYT,,,Mayotte,0,-12.81970382,45.13516865,,Mayotte (FR),Mayotte (France),,Territory
+144,324,484,MX,MEX,,,Mexico,0,23.93832004,-102.5023164,,,,,UN Member State
+145,325,583,FM,FSM,,,Micronesia (Federated States of),0,6.879864281,158.2381178,"Micronesia, Federated States of",,,,UN Member State
+146,326,498,MD,MDA,,,Moldova (the Republic of),0,47.19293174,28.47499987,"Moldova, Republic of","Moldova, Republic of",Moldova,Republic of Moldova,UN Member State
+147,327,492,MC,MCO,,,Monaco,0,43.74830756,7.410882167,,,,,UN Member State
+148,328,496,MN,MNG,,,Mongolia,0,46.83576732,103.0813238,,,,,UN Member State
+149,329,499,ME,MNE,,,Montenegro,0,42.78905871,19.26989732,,,,,UN Member State
+150,330,500,MS,MSR,,,Montserrat,0,16.73536624,-62.18693595,,Montserrat (UK),,,Non-Self-Governing Territory
+151,331,504,MA,MAR,,,Morocco,0,31.8836769,-6.317283613,,,,,UN Member State
+152,332,508,MZ,MOZ,,,Mozambique,0,-17.2617763,35.55202528,,,,,UN Member State
+153,333,104,MM,MMR,,,Myanmar,0,21.17952353,96.50232755,,,,,UN Member State
+154,334,516,NA,NAM,,,Namibia,0,-22.13362728,17.21558466,,,,,UN Member State
+155,335,520,NR,NRU,,,Nauru,0,-0.528781574,166.9232132,,,,,UN Member State
+156,336,524,NP,NPL,,,Nepal,0,28.25396507,83.9316657,,,,,UN Member State
+157,337,528,NL,NLD,,,Netherlands (the),0,52.26998137,5.675062933,Netherlands,,,,UN Member State
+158,338,,,,AN,ANT,Netherlands Antilles,0,15.49421103,-67.12509177,,Netherlands Antilles (NL),Netherlands Antilles (The Netherlands),,Territory
+159,339,540,NC,NCL,,,New Caledonia,0,-21.33942425,165.2996228,,New Caledonia (FR),New Caledonia (France),,Non-Self-Governing Territory
+160,340,554,NZ,NZL,,,New Zealand,0,-56.5161571,161.1190313,,,,,UN Member State
+161,341,558,NI,NIC,,,Nicaragua,0,12.83712778,-85.03655572,,,,,UN Member State
+162,342,562,NE,NER,,,Niger (the),0,17.42463558,9.397470038,Niger,Niger,Niger,Niger,UN Member State
+163,343,566,NG,NGA,,,Nigeria,0,9.590667555,8.10605344,,,,,UN Member State
+164,344,570,NU,NIU,,,Niue,0,-19.05213426,-169.8688481,,Niue (NZ),Niue (New Zealand),,Territory
+165,345,574,NF,NFK,,,Norfolk Island,0,-29.0376577,167.952597,,Norfolk Island (AU),Norfolk Island (Australia),,Territory
+166,347,578,NO,NOR,,,Norway,0,64.41197955,14.06269622,,,,,UN Member State
+167,348,512,OM,OMN,,,Oman,0,20.53707855,56.1036955,,,,,UN Member State
+168,349,586,PK,PAK,,,Pakistan,0,29.35468377,68.78655545,,,,,UN Member State
+169,350,585,PW,PLW,,,Palau,0,7.514890523,134.5751097,,,,,UN Member State
+170,351,275,PS,PSE,,,"Palestine, State of",0,31.99084142,35.30744047,occupied Palestinian territory,occupied Palestinian territory,occupied Palestinian territory,State of Palestine,Occupied Territory
+171,352,591,PA,PAN,,,Panama,0,8.518057314,-80.07104511,,,,,UN Member State
+172,353,598,PG,PNG,,,Papua New Guinea,0,-6.834760878,143.0464597,,,,,UN Member State
+173,354,600,PY,PRY,,,Paraguay,0,-23.23840821,-58.39126243,,,,,UN Member State
+174,355,604,PE,PER,,,Peru,0,-9.167216491,-74.37537796,,,,,UN Member State
+175,356,608,PH,PHL,,,Philippines (the),0,-0.736653675,127.2358509,Philippines,Philippines,Philippines,Philippines,UN Member State
+176,357,612,PN,PCN,,,Pitcairn,0,-24.2051566,-127.9093208,,Pitcairn Islands (UK),Pitcairn Islands,,Non-Self-Governing Territory
+177,358,616,PL,POL,,,Poland,0,52.12847492,19.40086,,,,,UN Member State
+178,359,620,PT,PRT,,,Portugal,0,39.23901506,-30.21832194,,,,,UN Member State
+179,360,630,PR,PRI,,,Puerto Rico,0,18.22412124,-66.47814528,,Puerto Rico (US),Puerto Rico (The United States of America),,Territory
+180,361,634,QA,QAT,,,Qatar,0,25.29089005,51.1841661,,,,,UN Member State
+181,362,638,RE,REU,,,Réunion,0,-21.12280909,55.55123933,,Réunion (FR),Réunion (France),,Territory
+182,363,642,RO,ROU,,,Romania,0,45.84314501,24.96613666,,,,,UN Member State
+183,364,643,RU,RUS,,,Russian Federation (the),0,61.97564081,96.67837519,Russian Federation,Russian Federation,Russian Federation,Russian Federation,UN Member State
+184,365,646,RW,RWA,,,Rwanda,0,-1.991722808,29.92068123,,,,,UN Member State
+185,366,652,BL,BLM,,,Saint Barthélemy,0,,,,,Saint Barthélemy (France),,?
+186,367,654,SH,SHN,,,"Saint Helena, Ascension and Tristan da Cunha",0,,,,,Saint Helena,Saint Helena,?
+187,368,659,KN,KNA,,,Saint Kitts and Nevis,0,17.32619066,-62.7533967,,,,,UN Member State
+188,369,662,LC,LCA,,,Saint Lucia,0,13.90391475,-60.96175259,,,,,UN Member State
+189,370,663,MF,MAF,,,Saint Martin (French part),0,,,,,Saint Martin (France),,?
+190,371,666,PM,SPM,,,Saint Pierre and Miquelon,0,,,,,Saint Pierre and Miquelon (France),,?
+191,372,670,VC,VCT,,,Saint Vincent and the Grenadines,0,13.25481082,-61.19376585,,,,,UN Member State
+192,373,882,WS,WSM,,,Samoa,0,-13.16992041,-173.5139768,,,,,UN Member State
+193,374,674,SM,SMR,,,San Marino,0,43.94362477,12.45862763,,,,,UN Member State
+194,375,678,ST,STP,,,São Tomé and Príncipe,0,0.227069777,6.614376446,,,,,UN Member State
+195,376,682,SA,SAU,,,Saudi Arabia,0,24.12628999,44.54637538,,,,,UN Member State
+196,377,686,SN,SEN,,,Senegal,0,14.35710542,-14.4780169,,,,,UN Member State
+197,378,688,RS,SRB,,,Serbia,0,44.03017332,20.80259395,,,,,UN Member State
+198,379,690,SC,SYC,,,Seychelles,0,-4.651257344,55.46250801,,,,,UN Member State
+199,380,694,SL,SLE,,,Sierra Leone,0,8.571898577,-11.77850059,,,,,UN Member State
+200,381,702,SG,SGP,,,Singapore,0,1.344965221,103.8094495,,,,,UN Member State
+201,382,534,SX,SXM,,,Sint Maarten (Dutch part),0,,,,,Sint Maarten (The Netherlands),,?
+202,383,703,SK,SVK,,,Slovakia,0,48.70609262,19.49110883,,,,,UN Member State
+203,384,705,SI,SVN,,,Slovenia,0,46.123589,14.82836958,,,,,UN Member State
+204,385,90,SB,SLB,,,Solomon Islands,0,-8.823576119,159.6577946,,,,,UN Member State
+205,386,706,SO,SOM,,,Somalia,0,6.070298569,45.86808802,,,,,UN Member State
+206,387,710,ZA,ZAF,,,South Africa,0,-28.99235649,25.09025016,,,,,UN Member State
+207,388,239,GS,SGS,,,South Georgia and the South Sandwich Islands,0,,,,South Georgia and the South Sandwich Islands (UK),,,Territory
+208,389,724,ES,ESP,,,Spain,0,40.3097875,-3.578125378,,,,,UN Member State
+209,390,144,LK,LKA,,,Sri Lanka,0,7.617249894,80.70787736,,,,,UN Member State
+210,391,728,SS,SSD,,,South Sudan,0,7.295889595,30.30870192,,,,,UN Member State
+211,392,729,SD,SDN,,,Sudan (the),0,16.04892872,30.00339118,Sudan,Sudan,Sudan,Sudan,UN Member State
+212,393,740,SR,SUR,,,Suriname,0,4.125518847,-55.91480138,,,,,UN Member State
+213,394,744,SJ,SJM,,,Svalbard and Jan Mayen,0,77.62362195,6.012261852,,Svalbard and Jan Mayen Islands (NO),Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,Territory
+214,395,748,SZ,SWZ,,,Swaziland,0,-26.56643647,31.50113832,,,,,UN Member State
+215,396,752,SE,SWE,,,Sweden,0,62.88018421,16.72425629,,,,,UN Member State
+216,397,756,CH,CHE,,,Switzerland,0,46.80615952,8.243637777,,,,,UN Member State
+217,398,760,SY,SYR,,,Syrian Arab Republic,0,35.01105189,38.51123805,,,,,UN Member State
+218,399,158,TW,TWN,,,Taiwan (Province of China),0,23.74652012,120.9621301,"Taiwan, Province of China",,China - Taiwan Province,,?
+219,400,762,TJ,TJK,,,Tajikistan,0,38.52699814,71.04232577,,,,,UN Member State
+220,401,834,TZ,TZA,,,"Tanzania, United Republic of",0,-6.273241244,34.79620168,,United Republic of Tanzania,United Republic of Tanzania,United Republic of Tanzania,UN Member State
+221,402,764,TH,THA,,,Thailand,0,15.15949511,101.020107,,,,,UN Member State
+222,403,626,TL,TLS,,,Timor-Leste,0,-8.767718612,126.0420452,,,,,UN Member State
+223,404,768,TG,TGO,,,Togo,0,8.541637601,0.97409513,,,,,UN Member State
+224,405,772,TK,TKL,,,Tokelau,0,-9.195175351,-171.8526597,,Tokelau (NZ),,,Non-Self-Governing Territory
+225,406,776,TO,TON,,,Tonga,0,-22.92273894,-176.0448464,,,,,UN Member State
+226,407,780,TT,TTO,,,Trinidad and Tobago,0,10.40535665,-61.29228487,,,,,UN Member State
+227,408,788,TN,TUN,,,Tunisia,0,34.10810736,9.557630913,,,,,UN Member State
+228,409,792,TR,TUR,,,Turkey,0,38.91218946,35.69849765,,,,,UN Member State
+229,410,795,TM,TKM,,,Turkmenistan,0,39.12455662,59.38935348,,,,,UN Member State
+230,411,796,TC,TCA,,,Turks and Caicos Islands (the),0,21.81744592,-71.77770318,Turks and Caicos Islands,Turks and Caicos Islands (UK),Turks and Caicos Islands,Turks and Caicos Islands,Non-Self-Governing Territory
+231,412,798,TV,TUV,,,Tuvalu,0,-10.46069351,181.0881855,,,,,UN Member State
+232,413,800,UG,UGA,,,Uganda,0,1.280667326,32.38662225,,,,,UN Member State
+233,414,804,UA,UKR,,,Ukraine,0,49.01900507,31.37809941,,,,,UN Member State
+234,415,784,AE,ARE,,,United Arab Emirates (the),0,23.90525867,54.35072869,United Arab Emirates,United Arab Emirates,United Arab Emirates,United Arab Emirates,UN Member State
+235,416,826,GB,GBR,,,United Kingdom of Great Britain and Northern Ireland (the),0,53.75504855,-2.103843405,United Kingdom,U.K. of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,UN Member State
+236,417,840,US,USA,,,United States of America (the),0,45.73643438,-112.404207,United States,United States of America,United States of America,United States of America,UN Member State
+237,418,581,UM,UMI,,,United States Minor Outlying Islands (the),0,,,United States Minor Outlying Islands,,,,?
+238,419,858,UY,URY,,,Uruguay,0,-32.80198719,-56.01417232,,,,,UN Member State
+239,420,860,UZ,UZB,,,Uzbekistan,0,41.74950759,63.17455249,,,,,UN Member State
+240,421,548,VU,VUT,,,Vanuatu,0,-21.04390394,171.2797047,,,,,UN Member State
+241,422,862,VE,VEN,,,Venezuela (Bolivarian Republic of),0,7.115201972,-66.18367077,"Venezuela, Bolivarian Republic of",Venezuela,,,UN Member State
+242,423,704,VN,VNM,,,Viet Nam,0,16.64893259,106.3103686,,,,,UN Member State
+243,424,92,VG,VGB,,,Virgin Islands (British),0,18.30332154,-65.11493198,"Virgin Islands, British",British Virgin Islands (UK),British Virgin Islands,British Virgin Islands,Non-Self-Governing Territory
+244,426,876,WF,WLF,,,Wallis and Futuna,0,,,,,Wallis and Futuna (France),Wallis and Futuna Islands,?
+245,427,732,EH,ESH,,,Western Sahara,0,24.66295331,-13.13425705,,,,,Non-Self-Governing Territory
+246,428,887,YE,YEM,,,Yemen,0,15.96506363,47.50305348,,,,,UN Member State
+247,429,894,ZM,ZMB,,,Zambia,0,-13.45369192,27.80039565,,,,,UN Member State
+248,430,716,ZW,ZWE,,,Zimbabwe,0,-19.00126774,29.86951021,,,,,UN Member State
+249,,,,,,,Azores Islands (Portugal),,,,,Azores Islands (PT),,,Territory
+250,,,,,,,Madeira (Portugal),,,,,Madeira Islands (PT),,,Territory
+251,,,,,,,Canary Islands (Spain),,,,,,,,?
+252,,,,,,,Channel Islands,,,,,,,,?
+253,,,,,,,Easter Island (Chile),,,,,,,,?
+254,,,,,,,Galapagos Islands (Ecuador),,,,,,,,?
+255,346,580,MP,MNP,,,Northern Mariana Islands (the),0,25.56053736,152.1251419,Northern Mariana Islands,Northern Mariana Islands (US),Northern Mariana Islands (The United States of America),Northern Mariana Islands,Territory
+256,,680,,,,,Sark,,,,,,,,?
+257,,,,,,,Glorioso Islands (FR),,,,,,,,Territory
+258,,,,,,,Guantanamo (US),,,,,,,,Territory
+259,,,,,,,Jammu and Kashmir,,,,,,,,Sovereignty unsettled
+260,,,,,,,Jarvis Island (US),,,,,,,,Territory
+261,,,,,,,Kuril islands,,,,,,,,Sovereignty unsettled
+262,,,,,,,Midway Island (US),,,,,,,,Territory
+263,,,,,,,Paracel Islands,,,,,,,,Sovereignty unsettled
+264,,,,,,,Spratly Islands,,,,,,,,Sovereignty unsettled
+265,425,850,VI,VIR,,,Virgin Islands (U.S.),0,17.39137826,-64.67699419,"Virgin Islands, U.S.",United States Virgin Islands (US),United States Virgin Islands,United States Virgin Islands,?
