@@ -34,7 +34,7 @@
                 "unterm": null
             }, 
             "m49": "748", 
-            "regex": "eswatini", 
+            "regex": "eswatini|swaziland", 
             "region": {
                 "code": "2", 
                 "label": {
