@@ -2,8 +2,9 @@ source "https://rubygems.org"
 ruby '2.4.4'
 
 # don't install newer than 1.9.18
+# fixed in 1.9.22+ as of feb 2018.
 # @see https://github.com/ffi/ffi/issues/608
-gem 'ffi', '1.9.18'
+gem 'ffi', '>= 1.9.24'
 
 # We're publishing to GitHub Pages. The lockfile should match the version found
 # at the official GitHub Pages dependencies.
