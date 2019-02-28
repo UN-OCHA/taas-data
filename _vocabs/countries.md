@@ -2,7 +2,7 @@
 title: Countries & Territories
 display-title: Countries & Territories (Beta)
 status: JSON available
-json-url: http://vocabulary.unocha.org/json/beta-v1/countries.json
+json-url: http://vocabulary.unocha.org/json/beta-v3/countries.json
 gss-url: https://docs.google.com/spreadsheets/d/1NjSI2LaS3SqbgYc0HdD8oIb7lofGtiHgoKKATCpwVdY/edit#gid=1088874596
 managed-by: OCHA Digital Services
 ---
