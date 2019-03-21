@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "autoprefixer": "^9.0.1",
-    "browser-sync": "^2.24.6",
+    "browser-sync": "^2.26.3",
     "browserslist": "^4.5.2",
     "caniuse-lite": "^1.0.30000951",
     "chalk": "^2.4.1",
@@ -27,9 +27,9 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-task-listing": "^1.1.0",
     "gulp-uglify": "^3.0.0",
-    "lodash": ">=4.17.11",
-    "jshint": "^2.9.5",
+    "jshint": "^2.10.2",
     "jshint-stylish": "^2.2.1",
+    "lodash": ">=4.17.11",
     "uncss": "^0.16.2"
   },
   "engines": {
