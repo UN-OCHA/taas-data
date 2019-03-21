@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   ffi (>= 1.9.24)
   github-pages
+  nokogiri (>= 1.8.5)
   tzinfo-data
 
 RUBY VERSION
