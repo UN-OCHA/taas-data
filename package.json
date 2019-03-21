@@ -8,7 +8,8 @@
   "devDependencies": {
     "autoprefixer": "^9.0.1",
     "browser-sync": "^2.24.6",
-    "browserslist": "^4.0.1",
+    "browserslist": "^4.5.2",
+    "caniuse-lite": "^1.0.30000951",
     "chalk": "^2.4.1",
     "child_process": "^1.0.2",
     "cssnano": "^4.0.3",
