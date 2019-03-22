@@ -8,7 +8,7 @@
 export NODE_ENV='production'
 
 # run server in background so we can complete UnCSS task during `gulp deploy`
-gulp dev:bs > /dev/null &
+gulp bs > /dev/null &
 
 # build assets
 gulp deploy
