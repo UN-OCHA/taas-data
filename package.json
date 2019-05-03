@@ -8,7 +8,7 @@
   "devDependencies": {
     "autoprefixer": "^9.0.1",
     "braces": "^2.3.2",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.5",
     "browserslist": "^4.5.2",
     "caniuse-lite": "^1.0.30000951",
     "chalk": "^2.4.1",
@@ -24,7 +24,7 @@
     "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^7.0.1",
     "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
     "jshint": "^2.10.2",
