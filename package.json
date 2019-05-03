@@ -30,11 +30,12 @@
     "jshint": "^2.10.2",
     "jshint-stylish": "^2.2.1",
     "lodash": ">=4.17.11",
+    "tar": ">=4.4.2",
     "uncss": "^0.16.2"
   },
   "engines": {
     "node": "8.11.3",
-    "npm": "6.2.0"
+    "npm": "6.4.1"
   },
   "scripts": {
     "postinstall": "git update-index --skip-worktree _config.dev.yml",
