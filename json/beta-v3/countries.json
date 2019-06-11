@@ -12741,7 +12741,7 @@
             "label": {
                 "arabic-short": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627", 
                 "chinese-short": "\u59d4\u5185\u745e\u62c9(\u73bb\u5229\u74e6\u5c14\u5171\u548c\u56fd)", 
-                "default": "Venezuela\u00a0(Bolivarian Republic of)", 
+                "default": "Venezuela (Bolivarian Republic of)", 
                 "english-short": "Venezuela", 
                 "french-short": "Venezuela (R\u00e9publique bolivarienne du)", 
                 "fts": "Venezuela, Bolivarian Republic of", 

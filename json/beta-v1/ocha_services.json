@@ -1,0 +1,298 @@
+{
+    "data": [
+        {
+            "acronym": null, 
+            "id": "1", 
+            "label": "Agenda for Humanity", 
+            "url": "http://www.agendaforhumanity.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "2", 
+            "label": "Centre for Humanitarian Data", 
+            "url": "https://centre.humdata.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "3", 
+            "label": "Central Emergency Response Fund (CERF)", 
+            "url": "https://cerf.un.org/"
+        }, 
+        {
+            "acronym": "CBPF", 
+            "id": "4", 
+            "label": "Country-based Pooled Funds", 
+            "url": "https://www.unocha.org/our-work/humanitarian-financing/country-based-pooled-funds-cbpfs"
+        }, 
+        {
+            "acronym": null, 
+            "id": "5", 
+            "label": "Country-based Pooled Funds: Business Intelligence / Data Analytics", 
+            "url": "https://gms.unocha.org/bi"
+        }, 
+        {
+            "acronym": "GMS", 
+            "id": "6", 
+            "label": "Country-based Pooled Funds: GMS (Grants Management System) Core Application", 
+            "url": "https://gms.unocha.org"
+        }, 
+        {
+            "acronym": null, 
+            "id": "7", 
+            "label": "DEEP", 
+            "url": "http://www.thedeep.io/login/"
+        }, 
+        {
+            "acronym": "EEC", 
+            "id": "8", 
+            "label": "Environmental Emergencies Centre", 
+            "url": "http://www.eecentre.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "9", 
+            "label": "Four Famines crisis microsite", 
+            "url": "https://interactive.unocha.org/emergency/2017_famine/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "10", 
+            "label": "Global Humanitarian Overview", 
+            "url": "https://interactive.unocha.org/publication/globalhumanitarianoverview/"
+        }, 
+        {
+            "acronym": "HDX", 
+            "id": "11", 
+            "label": "Humanitarian Data Exchange", 
+            "url": "https://data.humdata.org/"
+        }, 
+        {
+            "acronym": "FTS", 
+            "id": "12", 
+            "label": "Humanitarian Programme Cycle: Financial Tracking Service", 
+            "url": "https://fts.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "13", 
+            "label": "Humanitarian Programme Cycle: Indicator Registry", 
+            "url": "https://ir.hpc.tools/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "14", 
+            "label": "Humanitarian Programme Cycle: Projects", 
+            "url": "https://projects.hpc.tools/"
+        }, 
+        {
+            "acronym": "RPM", 
+            "id": "15", 
+            "label": "Humanitarian Programme Cycle: Response Planning Module", 
+            "url": "https://plan.hpc.tools/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "16", 
+            "label": "Humanitarian Atlas", 
+            "url": "http://humanitarianatlas.org"
+        }, 
+        {
+            "acronym": null, 
+            "id": "17", 
+            "label": "Humanitarian ICT Forum 2017", 
+            "url": "http://hictf.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "18", 
+            "label": "Humanitarian ID", 
+            "url": "https://humanitarian.id/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "19", 
+            "label": "Humanitarian InSight", 
+            "url": "https://hum-insight.info/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "20", 
+            "label": "Humanitarian Needs Overview Syria 2018", 
+            "url": "http://hno-syria.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "21", 
+            "label": "Humanitarian Programme Cycle Yemen", 
+            "url": "https://ochayemen.org/hpc/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "22", 
+            "label": "HumanitarianResponse.info", 
+            "url": "https://www.humanitarianresponse.info"
+        }, 
+        {
+            "acronym": "HXL", 
+            "id": "23", 
+            "label": "Humanitarian Exchange Language", 
+            "url": "http://hxlstandard.org/"
+        }, 
+        {
+            "acronym": "IASC", 
+            "id": "24", 
+            "label": "Inter-Agency Standing Committee", 
+            "url": "https://interagencystandingcommittee.org/"
+        }, 
+        {
+            "acronym": "GAM", 
+            "id": "25", 
+            "label": "IASC Gender with Age Marker", 
+            "url": "https://iascgenderwithagemarker.com/"
+        }, 
+        {
+            "acronym": "INSARAG", 
+            "id": "26", 
+            "label": "International Search and Rescue Advisory Group", 
+            "url": "https://www.insarag.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "27", 
+            "label": "KoBoToolbox", 
+            "url": "https://www.kobotoolbox.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "28", 
+            "label": "OCHA Donor Support Group", 
+            "url": "https://odsg.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "29", 
+            "label": "Protection of Civilians Aide-Memoire", 
+            "url": "https://poc-aide-memoire.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "30", 
+            "label": "Redhum", 
+            "url": "http://www.redhum.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "31", 
+            "label": "ReliefWeb", 
+            "url": "http://reliefweb.int/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "32", 
+            "label": "Rohingya Crisis microsite", 
+            "url": "http://interactive.unocha.org/emergency/2017_rohingya/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "33", 
+            "label": "SARA - Preparedness Tracker (by ROLAC)", 
+            "url": "http://sara.un-ocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "34", 
+            "label": "Saving Lives Together", 
+            "url": "https://savinglivestogether.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "35", 
+            "label": "South Sudan crisis microsite", 
+            "url": "http://interactive.unocha.org/emergency/2017_south_sudan/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "36", 
+            "label": "Staff Welfare", 
+            "url": "http://www.healthyfieldworker.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "37", 
+            "label": "Syria Crisis Cross-Border Operations Dashboard", 
+            "url": "https://response.ochasyria.org"
+        }, 
+        {
+            "acronym": null, 
+            "id": "38", 
+            "label": "Syria Hub", 
+            "url": "http://www.ocha-sy.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "39", 
+            "label": "Taxonomy Service", 
+            "url": "http://vocabulary.unocha.org"
+        }, 
+        {
+            "acronym": null, 
+            "id": "40", 
+            "label": "UN Disaster Assessment and Coordination (UNDAC) 25 years microsite", 
+            "url": "http://readytogo.undac.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "41", 
+            "label": "UNOCHA Occupied Palestinian Territories (oPt)", 
+            "url": "https://www.ochaopt.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "42", 
+            "label": "UNOCHA oPt 3W", 
+            "url": "http://data.ochaopt.org/dbs/4ws/login.aspx"
+        }, 
+        {
+            "acronym": null, 
+            "id": "43", 
+            "label": "UNOCHA oPt Access Coordination", 
+            "url": "http://www.accesscoordination.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "44", 
+            "label": "unocha.org", 
+            "url": "https://www.unocha.org/"
+        }, 
+        {
+            "acronym": "VOSOCC", 
+            "id": "45", 
+            "label": "Virtual On-Site Operations Coordination Centre", 
+            "url": "https://vosocc.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "46", 
+            "label": "Weekly Humanitarian Snapshot West and Central Africa", 
+            "url": "https://weekly-wca.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "47", 
+            "label": "World Humanitarian Data and Trends 2017", 
+            "url": "http://interactive.unocha.org/publication/datatrends2017/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "48", 
+            "label": "World Humanitarian Data and Trends 2018", 
+            "url": "http://interactive.unocha.org/publication/datatrends2018/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "49", 
+            "label": "World Humanitarian Day", 
+            "url": "https://www.worldhumanitarianday.org/en"
+        }
+    ]
+}

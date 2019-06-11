@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
-            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2386", 
+            "@context": "https://vocabulary.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "https://vocabulary.unocha.org/json/beta-v1/functional_roles/2386", 
             "id": "2386", 
             "label": {
                 "en": "HCT Member", 
