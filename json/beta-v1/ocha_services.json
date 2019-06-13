@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "acronym": "FTS", 
+            "id": "1", 
+            "label": "Financial Tracking Service", 
+            "url": "https://fts.unocha.org/"
+        }, 
+        {
+            "acronym": "HDX", 
+            "id": "2", 
+            "label": "Humanitarian Data Exchange", 
+            "url": "https://data.humdata.org/"
+        }, 
+        {
+            "acronym": "HID", 
+            "id": "3", 
+            "label": "Humanitarian ID", 
+            "url": "https://humanitarian.id/"
+        }, 
+        {
+            "acronym": "HR.info", 
+            "id": "4", 
+            "label": "Humanitarian Response", 
+            "url": "https://www.humanitarianresponse.info"
+        }, 
+        {
+            "acronym": "IASC", 
+            "id": "5", 
+            "label": "Inter-Agency Standing Committee", 
+            "url": "https://interagencystandingcommittee.org/"
+        }, 
+        {
+            "acronym": "unocha.org", 
+            "id": "6", 
+            "label": "OCHA website", 
+            "url": "https://www.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "7", 
+            "label": "ReliefWeb", 
+            "url": "http://reliefweb.int/"
+        }, 
+        {
+            "acronym": "VOSOCC", 
+            "id": "8", 
+            "label": "Virtual OSOCC", 
+            "url": "https://vosocc.unocha.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "9", 
+            "label": "Humanitarian InSight", 
+            "url": "https://hum-insight.info/"
+        }, 
+        {
+            "acronym": "CERF", 
+            "id": "10", 
+            "label": "Central Emergency Response Fund", 
+            "url": "https://cerf.un.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "11", 
+            "label": "Agenda for Humanity", 
+            "url": "http://www.agendaforhumanity.org/"
+        }, 
+        {
+            "acronym": null, 
+            "id": "12", 
+            "label": "Protection of Civilians Aide-Memoire", 
+            "url": "https://poc-aide-memoire.unocha.org/"
+        }
+    ]
+}
