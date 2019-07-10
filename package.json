@@ -1,12 +1,13 @@
 {
-  "name": "unocha-tass",
-  "version": "2.1.1",
+  "name": "unocha-taas",
+  "version": "2.1.2",
   "description": "TAAS",
   "author": "UNOCHA",
   "repository": "git@github.com:UN-OCHA/taas-data.git",
   "license": "Apache-2.0",
   "devDependencies": {
     "autoprefixer": "^9.0.1",
+    "axios": ">=0.18.1",
     "braces": "^2.3.2",
     "browser-sync": "^2.26.5",
     "browserslist": "^4.5.2",
