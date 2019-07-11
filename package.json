@@ -9,7 +9,7 @@
     "autoprefixer": "^9.0.1",
     "axios": ">=0.18.1",
     "braces": "^2.3.2",
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.26.7",
     "browserslist": "^4.5.2",
     "caniuse-lite": "^1.0.30000951",
     "chalk": "^2.4.1",
