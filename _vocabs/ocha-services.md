@@ -5,7 +5,7 @@ status: JSON available
 json-url: http://vocabulary.unocha.org/json/beta-v1/ocha_services.json
 gss-url: https://docs.google.com/spreadsheets/d/1DYclP1DfBN08vXoEQYK7J2Oo8MxllKTWjXBU-LHkeXE/edit#gid=856823080
 managed-by: OCHA Digital Services
-contact-email: verity@un.org
+contact-email: digitalservices@humanitarianresponse.info
 ---
 
 Key OCHA online services highlighted in the header of many OCHA sites.
