@@ -8,6 +8,6 @@ managed-by: OCHA Digital Services
 contact-email: verity@un.org
 ---
 
-When implementing the OCHA common design, these websites should be listed in the header navigation under "Other OCHA Services".
+Key OCHA online services highlighted in the header of many OCHA sites.
 
 The [full list of OCHA Digital Services](https://www.unocha.org/ocha-digital-services) is available from the corporate website.
