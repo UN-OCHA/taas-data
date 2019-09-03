@@ -1,6 +1,6 @@
 ---
-title: Website Navigation - OCHA Services Menu Items
-display-title: Website Navigation - OCHA Services Menu Items (BETA)
+title: OCHA Services Menu - Website Navigation
+display-title: OCHA Services Menu - Website Navigation (BETA)
 status: JSON available
 json-url: http://vocabulary.unocha.org/json/beta-v1/ocha_services.json
 gss-url: https://docs.google.com/spreadsheets/d/1DYclP1DfBN08vXoEQYK7J2Oo8MxllKTWjXBU-LHkeXE/edit#gid=856823080
