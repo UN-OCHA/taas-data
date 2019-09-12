@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
-            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/61979", 
+            "@context": "https://vocabulary.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "https://vocabulary.unocha.org/json/beta-v1/functional_roles/61979", 
             "id": "61979", 
             "label": {
                 "en": "Environmental Expert", 
