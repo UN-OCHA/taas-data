@@ -1,15 +1,15 @@
-HR.info ID,Preferred Term,Scope,Date Added (dd/mm/yyyy),Date updated (dd/mm/yyyy),RW API ID,RW Alt Term,Match type - RW term is:
-431,Academic / Research,"Includes universities, colleges, think tanks, private organizations focusing on research and analysis",16/03/2017,,270,Academic and Research Institution,Exact Match
-433,Donor,"Organizations responsible for donating money, goods or other in-kind contributions. ",16/03/2017,,,,
-434,Embassy,Includes embassies as a distinct category of government organisations - the official residence or offices of an ambassador.,16/03/2017,,271,Government,Broader
-435,Government,"Includes national and local government agencies, including development, emergency, civil protection, etc.  Embassies are a separate category.",16/03/2017,,271,Government,Broader
-437,International NGO,"Includes international organizations that operate independently from any government, including civil society.  UN and ICRC/IFRC are in separate categories.",16/03/2017,,274,Non-governmental Organization,Broader
-438,International Organization,"Includes intergovernmental organizations, funds and programmes.  UN and ICRC/IFRC are in separate categories.",16/03/2017,,272,International Organization,Broader
-439,Media,"Includes local, national and international print, TV, online and radio media agencies",16/03/2017,,273,Media,Exact Match
-440,Military,Includes National and International military and military-related organisations,16/03/2017,,,,
-441,National NGO,"Includes national and subnational organizations that operate independently from any government, including civil society.  Red Cross/Red Crescent Societies are in a separate category.",16/03/2017,,274,Non-governmental Organization,Broader
-443,Other,Includes all organizations that are not applicable to other organization types,16/03/2017,,275,Other,Broader
-444,Private sector,"Includes private sector organizations such as corporate charity arms or foundations, for-profit recruitment firms and consultancies",16/03/2017,,,,
-445,Red Cross / Red Crescent,"Includes IFRC, ICRC and national Red Cross/Crescent societies",16/03/2017,,276,Red Cross/Red Crescent Movement,Exact Match
-446,Religious,Includes faith-based organizations and organizations with affiliations to religious bodies,16/03/2017,,,,
-447,United Nations,"Includes all UN agencies, funds and programmes",16/03/2017,,272,International Organization,Broader
+HR.info ID,Preferred Term,Scope,Date Added (dd/mm/yyyy),Date updated (dd/mm/yyyy),RW API ID,RW Alt Term,Match type - RW term is:,Concatenation
+431,Academic / Research,"Includes universities, colleges, think tanks, private organizations focusing on research and analysis",16/03/2017,,270,Academic and Research Institution,Exact Match,431 - Academic / Research
+433,Donor,"Organizations responsible for donating money, goods or other in-kind contributions. ",16/03/2017,,,,,433 - Donor
+434,Embassy,Includes embassies as a distinct category of government organisations - the official residence or offices of an ambassador.,16/03/2017,,271,Government,Broader,434 - Embassy
+435,Government,"Includes national and local government agencies, including development, emergency, civil protection, etc.  Embassies are a separate category.",16/03/2017,,271,Government,Broader,435 - Government
+437,International NGO,"Includes international organizations that operate independently from any government, including civil society.  UN and ICRC/IFRC are in separate categories.",16/03/2017,,274,Non-governmental Organization,Broader,437 - International NGO
+438,International Organization,"Includes intergovernmental organizations, funds and programmes.  UN and ICRC/IFRC are in separate categories.",16/03/2017,,272,International Organization,Broader,438 - International Organization
+439,Media,"Includes local, national and international print, TV, online and radio media agencies",16/03/2017,,273,Media,Exact Match,439 - Media
+440,Military,Includes National and International military and military-related organisations,16/03/2017,,,,,440 - Military
+441,National NGO,"Includes national and subnational organizations that operate independently from any government, including civil society.  Red Cross/Red Crescent Societies are in a separate category.",16/03/2017,,274,Non-governmental Organization,Broader,441 - National NGO
+443,Other,Includes all organizations that are not applicable to other organization types,16/03/2017,,275,Other,Broader,443 - Other
+444,Private sector,"Includes private sector organizations such as corporate charity arms or foundations, for-profit recruitment firms and consultancies",16/03/2017,,,,,444 - Private sector
+445,Red Cross / Red Crescent,"Includes IFRC, ICRC and national Red Cross/Crescent societies",16/03/2017,,276,Red Cross/Red Crescent Movement,Exact Match,445 - Red Cross / Red Crescent
+446,Religious,Includes faith-based organizations and organizations with affiliations to religious bodies,16/03/2017,,,,,446 - Religious
+447,United Nations,"Includes all UN agencies, funds and programmes",16/03/2017,,272,International Organization,Broader,447 - United Nations
