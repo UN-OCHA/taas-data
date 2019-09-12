@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
-            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/56028", 
+            "@context": "https://vocabulary.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "https://vocabulary.unocha.org/json/beta-v1/functional_roles/56028", 
             "id": "56028", 
             "label": {
                 "en": "United Nations Country Team Member", 

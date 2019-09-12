@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "@context": "https://vocabularly.unocha.org/json/beta-v1/functional_roles.jsonld", 
-            "@id": "http://vocabulary.unocha.org/json/beta-v1/functional_roles/2380", 
+            "@context": "https://vocabulary.unocha.org/json/beta-v1/functional_roles.jsonld", 
+            "@id": "https://vocabulary.unocha.org/json/beta-v1/functional_roles/2380", 
             "id": "2380", 
             "label": {
                 "en": "Cluster Co-Lead", 

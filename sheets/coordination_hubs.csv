@@ -1,355 +1,355 @@
-HR.info ID,Preferred Term,Country / Operation,Operation,Location - Taxonomy Term,"Address (free text to include building name/number, street & Postcode)",Address - Locality (i.e. City),Address - Administrative area (i.e. State / Province),Country,Phones,Email,Organization,Type,Notes
-5407,Addis Ababa,Ethiopia,65 - Ethiopia,Addis Ababa,"ECA, 4th Foor, UNOCHA - Coordination Unit  60252",Addis Ababa,,71 - Ethiopia,"+251 91 250 2691
-",petit1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5408,Afar,Ethiopia,65 - Ethiopia,Afar,Semera  60252,Semera,,71 - Ethiopia,"+251 91 103 3035
-",mengistu1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5409,Amhara (Addis Based),Ethiopia,65 - Ethiopia,Addis Ababa,Addis Ababa  60252,Addis Ababa,,71 - Ethiopia,"+251 91 114 1917
-",hadgu1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5410,Gambella/ Beneshangul Gumuz,Ethiopia,65 - Ethiopia,Gambela,  ,,,71 - Ethiopia,"+251 47 551 0075
+HR.info ID,Preferred Term,Operation,Location - Taxonomy Term,"Address (free text to include building name/number, street & Postcode)",Address - Locality (i.e. City),Address - Administrative area (i.e. State / Province),Country,Generic Phone Number for site,Generic Email for site,Organization,Notes
+5407,Addis Ababa,65 - Ethiopia,Addis Ababa,"ECA, 4th Foor, UNOCHA - Coordination Unit  60252",Addis Ababa,,71 - Ethiopia,"+251 91 250 2691
+",petit1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5408,Afar,65 - Ethiopia,Afar,Semera  60252,Semera,,71 - Ethiopia,"+251 91 103 3035
+",mengistu1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5409,Amhara (Addis Based),65 - Ethiopia,Addis Ababa,Addis Ababa  60252,Addis Ababa,,71 - Ethiopia,"+251 91 114 1917
+",hadgu1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5410,Gambella/ Beneshangul Gumuz,65 - Ethiopia,Gambela,  ,,,71 - Ethiopia,"+251 47 551 0075
 , +251 47 551 0243
-",agid@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5411,Gode,Ethiopia,65 - Ethiopia,Somali,  ,Gode,,71 - Ethiopia,"+251 91 379 0451
-",chilundam@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5412,Jijiga,Ethiopia,65 - Ethiopia,Somali,  ,Jijiga,,71 - Ethiopia,"+251 25 774 0864
-",omerf@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5413,Kebridahar,Ethiopia,65 - Ethiopia,Korahe,  ,Kebridahar,,71 - Ethiopia,"+251 91 155 0047
-",jallohh@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5414,Oromia (Addis Based),Ethiopia,65 - Ethiopia,Addis Ababa,Addis Ababa  ,Addis Ababa,,71 - Ethiopia,"Mobile: 
+",agid@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5411,Gode,65 - Ethiopia,Somali,  ,Gode,,71 - Ethiopia,"+251 91 379 0451
+",chilundam@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5412,Jijiga,65 - Ethiopia,Somali,  ,Jijiga,,71 - Ethiopia,"+251 25 774 0864
+",omerf@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5413,Kebridahar,65 - Ethiopia,Korahe,  ,Kebridahar,,71 - Ethiopia,"+251 91 155 0047
+",jallohh@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5414,Oromia (Addis Based),65 - Ethiopia,Addis Ababa,Addis Ababa  ,Addis Ababa,,71 - Ethiopia,"Mobile: 
 +251 91 147 3875
-",tamirul@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-5415,SNNPR,Ethiopia,65 - Ethiopia,SNNPR,Hawassa  ,Hawassa,,71 - Ethiopia,"+251 91 113 9163
-",andargie@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7117,Baidoa,Somalie,68 - Somalia,Baydhaba,UNICEF Compund  0,Baidoa,Baidoa,205 - Somalia,"+252 699 770046
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7118,Bakool,Somalie,68 - Somalia,Bakool,Bakool  Bakool,Bakool,Bakool,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7119,Banadir,Somalie,68 - Somalia,Banadir,Banadir  0,Banadir,Banadir,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7120,Bay,Somalie,68 - Somalia,Bay,Bay  0,Bay,Bay,205 - Somalia,"+254 20 4002414
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7121,Bossaso,Somalie,68 - Somalia,Bossaso,UNHCR Compund  0,Bossaso,Bossaso,205 - Somalia,"+252 5 829346
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7122,Dollow,Somalie,68 - Somalia,Gedo,UNHCR Compund  0,Dollow,Dollow,205 - Somalia,"+252 61 6156533
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7123,Galgaduud,Somalie,68 - Somalia,Galgaduud,Galgaduud  0,Galgaduud,Galgaduud,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7124,Galkacyo,Somalie,68 - Somalia,Gaalkacyo,UNHCR Compund  0,Gaalkacyo,Gaalkacyo,205 - Somalia,"+252 90791808
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7125,Garowe,Somalie,68 - Somalia,Nugaal,Garowe UNCC  0,Garowe,Garowe,205 - Somalia,"+252 90793816
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7126,Gedo,Somalie,68 - Somalia,Gedo,Gedo  0,Gedo,Gedo,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7127,Hargeysa,Somalie,68 - Somalia,Hargeysa,UNCC  0,Hargeysa,Hargeysa,205 - Somalia,"+252 2 525504
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7128,Hiraan,Somalie,68 - Somalia,Hiraan,Hiraan  0,Hiraan,Hiraan,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7129,Lower Juba,Somalie,68 - Somalia,Lower Juba,Lower Juba  0,Lower Juba,Lower Juba,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7130,Lower Shabelle,Somalie,68 - Somalia,Lower Shabelle,Lower Shabelle  0,Lower Shabelle,Lower Shabelle,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7131,Middle Juba,Somalie,68 - Somalia,Middle Juba,Middle Juba  0,Middle Juba,Middle Juba,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7132,Middle Shabelle,Somalie,68 - Somalia,Middle Shabelle,Middle Shabelle  0,Middle Shabelle,Middle Shabelle,205 - Somalia,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7133,Mogadishu,Somalie,68 - Somalia,Banadir,UNCC  0,Mogadishu,Mogadishu,205 - Somalia,"+252 698 222223
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7134,Nairobi,"Kenya, Somalie",,,28832  200,Nairobi,,116 - Kenya,"+254 20 4002400
-",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-7135,South Mudug,Somalie,68 - Somalia,Mudug,South Mudug  0,South Mudug,South Mudug,205 - Somalia,"+254 20 4002400
-",ochasomalainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-9207,Cotabato Sub-Office,Philippines,84 - Philippines,,No. 080 Rufo Manara St. Rosary Heights 10 9600,Cotabato City,Mindanao,175 - Philippines,"+63 64 421 7935
-",muktar@un.org,,Office,
-9210,Manila,Philippines,84 - Philippines,,"30/F, Yuchengco Tower, RCBC Plaza Ayala Avenue 1226",Makati City,NCR,175 - Philippines,"+63 2 843 9553
-",ochaphilippines@un.org,,Office,
-9265,Bureau Régional pour l'Afrique de l'Ouest et du Centre,"Nigeria, Afrique de l'Ouest et du Centre, Mali, Guinea, Mauritania, Tchad, Togo, Sierra Leone, Senegal, Liberia, Guinea Bissau, Ghana, Gambia, Cameroon, Burkina Faso, Benin, Níger, Democratic Republic of the Congo, République centrafricaine, Ivory Coast",25 - West and Central Africa,Senegal,"Sacre-Coeur 3, villa 9364  16 922","Fann, Dakar",,196 - Senegal,"+221 33 869 85 00
-",ocharowca@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-16458,National Coordination,"Nigeria, Afrique de l'Ouest et du Centre",25 - West and Central Africa,Abuja Municipal,"No. 15 Mississippi Street Ministers Hill, Maitama ",Abuja,FCT,163 - Nigeria,,ochanigeria@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-16710,Dahuk,Iraq,2793 - Iraq,Dahuk,  ,,,106 - Iraq,,,,Coordination Hub,
-16711,Erbil,Iraq,2793 - Iraq,Erbil,  ,Erbil,,106 - Iraq,,,,Coordination Hub,
-16712,Al Sulaymaniyah,Iraq,2793 - Iraq,Al Sulaymaniyah,  ,Al Sulaymaniyah,,106 - Iraq,,,,Office,
-16761,United Nations Office for Coordination of Humanitarian Affairs,occupied Palestinian territory,73 - occupied Palestinian territory,occupied Palestinian territory,Saint George Street  ,Jersualem,,170 - occupied Palestinian territory,"Work: 
+",tamirul@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+5415,SNNPR,65 - Ethiopia,SNNPR,Hawassa  ,Hawassa,,71 - Ethiopia,"+251 91 113 9163
+",andargie@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7117,Baidoa,68 - Somalia,Baydhaba,UNICEF Compund  0,Baidoa,Baidoa,205 - Somalia,"+252 699 770046
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7118,Bakool,68 - Somalia,Bakool,Bakool  Bakool,Bakool,Bakool,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7119,Banadir,68 - Somalia,Banadir,Banadir  0,Banadir,Banadir,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7120,Bay,68 - Somalia,Bay,Bay  0,Bay,Bay,205 - Somalia,"+254 20 4002414
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7121,Bossaso,68 - Somalia,Bossaso,UNHCR Compund  0,Bossaso,Bossaso,205 - Somalia,"+252 5 829346
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7122,Dollow,68 - Somalia,Gedo,UNHCR Compund  0,Dollow,Dollow,205 - Somalia,"+252 61 6156533
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7123,Galgaduud,68 - Somalia,Galgaduud,Galgaduud  0,Galgaduud,Galgaduud,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7124,Galkacyo,68 - Somalia,Gaalkacyo,UNHCR Compund  0,Gaalkacyo,Gaalkacyo,205 - Somalia,"+252 90791808
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7125,Garowe,68 - Somalia,Nugaal,Garowe UNCC  0,Garowe,Garowe,205 - Somalia,"+252 90793816
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7126,Gedo,68 - Somalia,Gedo,Gedo  0,Gedo,Gedo,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7127,Hargeysa,68 - Somalia,Hargeysa,UNCC  0,Hargeysa,Hargeysa,205 - Somalia,"+252 2 525504
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7128,Hiraan,68 - Somalia,Hiraan,Hiraan  0,Hiraan,Hiraan,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7129,Lower Juba,68 - Somalia,Lower Juba,Lower Juba  0,Lower Juba,Lower Juba,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7130,Lower Shabelle,68 - Somalia,Lower Shabelle,Lower Shabelle  0,Lower Shabelle,Lower Shabelle,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7131,Middle Juba,68 - Somalia,Middle Juba,Middle Juba  0,Middle Juba,Middle Juba,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7132,Middle Shabelle,68 - Somalia,Middle Shabelle,Middle Shabelle  0,Middle Shabelle,Middle Shabelle,205 - Somalia,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7133,Mogadishu,68 - Somalia,Banadir,UNCC  0,Mogadishu,Mogadishu,205 - Somalia,"+252 698 222223
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+7134,Nairobi,61 - Eastern Africa,,28832  200,Nairobi,,116 - Kenya,"+254 20 4002400
+",ochasomaliainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,"25th April 2017 - Operation was listed as Kenya, Somalie, but was changed to 'Eastern Africa' to fit with the Operations Taxonomy at the time"
+7135,South Mudug,68 - Somalia,Mudug,South Mudug  0,South Mudug,South Mudug,205 - Somalia,"+254 20 4002400
+",ochasomalainfo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+9207,Cotabato Sub-Office,84 - Philippines,,No. 080 Rufo Manara St. Rosary Heights 10 9600,Cotabato City,Mindanao,175 - Philippines,"+63 64 421 7935
+",muktar@un.org,,
+9210,Manila,84 - Philippines,,"30/F, Yuchengco Tower, RCBC Plaza Ayala Avenue 1226",Makati City,NCR,175 - Philippines,"+63 2 843 9553
+",ochaphilippines@un.org,,
+9265,Bureau Régional pour l'Afrique de l'Ouest et du Centre,25 - West and Central Africa,Senegal,"Sacre-Coeur 3, villa 9364  16 922","Fann, Dakar",,196 - Senegal,"+221 33 869 85 00
+",ocharowca@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+16458,National Coordination,25 - West and Central Africa,Abuja Municipal,"No. 15 Mississippi Street Ministers Hill, Maitama ",Abuja,FCT,163 - Nigeria,,ochanigeria@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+16710,Dahuk,2793 - Iraq,Dahuk,  ,,,106 - Iraq,,,,
+16711,Erbil,2793 - Iraq,Erbil,  ,Erbil,,106 - Iraq,,,,
+16712,Al Sulaymaniyah,2793 - Iraq,Al Sulaymaniyah,  ,Al Sulaymaniyah,,106 - Iraq,,,,
+16761,United Nations Office for Coordination of Humanitarian Affairs,73 - occupied Palestinian territory,occupied Palestinian territory,Saint George Street  ,Jersualem,,170 - occupied Palestinian territory,"Work: 
 +972 2-582-9962
-",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-16859,Baghdad,Iraq,2793 - Iraq,Baghdad,  ,,,106 - Iraq,,,,Coordination Hub,
-17061,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Nablus,occupied Palestinian territory,73 - occupied Palestinian territory,occupied Palestinian territory,  ,Nablus,,170 - occupied Palestinian territory,"Work: 
+",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+16859,Baghdad,2793 - Iraq,Baghdad,  ,,,106 - Iraq,,,,
+17061,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Nablus,73 - occupied Palestinian territory,occupied Palestinian territory,  ,Nablus,,170 - occupied Palestinian territory,"Work: 
 +970 9 234 3606
 , Fax: 
 +970 9 234 3606
-",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-17062,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Ramallah,occupied Palestinian territory,73 - occupied Palestinian territory,occupied Palestinian territory,  ,Ramallah,,170 - occupied Palestinian territory,"Work: 
+",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17062,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Ramallah,73 - occupied Palestinian territory,occupied Palestinian territory,  ,Ramallah,,170 - occupied Palestinian territory,"Work: 
 +970 2 297 4834
 , Fax: 
 +970 2 297 4834
-",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-17063,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Hebron,occupied Palestinian territory,73 - occupied Palestinian territory,occupied Palestinian territory,  ,Hebron,,170 - occupied Palestinian territory,"Work: 
+",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17063,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Hebron,73 - occupied Palestinian territory,occupied Palestinian territory,  ,Hebron,,170 - occupied Palestinian territory,"Work: 
 +970 2 229 2114
 , Fax: 
 +970 2 229 2114
-",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-17064,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Gaza,occupied Palestinian territory,73 - occupied Palestinian territory,occupied Palestinian territory,  ,,,170 - occupied Palestinian territory,"Work: 
+",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17064,Sub office of United Nations Office for Coordination of Humanitarian Affairs (OCHA) - Gaza,73 - occupied Palestinian territory,occupied Palestinian territory,  ,,,170 - occupied Palestinian territory,"Work: 
 +970 8 286 0074
 , Fax: 
 +970 8 282 0966
-",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-17081,Kirkuk,Iraq,2793 - Iraq,Kirkuk,  ,Kirkuk,,106 - Iraq,,,,Coordination Hub,
-17891,Bambari,République centrafricaine,39 - République centrafricaine,Bambari,Ouaka  ,Bambari,,43 - Central African Republic,"+236 70 85 75 40
+",ochaopt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17081,Kirkuk,2793 - Iraq,Kirkuk,  ,Kirkuk,,106 - Iraq,,,,
+17891,Bambari,39 - République centrafricaine,Bambari,Ouaka  ,Bambari,,43 - Central African Republic,"+236 70 85 75 40
 , +236 72 25 11 66
-",mululuc@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-17893,Bangui,République centrafricaine,39 - République centrafricaine,Bangui,Bangui  ,Bangui,,43 - Central African Republic,"+236 70 46 46 64
-",yakara@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-17894,Bossangoa,République centrafricaine,39 - République centrafricaine,Bossangoa,  ,Bossangoa,,43 - Central African Republic,"+236 70 00 96 07
-",mboligassihe@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-17896,Bouar,République centrafricaine,39 - République centrafricaine,Bouar,  ,Bouar,,43 - Central African Republic,"+236 70 73 81 97
-",kroning@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-17897,Kaga-Bandoro,République centrafricaine,39 - République centrafricaine,Kaga-Bandoro,  ,,,43 - Central African Republic,"+236 70 00 96 25
-",simba@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-17898,Ndélé,République centrafricaine,39 - République centrafricaine,Ndélé,  ,Ndélé,,43 - Central African Republic,"+236 75 00 14 31
-",lukemba@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-17899,Paoua,République centrafricaine,39 - République centrafricaine,Paoua,  ,Paoua,,43 - Central African Republic,"+236 70 85 75 42
-",ajaruvwa@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21161,Beni,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Beni,"7, Rue Sivirwa, Quartier Résidentiel Commune de Bungulu ",Beni,,"52 - Congo, Democratic Republic of the","+243 992 906 658
+",mululuc@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17893,Bangui,39 - République centrafricaine,Bangui,Bangui  ,Bangui,,43 - Central African Republic,"+236 70 46 46 64
+",yakara@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17894,Bossangoa,39 - République centrafricaine,Bossangoa,  ,Bossangoa,,43 - Central African Republic,"+236 70 00 96 07
+",mboligassihe@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17896,Bouar,39 - République centrafricaine,Bouar,  ,Bouar,,43 - Central African Republic,"+236 70 73 81 97
+",kroning@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17897,Kaga-Bandoro,39 - République centrafricaine,Kaga-Bandoro,  ,,,43 - Central African Republic,"+236 70 00 96 25
+",simba@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17898,Ndélé,39 - République centrafricaine,Ndélé,  ,Ndélé,,43 - Central African Republic,"+236 75 00 14 31
+",lukemba@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+17899,Paoua,39 - République centrafricaine,Paoua,  ,Paoua,,43 - Central African Republic,"+236 70 85 75 42
+",ajaruvwa@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21161,Beni,40 - Democratic Republic of Congo,Beni,"7, Rue Sivirwa, Quartier Résidentiel Commune de Bungulu ",Beni,,"52 - Congo, Democratic Republic of the","+243 992 906 658
 , Work: 
 +882 16 6700 0353
-",arunaa@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21162,Bukavu,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Bukavu,"34/02, Avenue Lundula , Q. Muhumba Commune d’Ibanda ",Bukavu,,"52 - Congo, Democratic Republic of the","+243 970 003 766
+",arunaa@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21162,Bukavu,40 - Democratic Republic of Congo,Bukavu,"34/02, Avenue Lundula , Q. Muhumba Commune d’Ibanda ",Bukavu,,"52 - Congo, Democratic Republic of the","+243 970 003 766
 , +882 16 6703 9441
-",mehaule@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21163,Bunia,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Ituri,"Avenue de la Libération, Quartier Lumumba  ",Bunia,,"52 - Congo, Democratic Republic of the","+243 995 901 538
+",mehaule@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21163,Bunia,40 - Democratic Republic of Congo,Ituri,"Avenue de la Libération, Quartier Lumumba  ",Bunia,,"52 - Congo, Democratic Republic of the","+243 995 901 538
 , +882 16 6703 9022
-",giuliano@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21165,Goma,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Nord-Kivu,"6053, Avenue Kanyamuhanga Quartier le volcan P.O. Box. 14 ",Goma,,"52 - Congo, Democratic Republic of the","+243 971 015 444
+",giuliano@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21165,Goma,40 - Democratic Republic of Congo,Nord-Kivu,"6053, Avenue Kanyamuhanga Quartier le volcan P.O. Box. 14 ",Goma,,"52 - Congo, Democratic Republic of the","+243 971 015 444
 , Work: 
 +882 16 6700 2287
-",inganji@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21166,Kalemie,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Kalemie,Kalemie  ,Kalemie,,"52 - Congo, Democratic Republic of the","+243 992 906 284
+",inganji@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21166,Kalemie,40 - Democratic Republic of Congo,Kalemie,Kalemie  ,Kalemie,,"52 - Congo, Democratic Republic of the","+243 992 906 284
 , Work: 
 +882 16 6700 1000
-",mwanakasala@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21167,Kindu,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Kindu,Kindu  ,Kindu,,"52 - Congo, Democratic Republic of the","Work: 
+",mwanakasala@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21167,Kindu,40 - Democratic Republic of Congo,Kindu,Kindu  ,Kindu,,"52 - Congo, Democratic Republic of the","Work: 
 +243 817 061 215
 , +882 16 6700 2979
-",guelnoudji@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21168,Kinshasa,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Kinshasa,"6194, Boulevard du 30 Juin, Immeuble Losonia; Commune de la Gombe 7248 Kin1",Kinshasa,,"52 - Congo, Democratic Republic of the","Work: 
+",guelnoudji@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21168,Kinshasa,40 - Democratic Republic of Congo,Kinshasa,"6194, Boulevard du 30 Juin, Immeuble Losonia; Commune de la Gombe 7248 Kin1",Kinshasa,,"52 - Congo, Democratic Republic of the","Work: 
 +243 999 986 489
 , Work: 
 +243 995 901 549
-",ochadrc@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21169,Kisangani,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Kisangani,"34, Avenue General Mulamba, Commune de Makiso  ",Kisangani,,"52 - Congo, Democratic Republic of the","Work: 
+",ochadrc@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21169,Kisangani,40 - Democratic Republic of Congo,Kisangani,"34, Avenue General Mulamba, Commune de Makiso  ",Kisangani,,"52 - Congo, Democratic Republic of the","Work: 
 +243 812 677 060
 , +882 16 6700 0976
-",kalenga@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21170,Lubumbashi,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Lubumbashi,"1854, avenue Kapenda  ",Lubumbashi,,"52 - Congo, Democratic Republic of the","+243 817 061 223
+",kalenga@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21170,Lubumbashi,40 - Democratic Republic of Congo,Lubumbashi,"1854, avenue Kapenda  ",Lubumbashi,,"52 - Congo, Democratic Republic of the","+243 817 061 223
 , +243 970 003 776
-",beye@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21171,Shabunda,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Shabunda,Shabunda  ,Shabunda,,"52 - Congo, Democratic Republic of the","+882 16 6700 2739
+",beye@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21171,Shabunda,40 - Democratic Republic of Congo,Shabunda,Shabunda  ,Shabunda,,"52 - Congo, Democratic Republic of the","+882 16 6700 2739
 , Work: 
 +243 998 891 489
-",mbilizi@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21172,Uvira,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Uvira,Uvira  ,Uvira,,"52 - Congo, Democratic Republic of the","+882 16 6700 0356
+",mbilizi@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21172,Uvira,40 - Democratic Republic of Congo,Uvira,Uvira  ,Uvira,,"52 - Congo, Democratic Republic of the","+882 16 6700 0356
 , Work: 
 +243 817 061 251
-",djedi@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-21173,Walikale,Democratic Republic of the Congo,40 - Democratic Republic of Congo,Walikale,Walikale  ,Walikale,,"52 - Congo, Democratic Republic of the","+243 995 901 527
+",djedi@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+21173,Walikale,40 - Democratic Republic of Congo,Walikale,Walikale  ,Walikale,,"52 - Congo, Democratic Republic of the","+243 995 901 527
 , Work: 
 +882 16 6703 9723
-",matetea@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22251,Central Highland,Afghanistan,82 - Afghanistan,Bamyan,Central Highland  ,,,1 - Afghanistan,,alii@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22252,Central Region,Afghanistan,82 - Afghanistan,Kabul,Central Region  ,Kabul,,1 - Afghanistan,,Siraj1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22253,Eastern Region,Afghanistan,82 - Afghanistan,Nangarhar,Eastern Region  ,Jalalabad,,1 - Afghanistan,,chatora@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22254,National Level Coordination,Afghanistan,82 - Afghanistan,Kabul,Kabul  ,Kabul,,1 - Afghanistan,,parker@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22255,North Eastern Region,Afghanistan,82 - Afghanistan,Kunduz,North Eastern Region  ,Kunduz,,1 - Afghanistan,,shahimt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22256,Northern Region,Afghanistan,82 - Afghanistan,Balkh,Northern Region  ,Mazar-i-Sharif,,1 - Afghanistan,,viehboeck@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22257,South Eastern Region,Afghanistan,82 - Afghanistan,Paktya,South Eastern Region  ,Gardez,,1 - Afghanistan,,Ahmadya@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22258,Southern Region,Afghanistan,82 - Afghanistan,Kandahar,Southern Region  ,Kandahar,,1 - Afghanistan,,bashirn@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22259,Western Region,Afghanistan,82 - Afghanistan,Hirat,Western Region  ,Hirat,,1 - Afghanistan,"+93 79 300 1117
-",mugari@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-22260,Harare Office,Zimbabwe,60 - Zimbabwe,Harare,"Block 7, Arundel Office Park Mount Pleasant ",Harare,,248 - Zimbabwe,"+263 4 338 836
-",ochazim@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-28361,OCHA Niger,Níger,37 - Niger,Niamey,267 rue des Dallois  11207,Niamey,,162 - Niger,"+227 20 72 64 01
-",ochaniger@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-28785,Bamako,Mali,35 - Mali,Commune V,Badalabougou  ,Bamako,,137 - Mali,"+223 75 99 73 85
-",kollies@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-28786,Gao,Mali,35 - Mali,Gao,Bureau Conjoint Chateau ,Gao,,137 - Mali,"+223 75 99 32 00
-",kamanzi1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-28787,Mopti,Mali,35 - Mali,Mopti,Bureau conjoint Sévaré ,Mopti,,137 - Mali,"Mobile: 
+",matetea@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22251,Central Highland,82 - Afghanistan,Bamyan,Central Highland  ,,,1 - Afghanistan,,alii@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22252,Central Region,82 - Afghanistan,Kabul,Central Region  ,Kabul,,1 - Afghanistan,,Siraj1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22253,Eastern Region,82 - Afghanistan,Nangarhar,Eastern Region  ,Jalalabad,,1 - Afghanistan,,chatora@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22254,National Level Coordination,82 - Afghanistan,Kabul,Kabul  ,Kabul,,1 - Afghanistan,,parker@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22255,North Eastern Region,82 - Afghanistan,Kunduz,North Eastern Region  ,Kunduz,,1 - Afghanistan,,shahimt@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22256,Northern Region,82 - Afghanistan,Balkh,Northern Region  ,Mazar-i-Sharif,,1 - Afghanistan,,viehboeck@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22257,South Eastern Region,82 - Afghanistan,Paktya,South Eastern Region  ,Gardez,,1 - Afghanistan,,Ahmadya@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22258,Southern Region,82 - Afghanistan,Kandahar,Southern Region  ,Kandahar,,1 - Afghanistan,,bashirn@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22259,Western Region,82 - Afghanistan,Hirat,Western Region  ,Hirat,,1 - Afghanistan,"+93 79 300 1117
+",mugari@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+22260,Harare Office,60 - Zimbabwe,Harare,"Block 7, Arundel Office Park Mount Pleasant ",Harare,,248 - Zimbabwe,"+263 4 338 836
+",ochazim@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+28361,OCHA Niger,37 - Niger,Niamey,267 rue des Dallois  11207,Niamey,,162 - Niger,"+227 20 72 64 01
+",ochaniger@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+28785,Bamako,35 - Mali,Commune V,Badalabougou  ,Bamako,,137 - Mali,"+223 75 99 73 85
+",kollies@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+28786,Gao,35 - Mali,Gao,Bureau Conjoint Chateau ,Gao,,137 - Mali,"+223 75 99 32 00
+",kamanzi1@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+28787,Mopti,35 - Mali,Mopti,Bureau conjoint Sévaré ,Mopti,,137 - Mali,"Mobile: 
 +223 75 99 55 80
-",ndayirukiye@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-28788,Tombouctou,Mali,35 - Mali,Tombouctou,Bureau conjoint  ,Tombouctou,,137 - Mali,"+223 75 32 27 39
-",liade@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-28796,Port-au-Prince Office,Haiti,78 - Haiti,Haiti,"8, Impasse Demesvar, Delmas 60, Musseau  ",Port-au-Prince,,96 - Haiti,,ditaranto@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-33694,Bureau OCHA Côte d'Ivoire,Ivory Coast,29 - Ivory Coast,Côte d'Ivoire,Cocody Danga Villa 13  01 BP 1747,Abidjan,,55 - Côte d'Ivoire,"+222 22 48 44 00
-",kats@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-33695,Ndjamena,Tchad,43 - Chad,N'Djamena,Rue du Capitaine Abdramane Mahamat Béchir  ,Ndjamena,,44 - Chad,"+235 66 90 75 83
-",mehaule@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-33698,HAT Burkina Faso,"Burkina Faso, Afrique de l'Ouest et du Centre",25 - West and Central Africa,Burkina Faso,"Immeuble des Nations Unies, Koulouba secteur 4  01 BP 575",Ouagadougou,,36 - Burkina Faso,"+226 50 49 06 99
-",ocha.bfa.im@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-33699,OCHA Guinée,Guinea,32 - Guinea,Guinea,Quartier Landreah Port Commune de Dixin BP 222,Conakry,,93 - Guinea,"+224 624 39 44 64
-",tsekouras@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-33700,OCHA Libéria,Liberia,34 - Liberia,Montserrado,505A 5th Floor PAP Building Monrovia Liberia Sinkor 0,Monrovia,,126 - Liberia,"+231 770 180 350
-",dufour@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-33701,HAT Mauritanie,Mauritania,36 - Mauritanie,Mauritania,"Villa 181 ilot K, 35 rue 42-141 Tevragh-Zeina  ",Nouakchott,,141 - Mauritania,"+222 45 24 19 60
-",mofiling@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37283,Emergency Management Cook Islands (EMCI),Cook Islands,1449 - Cook Islands,Cook Islands,Avarua  ,Rarotonnga,,53 - Cook Islands,"+682 29 609
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37284,Fiji National Disaster Management Office (NDMO),Fiji,1450 - Fiji,Fiji,1 Regional House Knolly Street ,Suva,,74 - Fiji,"+679 331 3400
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37285,FSM Office of Environment and Emergency Management (OoEEM),Federated States of Micronesia,1451 - Federated States of Micronesia,,  ,Palikir,Pohnpei,"145 - Micronesia, Federated States of","+691 320 8815
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37286,Kiribati National Disaster Management Office (NDMO),Kiribati,1452 - Kiribati,Kiribati,  ,Tarawa,,117 - Kiribati,"+686 21183
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37287,Marshall Islands National Disaster Management Office (NDMO),Marshall Islands,1453 - Marshall Islands,Marshall Islands,  96960,Majuro,,139 - Marshall Islands,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37288,Nauru National Disaster Risk Management (NDRM) Office,Nauru,1454 - Nauru,Nauru,Yaren District  ,,,155 - Nauru,"+674 557 3101
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37289,Palau National Emergency Management Office (NEMO),Palau,1456 - Palau,Palau,  96940,Koror,,169 - Palau,"+680 488 2249
-",nemo@palaunet.com ,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37290,Samoa National Disaster Management Office (NDMO),Samoa,1457 - Samoa,Samoa,  ,Apia,,192 - Samoa,"+685 20856
-",dmosamoa@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37291,Tonga National Emergency Management Office (NEMO),Tonga,1460 - Tonga,Tonga,Alaivaha'amama'o Bypass Road Vaololoa ,Nuku'alofa,,225 - Tonga,"+676 26-340
-",tonganemo@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37292,Tuvalu National Disaster Management Office (NDMO),Tuvalu,1461 - Tuvalu,Tuvalu,Vaiaku Funafuti ,,,231 - Tuvalu,"+688 20342
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-37293,Vanuatu National Disaster Management Office (NDMO),Vanuatu,1462 - Vanuatu,Vanuatu,  ,Port-Vila,,240 - Vanuatu,"+678 22675
-",,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-38035,Antakya,Turkey Cross-border,2788 - Turkey Cross-border,Turkey,  ,Antakya,,228 - Turkey,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-38036,Gaziantep,Turkey Cross-border,2788 - Turkey Cross-border,Turkey,  ,Gaziantep,,228 - Turkey,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-39800,Eldoret Hub,Kenya,66 - Kenya,Eldoret,  1,Eldoret,,116 - Kenya,,dickinsonl@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-39801,Garissa Hub,Kenya,66 - Kenya,Garissa,  1,Garissa,,116 - Kenya,"+254 732 500024
-",nikolich@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-39802,Isiolo / Marsabit,Kenya,66 - Kenya,Isiolo,  1,Isiolo / Marsabit,,116 - Kenya,"+254 707 724610
-",timothy.koskei@wfp.org,501 - World Food Programme,Office,
-39803,Kisumu Hub,Kenya,66 - Kenya,Kisumu,  1,Kisumu,,116 - Kenya,"+254 708 989214
-",mgwada@unicef.org,484 - United Nations Children's Fund,Office,
-39804,Lodwar Hub,Kenya,66 - Kenya,Lodwar,  1,Lodwar,,116 - Kenya,"+254 701 796186
-",lokaitomark@yahoo.com,,Office,
-39805,Mombasa Hub,Kenya,66 - Kenya,Mombasa,  1,Mombasa,,116 - Kenya,"+254 707 724440
-",Christine.Adiema@wfp.org ,501 - World Food Programme,Office,
-39806,Nairobi Hub,Kenya,66 - Kenya,Nairobi,"Kaskazi Lane/Mpesi Lane Off Muthithi Road, Westlands  1",Nairobi,,116 - Kenya,"+254 710 344529
-",hubnairobi@hotmail.com,453 - Concern Worldwide,Office,
-39807,Nakuru Hub,Kenya,66 - Kenya,Nakuru,  1,Nakuru,,116 - Kenya,"+254 722 780914
-",paul.mutinda@nrc.no,478 - Norwegian Refugee Council,Office,
-41124,Abeche,Tchad,43 - Chad,Abéché,Region du Ouaddai  ,Abeche,,44 - Chad,"Mobile: 
+",ndayirukiye@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+28788,Tombouctou,35 - Mali,Tombouctou,Bureau conjoint  ,Tombouctou,,137 - Mali,"+223 75 32 27 39
+",liade@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+28796,Port-au-Prince Office,78 - Haiti,Haiti,"8, Impasse Demesvar, Delmas 60, Musseau  ",Port-au-Prince,,96 - Haiti,,ditaranto@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+33694,Bureau OCHA Côte d'Ivoire,29 - Ivory Coast,Côte d'Ivoire,Cocody Danga Villa 13  01 BP 1747,Abidjan,,55 - Côte d'Ivoire,"+222 22 48 44 00
+",kats@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+33695,Ndjamena,43 - Chad,N'Djamena,Rue du Capitaine Abdramane Mahamat Béchir  ,Ndjamena,,44 - Chad,"+235 66 90 75 83
+",mehaule@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+33698,HAT Burkina Faso,25 - West and Central Africa,Burkina Faso,"Immeuble des Nations Unies, Koulouba secteur 4  01 BP 575",Ouagadougou,,36 - Burkina Faso,"+226 50 49 06 99
+",ocha.bfa.im@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+33699,OCHA Guinée,32 - Guinea,Guinea,Quartier Landreah Port Commune de Dixin BP 222,Conakry,,93 - Guinea,"+224 624 39 44 64
+",tsekouras@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+33700,OCHA Libéria,34 - Liberia,Montserrado,505A 5th Floor PAP Building Monrovia Liberia Sinkor 0,Monrovia,,126 - Liberia,"+231 770 180 350
+",dufour@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+33701,HAT Mauritanie,36 - Mauritanie,Mauritania,"Villa 181 ilot K, 35 rue 42-141 Tevragh-Zeina  ",Nouakchott,,141 - Mauritania,"+222 45 24 19 60
+",mofiling@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37283,Emergency Management Cook Islands (EMCI),1449 - Cook Islands,Cook Islands,Avarua  ,Rarotonnga,,53 - Cook Islands,"+682 29 609
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37284,Fiji National Disaster Management Office (NDMO),1450 - Fiji,Fiji,1 Regional House Knolly Street ,Suva,,74 - Fiji,"+679 331 3400
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37285,FSM Office of Environment and Emergency Management (OoEEM),1451 - Federated States of Micronesia,,  ,Palikir,Pohnpei,"145 - Micronesia, Federated States of","+691 320 8815
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37286,Kiribati National Disaster Management Office (NDMO),1452 - Kiribati,Kiribati,  ,Tarawa,,117 - Kiribati,"+686 21183
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37287,Marshall Islands National Disaster Management Office (NDMO),1453 - Marshall Islands,Marshall Islands,  96960,Majuro,,139 - Marshall Islands,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37288,Nauru National Disaster Risk Management (NDRM) Office,1454 - Nauru,Nauru,Yaren District  ,,,155 - Nauru,"+674 557 3101
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37289,Palau National Emergency Management Office (NEMO),1456 - Palau,Palau,  96940,Koror,,169 - Palau,"+680 488 2249
+",nemo@palaunet.com ,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37290,Samoa National Disaster Management Office (NDMO),1457 - Samoa,Samoa,  ,Apia,,192 - Samoa,"+685 20856
+",dmosamoa@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37291,Tonga National Emergency Management Office (NEMO),1460 - Tonga,Tonga,Alaivaha'amama'o Bypass Road Vaololoa ,Nuku'alofa,,225 - Tonga,"+676 26-340
+",tonganemo@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37292,Tuvalu National Disaster Management Office (NDMO),1461 - Tuvalu,Tuvalu,Vaiaku Funafuti ,,,231 - Tuvalu,"+688 20342
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+37293,Vanuatu National Disaster Management Office (NDMO),1462 - Vanuatu,Vanuatu,  ,Port-Vila,,240 - Vanuatu,"+678 22675
+",,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+38035,Antakya,2788 - Turkey Cross-border,Turkey,  ,Antakya,,228 - Turkey,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+38036,Gaziantep,2788 - Turkey Cross-border,Turkey,  ,Gaziantep,,228 - Turkey,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+39800,Eldoret Hub,66 - Kenya,Eldoret,  1,Eldoret,,116 - Kenya,,dickinsonl@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+39801,Garissa Hub,66 - Kenya,Garissa,  1,Garissa,,116 - Kenya,"+254 732 500024
+",nikolich@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+39802,Isiolo / Marsabit,66 - Kenya,Isiolo,  1,Isiolo / Marsabit,,116 - Kenya,"+254 707 724610
+",timothy.koskei@wfp.org,501 - World Food Programme,
+39803,Kisumu Hub,66 - Kenya,Kisumu,  1,Kisumu,,116 - Kenya,"+254 708 989214
+",mgwada@unicef.org,484 - United Nations Children's Fund,
+39804,Lodwar Hub,66 - Kenya,Lodwar,  1,Lodwar,,116 - Kenya,"+254 701 796186
+",lokaitomark@yahoo.com,,
+39805,Mombasa Hub,66 - Kenya,Mombasa,  1,Mombasa,,116 - Kenya,"+254 707 724440
+",Christine.Adiema@wfp.org ,501 - World Food Programme,
+39806,Nairobi Hub,66 - Kenya,Nairobi,"Kaskazi Lane/Mpesi Lane Off Muthithi Road, Westlands  1",Nairobi,,116 - Kenya,"+254 710 344529
+",hubnairobi@hotmail.com,453 - Concern Worldwide,
+39807,Nakuru Hub,66 - Kenya,Nakuru,  1,Nakuru,,116 - Kenya,"+254 722 780914
+",paul.mutinda@nrc.no,478 - Norwegian Refugee Council,
+41124,Abeche,43 - Chad,Abéché,Region du Ouaddai  ,Abeche,,44 - Chad,"Mobile: 
 +235 68 97 76 93
-",arunaa@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-41125,Goré,Tchad,43 - Chad,Goré,Goré  ,Goré,,44 - Chad,"+235 66 90 46 32
-",nsabiyeze@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-41127,Mao,Tchad,43 - Chad,Mao,region du Kanem  ,Mao,,44 - Chad,"+235 66 20 16 53
-",sonon@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-41128,Sarh,Tchad,43 - Chad,Sarh,Region du Moyen Chari  ,Sarh,,44 - Chad,"Work: 
+",arunaa@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+41125,Goré,43 - Chad,Goré,Goré  ,Goré,,44 - Chad,"+235 66 90 46 32
+",nsabiyeze@un.org ,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+41127,Mao,43 - Chad,Mao,region du Kanem  ,Mao,,44 - Chad,"+235 66 20 16 53
+",sonon@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+41128,Sarh,43 - Chad,Sarh,Region du Moyen Chari  ,Sarh,,44 - Chad,"Work: 
 +235 66 90 46 32
-", nsabiyeze@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-47959,UNICEF office,Ukraine,43184 - Ukraine,Kyiv,5 Klovsky Uzviz  1021,Kyiv,,233 - Ukraine,"+380 44 230 2514
-",kiev@unicef.org,484 - United Nations Children's Fund,Office,
-48088,IOM ,Ukraine,43184 - Ukraine,Kyiv,8 Mykhailivska Street  1001,Kyiv,,233 - Ukraine,"+380 44 568 5015
-",iomkievcomm@iom.int,473 - International Organization for Migration,Office,
-48220,UNHCR Regional Office,Ukraine,43184 - Ukraine,Kyiv,"14, Lavrska St.  1015",Kyiv,,233 - Ukraine,"Work: 
+", nsabiyeze@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+47959,UNICEF office,43184 - Ukraine,Kyiv,5 Klovsky Uzviz  1021,Kyiv,,233 - Ukraine,"+380 44 230 2514
+",kiev@unicef.org,484 - United Nations Children's Fund,
+48088,IOM ,43184 - Ukraine,Kyiv,8 Mykhailivska Street  1001,Kyiv,,233 - Ukraine,"+380 44 568 5015
+",iomkievcomm@iom.int,473 - International Organization for Migration,
+48220,UNHCR Regional Office,43184 - Ukraine,Kyiv,"14, Lavrska St.  1015",Kyiv,,233 - Ukraine,"Work: 
 +380 44 288 9710
-",ukrki@unhcr.org,490 - United Nations High Commissioner for Refugees,Office,
-48248,Aden Sub-Office,Yemen,75 - Yemen,Aden,Hoshi Mana street Beside German Cosulate. Khormaksar 2,Aden,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-48249,Haradh Sub-Office,Yemen,75 - Yemen,Haradh,  ,Haradh,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-48250,Sa'ada Sub-Office,Yemen,75 - Yemen,Sa'ada,  ,Sa'ada,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-48251,Sana'a Head Office,Yemen,75 - Yemen,Sana'a,"UNDP Compound, Sana'a  1",Sana'a,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-49896,UNHCR Kharkiv,Ukraine,43184 - Ukraine,Kharkiv,"Navruz Restaurant, Shevchenko Street 216 B  ",Kharkiv,Kharkivska Oblast,233 - Ukraine,,,,Office,
-52158,Islamabad,Pakistan,81 - Pakistan,Federal Capital Territory,"Serena Business Complex, 2nd Level, Khayaban-e-Suharwardy, Sector G-5 44000",Islamabad,,168 - Pakistan,"+92 51 8355600
-",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-52159,Karachi,Pakistan,81 - Pakistan,Karachi City,"41-D, Street 42, PECHS Block 6  75400",Karachi,,168 - Pakistan,"+92 213454952528
-",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-52160,Peshawar,Pakistan,81 - Pakistan,Peshawar,"House # 34(D) 1, Sahibzada Abdul Qayyum Road, University Town  25000",Peshawar,,168 - Pakistan,"+92 91 5852279
-",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-52161,Quetta,Pakistan,81 - Pakistan,Quetta,Quetta  87300,Quetta,,168 - Pakistan,"+92 346 8563664
-",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-59256,UN OCHA Donetsk,Ukraine,43184 - Ukraine,Donetsk,1A Polotskaya Str  83092,Donetsk,,233 - Ukraine,"+380 66 113 1413
+",ukrki@unhcr.org,490 - United Nations High Commissioner for Refugees,
+48248,Aden Sub-Office,75 - Yemen,Aden,Hoshi Mana street Beside German Cosulate. Khormaksar 2,Aden,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+48249,Haradh Sub-Office,75 - Yemen,Haradh,  ,Haradh,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+48250,Sa'ada Sub-Office,75 - Yemen,Sa'ada,  ,Sa'ada,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+48251,Sana'a Head Office,75 - Yemen,Sana'a,"UNDP Compound, Sana'a  1",Sana'a,,246 - Yemen,,yemen@humanitarianresponse.info,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+49896,UNHCR Kharkiv,43184 - Ukraine,Kharkiv,"Navruz Restaurant, Shevchenko Street 216 B  ",Kharkiv,Kharkivska Oblast,233 - Ukraine,,,,
+52158,Islamabad,81 - Pakistan,Federal Capital Territory,"Serena Business Complex, 2nd Level, Khayaban-e-Suharwardy, Sector G-5 44000",Islamabad,,168 - Pakistan,"+92 51 8355600
+",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+52159,Karachi,81 - Pakistan,Karachi City,"41-D, Street 42, PECHS Block 6  75400",Karachi,,168 - Pakistan,"+92 213454952528
+",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+52160,Peshawar,81 - Pakistan,Peshawar,"House # 34(D) 1, Sahibzada Abdul Qayyum Road, University Town  25000",Peshawar,,168 - Pakistan,"+92 91 5852279
+",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+52161,Quetta,81 - Pakistan,Quetta,Quetta  87300,Quetta,,168 - Pakistan,"+92 346 8563664
+",ocha.im.pk@gmail.com,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+59256,UN OCHA Donetsk,43184 - Ukraine,Donetsk,1A Polotskaya Str  83092,Donetsk,,233 - Ukraine,"+380 66 113 1413
 , +380 93 005 6996
-",trutmann@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-62229,Equipo Humanitario Antioquia,Colombie,77 - Colombia,,Carrera 43A # 1-85 Oficina 213 Edificio Caja Social ,Medellín,,49 - Colombia,"+57 4 3212228
-",ehlantioquia@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62230,Equipo Humanitario Arauca,Colombie,77 - Colombia,,Calle 20 # 24-68  ,Arauca,,49 - Colombia,"+57 7 8857788
-",arauca@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62231,Equipo Humanitario Chocó,Colombie,77 - Colombia,,Calle 21 No. 4-82 Barrio Yesquita ,Quibdó,,49 - Colombia,"+57 6722377
-",ochapacifico@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62232,Equipo Humanitario Córdoba,Colombie,77 - Colombia,,Carrera 15 # 27-08 Barrio Costa de Oro ,Montería,,49 - Colombia,"+57 1 6221100
-",ehlcordoba@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62233,Equipo Humanitario Nariño,Colombie,77 - Colombia,,Calle 21 A # 41A-39  ,Pasto,,49 - Colombia,"+57 2 7310829
-",ochapasto@un-ocha.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62234,Equipo Humanitario Norte de Santander,Colombie,77 - Colombia,,Avenida 6E No. 5-34 Barrio Popular  ,Cúcuta,,49 - Colombia,"+57 7 5778669
-",ochacolombia@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62235,Equipo Humanitario Putumayo,Colombie,77 - Colombia,,Carrera 12A # 11-16 Barrio Obrero ,Mocoa,,49 - Colombia,"+57 1 6221100
-",ehlnarinoputumayo@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62236,Equipo Humanitario Suroriente,Colombie,77 - Colombia,,Carrera 31 # 41-53 Barrio Centro ,Villavicencio,,49 - Colombia,"+57 8 6610171
-",ochasuroriente@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-62237,Equipo Humanitario Valle del Cauca y Cauca,Colombie,77 - Colombia,,Carrera 37 # 6-28 Oficina 201  ,Cali,,49 - Colombia,"+57 2 5573696
-",ochacali@un-ocha.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-65727,National Ebola Response Centre NERC - Freetown Sierra Leone,Sierra Leone,42 - Sierra Leone,Sierra Leone,"Special Court. Jomo Keniatta Rd. Freetown, Sierra Leone ",Freetown,,199 - Sierra Leone,,comunications@nerc.sl,54233 - United Nations Mission for Ebola Emergency Response,Coordination Hub,
-65728,Bonthe - District Emergency Response Center (DERC) ,Sierra Leone,42 - Sierra Leone,,"Bonthe District Emergency Response Center (DERC) Old Council Building, Bo Road, Matru Jong, Bonthe, Sierra Leone ",Bonthe,,199 - Sierra Leone,,sherazm@un.org,54233 - United Nations Mission for Ebola Emergency Response,Coordination Hub,
-65729,Moyamba  - District Emergency Response Center (DERC) ,Sierra Leone,42 - Sierra Leone,,"Moyamba District Ebola Response Centre, Reservation - Moyamba Sierra Leone  ",Moyamba,,199 - Sierra Leone,,nabik@un.org,54233 - United Nations Mission for Ebola Emergency Response,Coordination Hub,
-65764,Pujehun - District Emergency Response Center (DERC) ,Sierra Leone,42 - Sierra Leone,Sierra Leone,"Old council Building, Council Road, Pujehun Town. sierra Leone ",Pujehun Town,,199 - Sierra Leone,,puderc26@gmail.com,54233 - United Nations Mission for Ebola Emergency Response,Coordination Hub,
-66796,UN OCHA Sievierodonetsk,Ukraine,43184 - Ukraine,Sievierodonetsk,8 Yegorova St  93404,Sievierodonetsk,Luhans'ka oblast,233 - Ukraine,"+380 50 382 4540
-",melkumyan@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-69380,UN OCHA Kyiv,Ukraine,43184 - Ukraine,Kyiv,"28, Instytutska Str.  1021",Kyiv,Kiev Oblast,233 - Ukraine,"Work: 
+",trutmann@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62229,Equipo Humanitario Antioquia,77 - Colombia,,Carrera 43A # 1-85 Oficina 213 Edificio Caja Social ,Medellín,,49 - Colombia,"+57 4 3212228
+",ehlantioquia@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62230,Equipo Humanitario Arauca,77 - Colombia,,Calle 20 # 24-68  ,Arauca,,49 - Colombia,"+57 7 8857788
+",arauca@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62231,Equipo Humanitario Chocó,77 - Colombia,,Calle 21 No. 4-82 Barrio Yesquita ,Quibdó,,49 - Colombia,"+57 6722377
+",ochapacifico@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62232,Equipo Humanitario Córdoba,77 - Colombia,,Carrera 15 # 27-08 Barrio Costa de Oro ,Montería,,49 - Colombia,"+57 1 6221100
+",ehlcordoba@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62233,Equipo Humanitario Nariño,77 - Colombia,,Calle 21 A # 41A-39  ,Pasto,,49 - Colombia,"+57 2 7310829
+",ochapasto@un-ocha.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62234,Equipo Humanitario Norte de Santander,77 - Colombia,,Avenida 6E No. 5-34 Barrio Popular  ,Cúcuta,,49 - Colombia,"+57 7 5778669
+",ochacolombia@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62235,Equipo Humanitario Putumayo,77 - Colombia,,Carrera 12A # 11-16 Barrio Obrero ,Mocoa,,49 - Colombia,"+57 1 6221100
+",ehlnarinoputumayo@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62236,Equipo Humanitario Suroriente,77 - Colombia,,Carrera 31 # 41-53 Barrio Centro ,Villavicencio,,49 - Colombia,"+57 8 6610171
+",ochasuroriente@colombiassh.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+62237,Equipo Humanitario Valle del Cauca y Cauca,77 - Colombia,,Carrera 37 # 6-28 Oficina 201  ,Cali,,49 - Colombia,"+57 2 5573696
+",ochacali@un-ocha.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+65727,National Ebola Response Centre NERC - Freetown Sierra Leone,42 - Sierra Leone,Sierra Leone,"Special Court. Jomo Keniatta Rd. Freetown, Sierra Leone ",Freetown,,199 - Sierra Leone,,comunications@nerc.sl,54233 - United Nations Mission for Ebola Emergency Response,
+65728,Bonthe - District Emergency Response Center (DERC) ,42 - Sierra Leone,,"Bonthe District Emergency Response Center (DERC) Old Council Building, Bo Road, Matru Jong, Bonthe, Sierra Leone ",Bonthe,,199 - Sierra Leone,,sherazm@un.org,54233 - United Nations Mission for Ebola Emergency Response,
+65729,Moyamba  - District Emergency Response Center (DERC) ,42 - Sierra Leone,,"Moyamba District Ebola Response Centre, Reservation - Moyamba Sierra Leone  ",Moyamba,,199 - Sierra Leone,,nabik@un.org,54233 - United Nations Mission for Ebola Emergency Response,
+65764,Pujehun - District Emergency Response Center (DERC) ,42 - Sierra Leone,Sierra Leone,"Old council Building, Council Road, Pujehun Town. sierra Leone ",Pujehun Town,,199 - Sierra Leone,,puderc26@gmail.com,54233 - United Nations Mission for Ebola Emergency Response,
+66796,UN OCHA Sievierodonetsk,43184 - Ukraine,Sievierodonetsk,8 Yegorova St  93404,Sievierodonetsk,Luhans'ka oblast,233 - Ukraine,"+380 50 382 4540
+",melkumyan@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+69380,UN OCHA Kyiv,43184 - Ukraine,Kyiv,"28, Instytutska Str.  1021",Kyiv,Kiev Oblast,233 - Ukraine,"Work: 
 +380 44 253 3412
-",OCHAUkraine@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-70256,OCHA Sierra Leone,Sierra Leone,42 - Sierra Leone,Western Area Urban,55 Wilkinson Road UNDP Compound.  ,Freetown,,199 - Sierra Leone,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-71825,Kathmandu,Nepal,85 - Nepal,Nepal,UN House  ,Kathmandu,,156 - Nepal,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-72158,Deurali - Logistics Hub,Nepal,85 - Nepal,Gorkha,Deurali  ,Gorkha,,156 - Nepal,,,501 - World Food Programme,Coordination Hub,
-72191,Bharatpur - Staging Hub,Nepal,85 - Nepal,Chitawan,Bharatpur  ,Bharatpur,,156 - Nepal,,,501 - World Food Programme,Coordination Hub,
-72192,Sindipalchock - Logistics Hub,Nepal,85 - Nepal,Sindhupalchok,Sindipalchock  ,Sindipalchock,,156 - Nepal,,,501 - World Food Programme,Coordination Hub,
-72194,Birgunj - Logistics Hub,Nepal,85 - Nepal,Parsa,Parsa  ,Parsa,,156 - Nepal,,,501 - World Food Programme,Coordination Hub,
-96505,Amman,Yemen,75 - Yemen,Jordan,Amman City  ,Amman,,114 - Jordan,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-96508,Djibouti,Yemen,75 - Yemen,Djibouti,Djibouti City  ,Djibouti,,62 - Djibouti,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-105064,UN OCHA Kramatorsk,Ukraine,43184 - Ukraine,Kharkiv,TBD  63101,Kramatorsk,,233 - Ukraine,"+380 50 318 2008
-",thay@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-105072,UN OCHA Luhansk,Ukraine,43184 - Ukraine,Luhansk,Bazysnyi Ln. 5  91011,Luhansk,,233 - Ukraine,"+380 50 327 7698
-",shikhmammadov@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-105090,UN OCHA Mariupol,Ukraine,43184 - Ukraine,Mariupol,TBD  0,Mariupol,,233 - Ukraine,"+380 50 312 8581
-",adamovych@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Office,
-107660,Baga-sola,Tchad,43 - Chad,Baga-Sola,Baga-Sola  ,Baga-Sola,,44 - Chad,"Mobile: 
+",OCHAUkraine@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+70256,OCHA Sierra Leone,42 - Sierra Leone,Western Area Urban,55 Wilkinson Road UNDP Compound.  ,Freetown,,199 - Sierra Leone,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+71825,Kathmandu,85 - Nepal,Nepal,UN House  ,Kathmandu,,156 - Nepal,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+72158,Deurali - Logistics Hub,85 - Nepal,Gorkha,Deurali  ,Gorkha,,156 - Nepal,,,501 - World Food Programme,
+72191,Bharatpur - Staging Hub,85 - Nepal,Chitawan,Bharatpur  ,Bharatpur,,156 - Nepal,,,501 - World Food Programme,
+72192,Sindipalchock - Logistics Hub,85 - Nepal,Sindhupalchok,Sindipalchock  ,Sindipalchock,,156 - Nepal,,,501 - World Food Programme,
+72194,Birgunj - Logistics Hub,85 - Nepal,Parsa,Parsa  ,Parsa,,156 - Nepal,,,501 - World Food Programme,
+96505,Amman,75 - Yemen,Jordan,Amman City  ,Amman,,114 - Jordan,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+96508,Djibouti,75 - Yemen,Djibouti,Djibouti City  ,Djibouti,,62 - Djibouti,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+105064,UN OCHA Kramatorsk,43184 - Ukraine,Kharkiv,TBD  63101,Kramatorsk,,233 - Ukraine,"+380 50 318 2008
+",thay@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+105072,UN OCHA Luhansk,43184 - Ukraine,Luhansk,Bazysnyi Ln. 5  91011,Luhansk,,233 - Ukraine,"+380 50 327 7698
+",shikhmammadov@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+105090,UN OCHA Mariupol,43184 - Ukraine,Mariupol,TBD  0,Mariupol,,233 - Ukraine,"+380 50 312 8581
+",adamovych@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+107660,Baga-sola,43 - Chad,Baga-Sola,Baga-Sola  ,Baga-Sola,,44 - Chad,"Mobile: 
 +235 60 43 93 30
-",sengamali@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-107809,World Food Programme,Cambodia,2783 - Cambodia,Boeng Keng Kang Ti Muoy,"No.250, Street 63/398  ",Phnom Penh,,38 - Cambodia,"+855 23 210 943
-",cambodia.hrf@wfp.org,,Office,
-113529,OCHA Humanitarian Advisory Team,Cameroon,2783 - Cambodia,Cameroon,"Office for the Coordination of Humanitarian Affairs (Opp. Japanese Embassy), Bastos ",Yaoundé,,39 - Cameroon,"Work: 
+",sengamali@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+107809,World Food Programme,2783 - Cambodia,Boeng Keng Kang Ti Muoy,"No.250, Street 63/398  ",Phnom Penh,,38 - Cambodia,"+855 23 210 943
+",cambodia.hrf@wfp.org,,
+113529,OCHA Humanitarian Advisory Team,2783 - Cambodia,Cameroon,"Office for the Coordination of Humanitarian Affairs (Opp. Japanese Embassy), Bastos ",Yaoundé,,39 - Cameroon,"Work: 
 +237 6 90 11 72 07
-",schott@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-117268,Joint Action Group for DRR (JAG),Cambodia,2783 - Cambodia,Cambodia,Rotating Secretariat (2016: PIN and DCA/CA)  ,Phnom Penh,,38 - Cambodia,,,,Office,
-120413,Yobe State,Nigeria,38 - Nigeria,Damaturu,Abba Ibrahim Estate House 131 Gujba Road ,Damaturu,Yobe,163 - Nigeria,"Work: 
+",schott@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+117268,Joint Action Group for DRR (JAG),2783 - Cambodia,Cambodia,Rotating Secretariat (2016: PIN and DCA/CA)  ,Phnom Penh,,38 - Cambodia,,,,
+120413,Yobe State,38 - Nigeria,Damaturu,Abba Ibrahim Estate House 131 Gujba Road ,Damaturu,Yobe,163 - Nigeria,"Work: 
 +234 703 175 8922
-",lubari@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-120414,Adamawa State,Nigeria,38 - Nigeria,Yola North,"IOM Premises, 7 Deacon Street Karewa GRA Extension, Jimeta ",Yola North,Adamawa,163 - Nigeria,"Work: 
+",lubari@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+120414,Adamawa State,38 - Nigeria,Yola North,"IOM Premises, 7 Deacon Street Karewa GRA Extension, Jimeta ",Yola North,Adamawa,163 - Nigeria,"Work: 
 +234 703 171 8734
-",sesay26@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-120415,Borno State,Nigeria,38 - Nigeria,Maiduguri,No. 4 Gombole Road Opposite Capital Primary School ,Maiduguri,Borno,163 - Nigeria,"Work: 
+",sesay26@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+120415,Borno State,38 - Nigeria,Maiduguri,No. 4 Gombole Road Opposite Capital Primary School ,Maiduguri,Borno,163 - Nigeria,"Work: 
 +234 703 175 8920
-",taylor6@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-121472,Education Cluster Coordination Office,Simulation/Training,109020 - Simulation/Training,,UNICEF Building Main Street 11 1101,Cleethorpe,,216 - Switzerland,,Edclustersparkea3@gmail.com,911 - Global Education Cluster,Coordination Hub,
-122113,Yaoundé Coordination Hub,Cameroon,28 - Cameroon,Cameroon,Central Coordination Hub  ,Yaoundé,,39 - Cameroon,,,,Coordination Hub,
-122925,Southern Africa Office,Southern Africa,45 - Southern Africa,Gauteng,Naivasha Road  2157,Johannesburg,,206 - South Africa,"Work: 
+",taylor6@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+121472,Education Cluster Coordination Office,109020 - Simulation/Training,,UNICEF Building Main Street 11 1101,Cleethorpe,,216 - Switzerland,,Edclustersparkea3@gmail.com,482 - Save The Children,Organization was 911 - Global Education Cluster
+122113,Yaoundé Coordination Hub,28 - Cameroon,Cameroon,Central Coordination Hub  ,Yaoundé,,39 - Cameroon,,,,
+122925,Southern Africa Office,45 - Southern Africa,Gauteng,Naivasha Road  2157,Johannesburg,,206 - South Africa,"Work: 
 +27 11 517 0000
-",,,Office,
-122926,Eastern Africa Office,Southern Africa,45 - Southern Africa,Nairobi,UN Complex Block X  ,Nairobi,,116 - Kenya,"Work: 
+",,,
+122926,Eastern Africa Office,45 - Southern Africa,Nairobi,UN Complex Block X  ,Nairobi,,116 - Kenya,"Work: 
 +254 20 7622166
-",,,Office,
-123167,OCHA Mingkaman Sub-Office,South Sudan,69 - South Sudan,Awerial,Humanitarian Hub Mingkaman ,Awerial County,,210 - South Sudan,"Work: 
+",,,
+123167,OCHA Mingkaman Sub-Office,69 - South Sudan,Awerial,Humanitarian Hub Mingkaman ,Awerial County,,210 - South Sudan,"Work: 
 +211 922 473 101
 , Work: 
 +211 922 406 015
-",mukwana@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-123168,OCHA Rumbek Sub-Office,South Sudan,69 - South Sudan,Rumbek East,WFP Compound Airport Road ,Rumbek,,210 - South Sudan,"Work: 
+",mukwana@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+123168,OCHA Rumbek Sub-Office,69 - South Sudan,Rumbek East,WFP Compound Airport Road ,Rumbek,,210 - South Sudan,"Work: 
 +211 922 473 110
 , Work: 
 +211 922 473 106
-",sesay26@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-125297,Portoviejo/Manta,Ecuador,17026 - Ecuador,Ecuador,"Av. 15 de abril, km 1.5 vía Portoviejo-Santa Ana, ECU-911 Hotel Balandra, Segundo Piso. Manta ",Portoviejo/ Manta,,65 - Ecuador,,vallejo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-125304,Pedernales,Ecuador,17026 - Ecuador,Ecuador,Dentro del COE de Pedernales en el centro Gerontologico  ,Pedernales,,65 - Ecuador,"Work: 
+",sesay26@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+125297,Portoviejo/Manta,17026 - Ecuador,Ecuador,"Av. 15 de abril, km 1.5 vía Portoviejo-Santa Ana, ECU-911 Hotel Balandra, Segundo Piso. Manta ",Portoviejo/ Manta,,65 - Ecuador,,vallejo@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+125304,Pedernales,17026 - Ecuador,Ecuador,Dentro del COE de Pedernales en el centro Gerontologico  ,Pedernales,,65 - Ecuador,"Work: 
 +593 98 198 6718
-",matarinlopez@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-125306,Quito,Ecuador,17026 - Ecuador,Ecuador,Casa Naciones Unidas  ,Quito,,65 - Ecuador,,,,Coordination Hub,
-126149,Bujumbura,Burundi,62 - Burundi,Burundi,United Nations Office in Burundi (BNUB)  ,Bujumbura,,37 - Burundi,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-128517,Equipo Humanitario Local - Esmeraldas,Ecuador,17026 - Ecuador,Ecuador,-  ,Esmeraldas,,65 - Ecuador,,,,Coordination Hub,
-129304,Tigray (Addis based),Ethiopia,65 - Ethiopia,Tigray,Addis Ababa  ,Addis Ababa,,71 - Ethiopia,"+251 91 160 0391
-",letyibelu@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-131384,Gombe State,Nigeria,38 - Nigeria,Gombe,Gombe  ,Gombe,Gombe,163 - Nigeria,"Work: 
+",matarinlopez@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+125306,Quito,17026 - Ecuador,Ecuador,Casa Naciones Unidas  ,Quito,,65 - Ecuador,,,,
+126149,Bujumbura,62 - Burundi,Burundi,United Nations Office in Burundi (BNUB)  ,Bujumbura,,37 - Burundi,,,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+128517,Equipo Humanitario Local - Esmeraldas,17026 - Ecuador,Ecuador,-  ,Esmeraldas,,65 - Ecuador,,,,
+129304,Tigray (Addis based),65 - Ethiopia,Tigray,Addis Ababa  ,Addis Ababa,,71 - Ethiopia,"+251 91 160 0391
+",letyibelu@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+131384,Gombe State,38 - Nigeria,Gombe,Gombe  ,Gombe,Gombe,163 - Nigeria,"Work: 
 +234 703 172 0029
-",zakama@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
-133429,Jeremie,Haiti,78 - Haiti,Jeremie,Jeremie  ,Jeremie,,96 - Haiti,,,,Office,
-133430,Les Cayes,Haiti,78 - Haiti,Les Cayes,Les Cayes  ,Les Cayes,,96 - Haiti,"Work: 
+",zakama@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
+133429,Jeremie,78 - Haiti,Jeremie,Jeremie  ,Jeremie,,96 - Haiti,,,,
+133430,Les Cayes,78 - Haiti,Les Cayes,Les Cayes  ,Les Cayes,,96 - Haiti,"Work: 
 +509 37 02 5182
-",elliott@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,Coordination Hub,
+",elliott@un.org,497 - United Nations Office for the Coordination of Humanitarian Affairs,
