@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "14", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "14",
             "geolocation": {
-                "lat": "-25.40546125", 
+                "lat": "-25.40546125",
                 "lon": "134.2181189"
-            }, 
-            "hrinfo_id": "194", 
-            "id": "14", 
+            },
+            "hrinfo_id": "194",
+            "id": "14",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "AU", 
-            "iso3": "AUS", 
+            },
+            "iso2": "AU",
+            "iso3": "AUS",
             "label": {
-                "arabic-short": "\u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627", 
-                "chinese-short": "\u6fb3\u5927\u5229\u4e9a", 
-                "default": "Australia", 
-                "french-short": "Australie (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f", 
-                "spanish-short": "Australia", 
+                "arabic-short": "\u0623\u0633\u062a\u0631\u0627\u0644\u064a\u0627",
+                "chinese-short": "\u6fb3\u5927\u5229\u4e9a",
+                "default": "Australia",
+                "french-short": "Australie (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+                "spanish-short": "Australia",
                 "unterm": null
-            }, 
-            "m49": "36", 
-            "regex": "australia", 
+            },
+            "m49": "36",
+            "regex": "australia",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "25", 
+            },
+            "reliefweb_id": "25",
             "sub-region": {
-                "code": "53", 
+                "code": "53",
                 "label": {
                     "default": "Australia and New Zealand"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "AU", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "AU",
             "x-alpha-3": "AUS"
         }
     ]

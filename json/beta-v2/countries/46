@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "46", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "46",
             "geolocation": {
-                "lat": "36.67464756", 
+                "lat": "36.67464756",
                 "lon": "103.8680636"
-            }, 
-            "hrinfo_id": "226", 
-            "id": "46", 
+            },
+            "hrinfo_id": "226",
+            "id": "46",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "CN", 
-            "iso3": "CHN", 
+            },
+            "iso2": "CN",
+            "iso3": "CHN",
             "label": {
-                "arabic-short": "\u0627\u0644\u0635\u064a\u0646", 
-                "chinese-short": "\u4e2d\u56fd", 
-                "default": "China", 
-                "french-short": "Chine (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041a\u0438\u0442\u0430\u0439", 
-                "spanish-short": "China", 
+                "arabic-short": "\u0627\u0644\u0635\u064a\u0646",
+                "chinese-short": "\u4e2d\u56fd",
+                "default": "China",
+                "french-short": "Chine (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u0438\u0442\u0430\u0439",
+                "spanish-short": "China",
                 "unterm": null
-            }, 
-            "m49": "156", 
-            "regex": "^(?!repub)(?!taiwan)(?!hong.*kong)(?!macao).*china(?!.*hong.*kong)(?!.*macao)|^PRC$", 
+            },
+            "m49": "156",
+            "regex": "^(?!repub)(?!taiwan)(?!hong.*kong)(?!macao).*china(?!.*hong.*kong)(?!.*macao)|^PRC$",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "58", 
+            },
+            "reliefweb_id": "58",
             "sub-region": {
-                "code": "30", 
+                "code": "30",
                 "label": {
                     "default": "Eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "CN", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CN",
             "x-alpha-3": "CHN"
         }
     ]

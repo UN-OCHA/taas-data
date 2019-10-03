@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "63", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "63",
             "geolocation": {
-                "lat": "15.42468124", 
+                "lat": "15.42468124",
                 "lon": "-61.36047599"
-            }, 
-            "hrinfo_id": "243", 
-            "id": "63", 
+            },
+            "hrinfo_id": "243",
+            "id": "63",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "DM", 
-            "iso3": "DMA", 
+            },
+            "iso2": "DM",
+            "iso3": "DMA",
             "label": {
-                "arabic-short": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627", 
-                "chinese-short": "\u591a\u7c73\u5c3c\u514b", 
-                "default": "Dominica", 
-                "french-short": "Dominique (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430", 
-                "spanish-short": "Dominica", 
+                "arabic-short": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627",
+                "chinese-short": "\u591a\u7c73\u5c3c\u514b",
+                "default": "Dominica",
+                "french-short": "Dominique (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+                "spanish-short": "Dominica",
                 "unterm": null
-            }, 
-            "m49": "212", 
-            "regex": "dominica(?!n)", 
+            },
+            "m49": "212",
+            "regex": "dominica(?!n)",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "78", 
+            },
+            "reliefweb_id": "78",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "DM", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "DM",
             "x-alpha-3": "DMA"
         }
     ]

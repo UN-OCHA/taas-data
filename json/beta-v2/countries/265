@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "245", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "245",
             "geolocation": {
-                "lat": "17.39137826", 
+                "lat": "17.39137826",
                 "lon": "-64.67699419"
-            }, 
-            "hrinfo_id": "425", 
-            "id": "265", 
+            },
+            "hrinfo_id": "425",
+            "id": "265",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "VI", 
-            "iso3": "VIR", 
+            },
+            "iso2": "VI",
+            "iso3": "VIR",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "United States Virgin Islands", 
-                "french-short": null, 
-                "fts": "Virgin Islands, U.S.", 
-                "humanitarianresponse": "Virgin Islands, U.S.", 
-                "iso": "Virgin Islands (U.S.)", 
-                "m49": null, 
-                "reliefweb-api": "United States Virgin Islands", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "United States Virgin Islands",
+                "french-short": null,
+                "fts": "Virgin Islands, U.S.",
+                "humanitarianresponse": "Virgin Islands, U.S.",
+                "iso": "Virgin Islands (U.S.)",
+                "m49": null,
+                "reliefweb-api": "United States Virgin Islands",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "850", 
-            "regex": "^(?=.*\\bu\\.?\\s?s).*virgin|^(?=.*states).*virgin", 
+            },
+            "m49": "850",
+            "regex": "^(?=.*\\bu\\.?\\s?s).*virgin|^(?=.*states).*virgin",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "246", 
+            },
+            "reliefweb_id": "246",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "VI", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "VI",
             "x-alpha-3": "VIR"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "18", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "18",
             "geolocation": {
-                "lat": "26.05396006", 
+                "lat": "26.05396006",
                 "lon": "50.53486327"
-            }, 
-            "hrinfo_id": "198", 
-            "id": "18", 
+            },
+            "hrinfo_id": "198",
+            "id": "18",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "BH", 
-            "iso3": "BHR", 
+            },
+            "iso2": "BH",
+            "iso3": "BHR",
             "label": {
-                "arabic-short": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646", 
-                "chinese-short": "\u5df4\u6797", 
-                "default": "Bahrain", 
-                "english-short": "Bahrain", 
-                "french-short": "Bahre\u00efn [masc.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d", 
-                "spanish-short": "Bahrein", 
+                "arabic-short": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+                "chinese-short": "\u5df4\u6797",
+                "default": "Bahrain",
+                "english-short": "Bahrain",
+                "french-short": "Bahre\u00efn [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+                "spanish-short": "Bahrein",
                 "unterm": null
-            }, 
-            "m49": "48", 
-            "regex": "bahrain", 
+            },
+            "m49": "48",
+            "regex": "bahrain",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "30", 
+            },
+            "reliefweb_id": "30",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BH", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BH",
             "x-alpha-3": "BHR"
         }
     ]

@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "11", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "11",
             "geolocation": {
-                "lat": "-34.98567234", 
+                "lat": "-34.98567234",
                 "lon": "-65.12225892"
-            }, 
-            "hrinfo_id": "191", 
-            "id": "11", 
+            },
+            "hrinfo_id": "191",
+            "id": "11",
             "intermediate-region": {
-                "code": "5", 
+                "code": "5",
                 "label": {
                     "default": "South America"
                 }
-            }, 
-            "iso2": "AR", 
-            "iso3": "ARG", 
+            },
+            "iso2": "AR",
+            "iso3": "ARG",
             "label": {
-                "arabic-short": "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646", 
-                "chinese-short": "\u963f\u6839\u5ef7", 
-                "default": "Argentina", 
-                "french-short": "Argentine (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430", 
-                "spanish-short": "Argentina (la)", 
+                "arabic-short": "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646",
+                "chinese-short": "\u963f\u6839\u5ef7",
+                "default": "Argentina",
+                "french-short": "Argentine (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+                "spanish-short": "Argentina (la)",
                 "unterm": null
-            }, 
-            "m49": "32", 
-            "regex": "argentin", 
+            },
+            "m49": "32",
+            "regex": "argentin",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "22", 
+            },
+            "reliefweb_id": "22",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "AR", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "AR",
             "x-alpha-3": "ARG"
         }
     ]

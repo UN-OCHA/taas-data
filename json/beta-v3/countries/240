@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "241", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "241",
             "geolocation": {
-                "lat": "-21.04390394", 
+                "lat": "-21.04390394",
                 "lon": "171.2797047"
-            }, 
-            "hrinfo_id": "421", 
-            "id": "240", 
+            },
+            "hrinfo_id": "421",
+            "id": "240",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "VU", 
-            "iso3": "VUT", 
+            },
+            "iso2": "VU",
+            "iso3": "VUT",
             "label": {
-                "arabic-short": "\u0641\u0627\u0646\u0648\u0627\u062a\u0648", 
-                "chinese-short": "\u74e6\u52aa\u963f\u56fe", 
-                "default": "Vanuatu", 
-                "english-short": "Vanuatu", 
-                "french-short": "Vanuatu (le) [masc.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443", 
-                "spanish-short": "Vanuatu", 
+                "arabic-short": "\u0641\u0627\u0646\u0648\u0627\u062a\u0648",
+                "chinese-short": "\u74e6\u52aa\u963f\u56fe",
+                "default": "Vanuatu",
+                "english-short": "Vanuatu",
+                "french-short": "Vanuatu (le) [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+                "spanish-short": "Vanuatu",
                 "unterm": null
-            }, 
-            "m49": "548", 
-            "regex": "vanuatu|new.?hebrides", 
+            },
+            "m49": "548",
+            "regex": "vanuatu|new.?hebrides",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "249", 
+            },
+            "reliefweb_id": "249",
             "sub-region": {
-                "code": "54", 
+                "code": "54",
                 "label": {
                     "default": "Melanesia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "VU", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "VU",
             "x-alpha-3": "VUT"
         }
     ]

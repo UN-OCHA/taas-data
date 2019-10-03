@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "189", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "189",
             "geolocation": {
-                "lat": "13.90391475", 
+                "lat": "13.90391475",
                 "lon": "-60.96175259"
-            }, 
-            "hrinfo_id": "369", 
-            "id": "188", 
+            },
+            "hrinfo_id": "369",
+            "id": "188",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "LC", 
-            "iso3": "LCA", 
+            },
+            "iso2": "LC",
+            "iso3": "LCA",
             "label": {
-                "arabic-short": "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627", 
-                "chinese-short": "\u5723\u5362\u897f\u4e9a", 
-                "default": "Saint Lucia", 
-                "french-short": "Sainte-Lucie [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f", 
-                "spanish-short": "Santa Luc\u00eda", 
+                "arabic-short": "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627",
+                "chinese-short": "\u5723\u5362\u897f\u4e9a",
+                "default": "Saint Lucia",
+                "french-short": "Sainte-Lucie [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f",
+                "spanish-short": "Santa Luc\u00eda",
                 "unterm": null
-            }, 
-            "m49": "662", 
-            "regex": "\\blucia", 
+            },
+            "m49": "662",
+            "regex": "\\blucia",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "201", 
+            },
+            "reliefweb_id": "201",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "LC", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "LC",
             "x-alpha-3": "LCA"
         }
     ]

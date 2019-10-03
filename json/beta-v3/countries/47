@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "47", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "47",
             "geolocation": {
-                "lat": "-10.44411458", 
+                "lat": "-10.44411458",
                 "lon": "105.7036972"
-            }, 
-            "hrinfo_id": "227", 
-            "id": "47", 
+            },
+            "hrinfo_id": "227",
+            "id": "47",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "CX", 
-            "iso3": "CXR", 
+            },
+            "iso2": "CX",
+            "iso3": "CXR",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Christmas Island", 
-                "english-short": "Christmas Island", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Christmas Island (Australia)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Christmas Island",
+                "english-short": "Christmas Island",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Christmas Island (Australia)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "162", 
-            "regex": "christmas", 
+            },
+            "m49": "162",
+            "regex": "christmas",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "62", 
+            },
+            "reliefweb_id": "62",
             "sub-region": {
-                "code": "53", 
+                "code": "53",
                 "label": {
                     "default": "Australia and New Zealand"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "CX", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "CX",
             "x-alpha-3": "CXR"
         }
     ]

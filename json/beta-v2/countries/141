@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "141", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "141",
             "geolocation": {
-                "lat": "20.25780429", 
+                "lat": "20.25780429",
                 "lon": "-10.33010275"
-            }, 
-            "hrinfo_id": "321", 
-            "id": "141", 
+            },
+            "hrinfo_id": "321",
+            "id": "141",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "MR", 
-            "iso3": "MRT", 
+            },
+            "iso2": "MR",
+            "iso3": "MRT",
             "label": {
-                "arabic-short": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627", 
-                "chinese-short": "\u6bdb\u91cc\u5854\u5c3c\u4e9a", 
-                "default": "Mauritania", 
-                "french-short": "Mauritanie (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f", 
-                "spanish-short": "Mauritania", 
+                "arabic-short": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
+                "chinese-short": "\u6bdb\u91cc\u5854\u5c3c\u4e9a",
+                "default": "Mauritania",
+                "french-short": "Mauritanie (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+                "spanish-short": "Mauritania",
                 "unterm": null
-            }, 
-            "m49": "478", 
-            "regex": "mauritania", 
+            },
+            "m49": "478",
+            "regex": "mauritania",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "153", 
+            },
+            "reliefweb_id": "153",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "MR", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "MR",
             "x-alpha-3": "MRT"
         }
     ]

@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "165", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "165",
             "geolocation": {
-                "lat": "-29.0376577", 
+                "lat": "-29.0376577",
                 "lon": "167.952597"
-            }, 
-            "hrinfo_id": "345", 
-            "id": "165", 
+            },
+            "hrinfo_id": "345",
+            "id": "165",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "NF", 
-            "iso3": "NFK", 
+            },
+            "iso2": "NF",
+            "iso3": "NFK",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Norfolk Island", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Norfolk Island (Australia)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Norfolk Island",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Norfolk Island (Australia)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "574", 
-            "regex": "norfolk", 
+            },
+            "m49": "574",
+            "regex": "norfolk",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "177", 
+            },
+            "reliefweb_id": "177",
             "sub-region": {
-                "code": "53", 
+                "code": "53",
                 "label": {
                     "default": "Australia and New Zealand"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "NF", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "NF",
             "x-alpha-3": "NFK"
         }
     ]

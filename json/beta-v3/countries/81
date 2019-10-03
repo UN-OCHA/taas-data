@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "81", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "81",
             "geolocation": {
-                "lat": "13.44470328", 
+                "lat": "13.44470328",
                 "lon": "-15.44718402"
-            }, 
-            "hrinfo_id": "261", 
-            "id": "81", 
+            },
+            "hrinfo_id": "261",
+            "id": "81",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "GM", 
-            "iso3": "GMB", 
+            },
+            "iso2": "GM",
+            "iso3": "GMB",
             "label": {
-                "arabic-short": "\u063a\u0627\u0645\u0628\u064a\u0627", 
-                "chinese-short": "\u5188\u6bd4\u4e9a", 
-                "default": "Gambia", 
-                "english-short": "Gambia", 
-                "french-short": "Gambie (la)", 
-                "fts": "Gambia", 
-                "humanitarianresponse": "Gambia", 
-                "iso": "Gambia (the)", 
-                "m49": null, 
-                "reliefweb-api": "Gambia", 
-                "reliefweb-short": null, 
-                "russian-short": "\u0413\u0430\u043c\u0431\u0438\u044f", 
-                "spanish-short": "Gambia", 
+                "arabic-short": "\u063a\u0627\u0645\u0628\u064a\u0627",
+                "chinese-short": "\u5188\u6bd4\u4e9a",
+                "default": "Gambia",
+                "english-short": "Gambia",
+                "french-short": "Gambie (la)",
+                "fts": "Gambia",
+                "humanitarianresponse": "Gambia",
+                "iso": "Gambia (the)",
+                "m49": null,
+                "reliefweb-api": "Gambia",
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0430\u043c\u0431\u0438\u044f",
+                "spanish-short": "Gambia",
                 "unterm": null
-            }, 
-            "m49": "270", 
-            "regex": "gambia", 
+            },
+            "m49": "270",
+            "regex": "gambia",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "98", 
+            },
+            "reliefweb_id": "98",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "GM", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GM",
             "x-alpha-3": "GMB"
         }
     ]

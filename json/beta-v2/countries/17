@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "17", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "17",
             "geolocation": {
-                "lat": "25.90317684", 
+                "lat": "25.90317684",
                 "lon": "-78.61665744"
-            }, 
-            "hrinfo_id": "197", 
-            "id": "17", 
+            },
+            "hrinfo_id": "197",
+            "id": "17",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "BS", 
-            "iso3": "BHS", 
+            },
+            "iso2": "BS",
+            "iso3": "BHS",
             "label": {
-                "arabic-short": "\u062c\u0632\u0631 \u0627\u0644\u0628\u0647\u0627\u0645\u0627", 
-                "chinese-short": "\u5df4\u54c8\u9a6c", 
-                "default": "Bahamas", 
-                "french-short": "Bahamas (les) [f\u00e9m.]", 
-                "fts": "Bahamas", 
-                "humanitarianresponse": "Bahamas", 
-                "iso": "Bahamas (the)", 
-                "m49": null, 
-                "reliefweb-api": "Bahamas", 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430", 
-                "spanish-short": "Bahamas (las)", 
+                "arabic-short": "\u062c\u0632\u0631 \u0627\u0644\u0628\u0647\u0627\u0645\u0627",
+                "chinese-short": "\u5df4\u54c8\u9a6c",
+                "default": "Bahamas",
+                "french-short": "Bahamas (les) [f\u00e9m.]",
+                "fts": "Bahamas",
+                "humanitarianresponse": "Bahamas",
+                "iso": "Bahamas (the)",
+                "m49": null,
+                "reliefweb-api": "Bahamas",
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+                "spanish-short": "Bahamas (las)",
                 "unterm": null
-            }, 
-            "m49": "44", 
-            "regex": "bahamas", 
+            },
+            "m49": "44",
+            "regex": "bahamas",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "29", 
+            },
+            "reliefweb_id": "29",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BS", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BS",
             "x-alpha-3": "BHS"
         }
     ]

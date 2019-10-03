@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "205", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "205",
             "geolocation": {
-                "lat": "-8.823576119", 
+                "lat": "-8.823576119",
                 "lon": "159.6577946"
-            }, 
-            "hrinfo_id": "385", 
-            "id": "204", 
+            },
+            "hrinfo_id": "385",
+            "id": "204",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "SB", 
-            "iso3": "SLB", 
+            },
+            "iso2": "SB",
+            "iso3": "SLB",
             "label": {
-                "arabic-short": "\u062c\u0632\u0631 \u0633\u0644\u064a\u0645\u0627\u0646", 
-                "chinese-short": "\u6240\u7f57\u95e8\u7fa4\u5c9b", 
-                "default": "Solomon Islands", 
-                "french-short": "\u00celes Salomon (les)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430", 
-                "spanish-short": "Islas Salom\u00f3n (las)", 
+                "arabic-short": "\u062c\u0632\u0631 \u0633\u0644\u064a\u0645\u0627\u0646",
+                "chinese-short": "\u6240\u7f57\u95e8\u7fa4\u5c9b",
+                "default": "Solomon Islands",
+                "french-short": "\u00celes Salomon (les)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+                "spanish-short": "Islas Salom\u00f3n (las)",
                 "unterm": null
-            }, 
-            "m49": "90", 
-            "regex": "solomon", 
+            },
+            "m49": "90",
+            "regex": "solomon",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "215", 
+            },
+            "reliefweb_id": "215",
             "sub-region": {
-                "code": "54", 
+                "code": "54",
                 "label": {
                     "default": "Melanesia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "SB", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "SB",
             "x-alpha-3": "SLB"
         }
     ]

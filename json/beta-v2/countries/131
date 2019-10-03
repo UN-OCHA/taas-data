@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "131", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "131",
             "geolocation": {
-                "lat": "22.1985265", 
+                "lat": "22.1985265",
                 "lon": "113.5450075"
-            }, 
-            "hrinfo_id": "311", 
-            "id": "131", 
+            },
+            "hrinfo_id": "311",
+            "id": "131",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "MO", 
-            "iso3": "MAC", 
+            },
+            "iso2": "MO",
+            "iso3": "MAC",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "China, Macao Special Administrative Region", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": "Macao", 
-                "m49": null, 
-                "reliefweb-api": "China - Macau (Special Administrative Region)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "China, Macao Special Administrative Region",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": "Macao",
+                "m49": null,
+                "reliefweb-api": "China - Macau (Special Administrative Region)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "446", 
-            "regex": ".*maca(o|u)", 
+            },
+            "m49": "446",
+            "regex": ".*maca(o|u)",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "60", 
+            },
+            "reliefweb_id": "60",
             "sub-region": {
-                "code": "30", 
+                "code": "30",
                 "label": {
                     "default": "Eastern Asia"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "MO", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "MO",
             "x-alpha-3": "MAC"
         }
     ]

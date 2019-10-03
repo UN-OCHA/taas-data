@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "108", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "108",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "288", 
-            "id": "108", 
+            },
+            "hrinfo_id": "288",
+            "id": "108",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "IM", 
-            "iso3": "IMN", 
+            },
+            "iso2": "IM",
+            "iso3": "IMN",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Isle of Man", 
-                "english-short": "Isle of Man", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Isle of Man (The United Kingdom of Great Britain and Northern Ireland)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Isle of Man",
+                "english-short": "Isle of Man",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Isle of Man (The United Kingdom of Great Britain and Northern Ireland)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "833", 
-            "regex": "^(?=.*isle).*\\bman", 
+            },
+            "m49": "833",
+            "regex": "^(?=.*isle).*\\bman",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "124", 
+            },
+            "reliefweb_id": "124",
             "sub-region": {
-                "code": "154", 
+                "code": "154",
                 "label": {
                     "default": "Northern Europe"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "IM", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "IM",
             "x-alpha-3": "IMN"
         }
     ]

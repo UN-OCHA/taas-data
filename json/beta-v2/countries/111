@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "111", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "111",
             "geolocation": {
-                "lat": "18.15206196", 
+                "lat": "18.15206196",
                 "lon": "-77.31137184"
-            }, 
-            "hrinfo_id": "291", 
-            "id": "111", 
+            },
+            "hrinfo_id": "291",
+            "id": "111",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "JM", 
-            "iso3": "JAM", 
+            },
+            "iso2": "JM",
+            "iso3": "JAM",
             "label": {
-                "arabic-short": "\u062c\u0627\u0645\u0627\u064a\u0643\u0627", 
-                "chinese-short": "\u7259\u4e70\u52a0", 
-                "default": "Jamaica", 
-                "french-short": "Jama\u00efque (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u042f\u043c\u0430\u0439\u043a\u0430", 
-                "spanish-short": "Jamaica", 
+                "arabic-short": "\u062c\u0627\u0645\u0627\u064a\u0643\u0627",
+                "chinese-short": "\u7259\u4e70\u52a0",
+                "default": "Jamaica",
+                "french-short": "Jama\u00efque (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u042f\u043c\u0430\u0439\u043a\u0430",
+                "spanish-short": "Jamaica",
                 "unterm": null
-            }, 
-            "m49": "388", 
-            "regex": "jamaica", 
+            },
+            "m49": "388",
+            "regex": "jamaica",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "127", 
+            },
+            "reliefweb_id": "127",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "JM", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "JM",
             "x-alpha-3": "JAM"
         }
     ]

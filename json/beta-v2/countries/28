@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "28", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "28",
             "geolocation": {
-                "lat": "44.16506495", 
+                "lat": "44.16506495",
                 "lon": "17.79105724"
-            }, 
-            "hrinfo_id": "208", 
-            "id": "28", 
+            },
+            "hrinfo_id": "208",
+            "id": "28",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "BA", 
-            "iso3": "BIH", 
+            },
+            "iso2": "BA",
+            "iso3": "BIH",
             "label": {
-                "arabic-short": "\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643", 
-                "chinese-short": "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3", 
-                "default": "Bosnia and Herzegovina", 
-                "french-short": "Bosnie-Herz\u00e9govine (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430", 
-                "spanish-short": "Bosnia y Herzegovina", 
+                "arabic-short": "\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643",
+                "chinese-short": "\u6ce2\u65af\u5c3c\u4e9a\u548c\u9ed1\u585e\u54e5\u7ef4\u90a3",
+                "default": "Bosnia and Herzegovina",
+                "french-short": "Bosnie-Herz\u00e9govine (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+                "spanish-short": "Bosnia y Herzegovina",
                 "unterm": null
-            }, 
-            "m49": "70", 
-            "regex": "herzegovina|bosnia", 
+            },
+            "m49": "70",
+            "regex": "herzegovina|bosnia",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "40", 
+            },
+            "reliefweb_id": "40",
             "sub-region": {
-                "code": "39", 
+                "code": "39",
                 "label": {
                     "default": "Southern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BA", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BA",
             "x-alpha-3": "BIH"
         }
     ]

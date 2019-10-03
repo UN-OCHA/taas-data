@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "25", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "25",
             "geolocation": {
-                "lat": "32.31605051", 
+                "lat": "32.31605051",
                 "lon": "-64.73984042"
-            }, 
-            "hrinfo_id": "205", 
-            "id": "25", 
+            },
+            "hrinfo_id": "205",
+            "id": "25",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "BM", 
-            "iso3": "BMU", 
+            },
+            "iso2": "BM",
+            "iso3": "BMU",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Bermuda", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Bermuda",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "60", 
-            "regex": "bermuda", 
+            },
+            "m49": "60",
+            "regex": "bermuda",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "37", 
+            },
+            "reliefweb_id": "37",
             "sub-region": {
-                "code": "21", 
+                "code": "21",
                 "label": {
                     "default": "Northern America"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "BM", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "BM",
             "x-alpha-3": "BMU"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "64", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "64",
             "geolocation": {
-                "lat": "18.89453409", 
+                "lat": "18.89453409",
                 "lon": "-70.49429315"
-            }, 
-            "hrinfo_id": "244", 
-            "id": "64", 
+            },
+            "hrinfo_id": "244",
+            "id": "64",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "DO", 
-            "iso3": "DOM", 
+            },
+            "iso2": "DO",
+            "iso3": "DOM",
             "label": {
-                "arabic-short": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u064a\u0629", 
-                "chinese-short": "\u591a\u7c73\u5c3c\u52a0", 
-                "default": "Dominican Republic", 
-                "english-short": "Dominican Republic", 
-                "french-short": "R\u00e9publique dominicaine (la)", 
-                "fts": "Dominican Republic", 
-                "humanitarianresponse": "Dominican Republic", 
-                "iso": "Dominican Republic (the)", 
-                "m49": null, 
-                "reliefweb-api": "Dominican Republic", 
-                "reliefweb-short": "Dominican Rep.", 
-                "russian-short": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", 
-                "spanish-short": "Rep\u00fablica Dominicana (la)", 
+                "arabic-short": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u064a\u0629",
+                "chinese-short": "\u591a\u7c73\u5c3c\u52a0",
+                "default": "Dominican Republic",
+                "english-short": "Dominican Republic",
+                "french-short": "R\u00e9publique dominicaine (la)",
+                "fts": "Dominican Republic",
+                "humanitarianresponse": "Dominican Republic",
+                "iso": "Dominican Republic (the)",
+                "m49": null,
+                "reliefweb-api": "Dominican Republic",
+                "reliefweb-short": "Dominican Rep.",
+                "russian-short": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "spanish-short": "Rep\u00fablica Dominicana (la)",
                 "unterm": null
-            }, 
-            "m49": "214", 
-            "regex": "dominican", 
+            },
+            "m49": "214",
+            "regex": "dominican",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "79", 
+            },
+            "reliefweb_id": "79",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "DO", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "DO",
             "x-alpha-3": "DOM"
         }
     ]
