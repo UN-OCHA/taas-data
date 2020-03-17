@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "247", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "247",
             "geolocation": {
-                "lat": "24.66295331", 
+                "lat": "24.66295331",
                 "lon": "-13.13425705"
-            }, 
-            "hrinfo_id": "427", 
-            "id": "245", 
+            },
+            "hrinfo_id": "427",
+            "id": "245",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "EH", 
-            "iso3": "ESH", 
+            },
+            "iso2": "EH",
+            "iso3": "ESH",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Western Sahara", 
-                "english-short": "Western Sahara", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Western Sahara",
+                "english-short": "Western Sahara",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "732", 
-            "regex": "\\bw.*sahara", 
+            },
+            "m49": "732",
+            "regex": "\\bw.*sahara",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "253", 
+            },
+            "reliefweb_id": "253",
             "sub-region": {
-                "code": "15", 
+                "code": "15",
                 "label": {
                     "default": "Northern Africa"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "EH", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "EH",
             "x-alpha-3": "ESH"
         }
     ]

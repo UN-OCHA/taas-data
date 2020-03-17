@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "176", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "176",
             "geolocation": {
-                "lat": "-0.736653675", 
+                "lat": "-0.736653675",
                 "lon": "127.2358509"
-            }, 
-            "hrinfo_id": "356", 
-            "id": "175", 
+            },
+            "hrinfo_id": "356",
+            "id": "175",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "PH", 
-            "iso3": "PHL", 
+            },
+            "iso2": "PH",
+            "iso3": "PHL",
             "label": {
-                "arabic-short": "\u0627\u0644\u0641\u0644\u0628\u064a\u0646", 
-                "chinese-short": "\u83f2\u5f8b\u5bbe", 
-                "default": "Philippines", 
-                "french-short": "Philippines (les) [f\u00e9m.]", 
-                "fts": "Philippines", 
-                "humanitarianresponse": "Philippines", 
-                "iso": "Philippines (the)", 
-                "m49": null, 
-                "reliefweb-api": "Philippines", 
-                "reliefweb-short": null, 
-                "russian-short": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b", 
-                "spanish-short": "Filipinas", 
+                "arabic-short": "\u0627\u0644\u0641\u0644\u0628\u064a\u0646",
+                "chinese-short": "\u83f2\u5f8b\u5bbe",
+                "default": "Philippines",
+                "french-short": "Philippines (les) [f\u00e9m.]",
+                "fts": "Philippines",
+                "humanitarianresponse": "Philippines",
+                "iso": "Philippines (the)",
+                "m49": null,
+                "reliefweb-api": "Philippines",
+                "reliefweb-short": null,
+                "russian-short": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+                "spanish-short": "Filipinas",
                 "unterm": null
-            }, 
-            "m49": "608", 
-            "regex": "philippines", 
+            },
+            "m49": "608",
+            "regex": "philippines",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "188", 
+            },
+            "reliefweb_id": "188",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "PH", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "PH",
             "x-alpha-3": "PHL"
         }
     ]

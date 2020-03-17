@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "243", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "243",
             "geolocation": {
-                "lat": "16.64893259", 
+                "lat": "16.64893259",
                 "lon": "106.3103686"
-            }, 
-            "hrinfo_id": "423", 
-            "id": "242", 
+            },
+            "hrinfo_id": "423",
+            "id": "242",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "VN", 
-            "iso3": "VNM", 
+            },
+            "iso2": "VN",
+            "iso3": "VNM",
             "label": {
-                "arabic-short": "\u0641\u064a\u064a\u062a \u0646\u0627\u0645", 
-                "chinese-short": "\u8d8a\u5357", 
-                "default": "Viet Nam", 
-                "french-short": "Viet Nam (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c", 
-                "spanish-short": "Viet Nam", 
+                "arabic-short": "\u0641\u064a\u064a\u062a \u0646\u0627\u0645",
+                "chinese-short": "\u8d8a\u5357",
+                "default": "Viet Nam",
+                "french-short": "Viet Nam (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c",
+                "spanish-short": "Viet Nam",
                 "unterm": null
-            }, 
-            "m49": "704", 
-            "regex": "^((?!n|s|.*republic)|(?=.*socialist)).*viet.?nam(?! *,? *n| *,? *s)", 
+            },
+            "m49": "704",
+            "regex": "^((?!n|s|.*republic)|(?=.*socialist)).*viet.?nam(?! *,? *n| *,? *s)",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "251", 
+            },
+            "reliefweb_id": "251",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "VN", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "VN",
             "x-alpha-3": "VNM"
         }
     ]

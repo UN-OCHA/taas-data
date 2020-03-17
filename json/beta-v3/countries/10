@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "10", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "10",
             "geolocation": {
-                "lat": "17.07120733", 
+                "lat": "17.07120733",
                 "lon": "-61.79815058"
-            }, 
-            "hrinfo_id": "190", 
-            "id": "10", 
+            },
+            "hrinfo_id": "190",
+            "id": "10",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "AG", 
-            "iso3": "ATG", 
+            },
+            "iso2": "AG",
+            "iso3": "ATG",
             "label": {
-                "arabic-short": "\u0623\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627", 
-                "chinese-short": "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe", 
-                "default": "Antigua and Barbuda", 
-                "english-short": "Antigua and Barbuda", 
-                "french-short": "Antigua-et-Barbuda [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430", 
-                "spanish-short": "Antigua y Barbuda", 
+                "arabic-short": "\u0623\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627",
+                "chinese-short": "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe",
+                "default": "Antigua and Barbuda",
+                "english-short": "Antigua and Barbuda",
+                "french-short": "Antigua-et-Barbuda [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430",
+                "spanish-short": "Antigua y Barbuda",
                 "unterm": null
-            }, 
-            "m49": "28", 
-            "regex": "antigua", 
+            },
+            "m49": "28",
+            "regex": "antigua",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "21", 
+            },
+            "reliefweb_id": "21",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "AG", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "AG",
             "x-alpha-3": "ATG"
         }
     ]

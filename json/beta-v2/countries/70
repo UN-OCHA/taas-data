@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "70", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "70",
             "geolocation": {
-                "lat": "58.70758667", 
+                "lat": "58.70758667",
                 "lon": "26.168216"
-            }, 
-            "hrinfo_id": "250", 
-            "id": "70", 
+            },
+            "hrinfo_id": "250",
+            "id": "70",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "EE", 
-            "iso3": "EST", 
+            },
+            "iso2": "EE",
+            "iso3": "EST",
             "label": {
-                "arabic-short": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627", 
-                "chinese-short": "\u7231\u6c99\u5c3c\u4e9a", 
-                "default": "Estonia", 
-                "french-short": "Estonie (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f", 
-                "spanish-short": "Estonia", 
+                "arabic-short": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627",
+                "chinese-short": "\u7231\u6c99\u5c3c\u4e9a",
+                "default": "Estonia",
+                "french-short": "Estonie (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+                "spanish-short": "Estonia",
                 "unterm": null
-            }, 
-            "m49": "233", 
-            "regex": "estonia", 
+            },
+            "m49": "233",
+            "regex": "estonia",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "86", 
+            },
+            "reliefweb_id": "86",
             "sub-region": {
-                "code": "154", 
+                "code": "154",
                 "label": {
                     "default": "Northern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "EE", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "EE",
             "x-alpha-3": "EST"
         }
     ]

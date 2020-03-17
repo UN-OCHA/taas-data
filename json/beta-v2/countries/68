@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "68", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "68",
             "geolocation": {
-                "lat": "1.412936146", 
+                "lat": "1.412936146",
                 "lon": "10.61572825"
-            }, 
-            "hrinfo_id": "248", 
-            "id": "68", 
+            },
+            "hrinfo_id": "248",
+            "id": "68",
             "intermediate-region": {
-                "code": "17", 
+                "code": "17",
                 "label": {
                     "default": "Middle Africa"
                 }
-            }, 
-            "iso2": "GQ", 
-            "iso3": "GNQ", 
+            },
+            "iso2": "GQ",
+            "iso3": "GNQ",
             "label": {
-                "arabic-short": "\u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629", 
-                "chinese-short": "\u8d64\u9053\u51e0\u5185\u4e9a", 
-                "default": "Equatorial Guinea", 
-                "french-short": "Guin\u00e9e \u00e9quatoriale (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f", 
-                "spanish-short": "Guinea Ecuatorial", 
+                "arabic-short": "\u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629",
+                "chinese-short": "\u8d64\u9053\u51e0\u5185\u4e9a",
+                "default": "Equatorial Guinea",
+                "french-short": "Guin\u00e9e \u00e9quatoriale (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+                "spanish-short": "Guinea Ecuatorial",
                 "unterm": null
-            }, 
-            "m49": "226", 
-            "regex": "guine.*eq|eq.*guine|^(?=.*span).*guinea", 
+            },
+            "m49": "226",
+            "regex": "guine.*eq|eq.*guine|^(?=.*span).*guinea",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "84", 
+            },
+            "reliefweb_id": "84",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "GQ", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GQ",
             "x-alpha-3": "GNQ"
         }
     ]

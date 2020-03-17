@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "109", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "109",
             "geolocation": {
-                "lat": "31.33857325", 
+                "lat": "31.33857325",
                 "lon": "34.96023155"
-            }, 
-            "hrinfo_id": "289", 
-            "id": "109", 
+            },
+            "hrinfo_id": "289",
+            "id": "109",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "IL", 
-            "iso3": "ISR", 
+            },
+            "iso2": "IL",
+            "iso3": "ISR",
             "label": {
-                "arabic-short": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644", 
-                "chinese-short": "\u4ee5\u8272\u5217", 
-                "default": "Israel", 
-                "english-short": "Israel", 
-                "french-short": "Isra\u00ebl [masc.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c", 
-                "spanish-short": "Israel", 
+                "arabic-short": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+                "chinese-short": "\u4ee5\u8272\u5217",
+                "default": "Israel",
+                "english-short": "Israel",
+                "french-short": "Isra\u00ebl [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+                "spanish-short": "Israel",
                 "unterm": null
-            }, 
-            "m49": "376", 
-            "regex": "israel", 
+            },
+            "m49": "376",
+            "regex": "israel",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "125", 
+            },
+            "reliefweb_id": "125",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "IL", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "IL",
             "x-alpha-3": "ISR"
         }
     ]

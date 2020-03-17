@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "167", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "167",
             "geolocation": {
-                "lat": "64.41197955", 
+                "lat": "64.41197955",
                 "lon": "14.06269622"
-            }, 
-            "hrinfo_id": "347", 
-            "id": "166", 
+            },
+            "hrinfo_id": "347",
+            "id": "166",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "NO", 
-            "iso3": "NOR", 
+            },
+            "iso2": "NO",
+            "iso3": "NOR",
             "label": {
-                "arabic-short": "\u0627\u0644\u0646\u0631\u0648\u064a\u062c", 
-                "chinese-short": "\u632a\u5a01", 
-                "default": "Norway", 
-                "english-short": "Norway", 
-                "french-short": "Norv\u00e8ge (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f", 
-                "spanish-short": "Noruega", 
+                "arabic-short": "\u0627\u0644\u0646\u0631\u0648\u064a\u062c",
+                "chinese-short": "\u632a\u5a01",
+                "default": "Norway",
+                "english-short": "Norway",
+                "french-short": "Norv\u00e8ge (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+                "spanish-short": "Noruega",
                 "unterm": null
-            }, 
-            "m49": "578", 
-            "regex": "norway", 
+            },
+            "m49": "578",
+            "regex": "norway",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "179", 
+            },
+            "reliefweb_id": "179",
             "sub-region": {
-                "code": "154", 
+                "code": "154",
                 "label": {
                     "default": "Northern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "NO", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "NO",
             "x-alpha-3": "NOR"
         }
     ]

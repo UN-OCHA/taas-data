@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "229", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "229",
             "geolocation": {
-                "lat": "38.91218946", 
+                "lat": "38.91218946",
                 "lon": "35.69849765"
-            }, 
-            "hrinfo_id": "409", 
-            "id": "228", 
+            },
+            "hrinfo_id": "409",
+            "id": "228",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "TR", 
-            "iso3": "TUR", 
+            },
+            "iso2": "TR",
+            "iso3": "TUR",
             "label": {
-                "arabic-short": "\u062a\u0631\u0643\u064a\u0627", 
-                "chinese-short": "\u571f\u8033\u5176", 
-                "default": "Turkey", 
-                "french-short": "Turquie (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0422\u0443\u0440\u0446\u0438\u044f", 
-                "spanish-short": "Turqu\u00eda", 
+                "arabic-short": "\u062a\u0631\u0643\u064a\u0627",
+                "chinese-short": "\u571f\u8033\u5176",
+                "default": "Turkey",
+                "french-short": "Turquie (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0422\u0443\u0440\u0446\u0438\u044f",
+                "spanish-short": "Turqu\u00eda",
                 "unterm": null
-            }, 
-            "m49": "792", 
-            "regex": "turkey", 
+            },
+            "m49": "792",
+            "regex": "turkey",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "236", 
+            },
+            "reliefweb_id": "236",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "TR", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "TR",
             "x-alpha-3": "TUR"
         }
     ]

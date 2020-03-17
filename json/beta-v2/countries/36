@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "36", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "36",
             "geolocation": {
-                "lat": "12.27790144", 
+                "lat": "12.27790144",
                 "lon": "-1.738649343"
-            }, 
-            "hrinfo_id": "216", 
-            "id": "36", 
+            },
+            "hrinfo_id": "216",
+            "id": "36",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "BF", 
-            "iso3": "BFA", 
+            },
+            "iso2": "BF",
+            "iso3": "BFA",
             "label": {
-                "arabic-short": "\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648", 
-                "chinese-short": "\u5e03\u57fa\u7eb3\u6cd5\u7d22", 
-                "default": "Burkina Faso", 
-                "french-short": "Burkina Faso (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e", 
-                "spanish-short": "Burkina Faso", 
+                "arabic-short": "\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648",
+                "chinese-short": "\u5e03\u57fa\u7eb3\u6cd5\u7d22",
+                "default": "Burkina Faso",
+                "french-short": "Burkina Faso (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e",
+                "spanish-short": "Burkina Faso",
                 "unterm": null
-            }, 
-            "m49": "854", 
-            "regex": "burkina|\\bfaso|upper.?volta", 
+            },
+            "m49": "854",
+            "regex": "burkina|\\bfaso|upper.?volta",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "46", 
+            },
+            "reliefweb_id": "46",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BF", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BF",
             "x-alpha-3": "BFA"
         }
     ]

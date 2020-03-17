@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "51", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "51",
             "geolocation": {
-                "lat": "-0.83949506", 
+                "lat": "-0.83949506",
                 "lon": "15.22629207"
-            }, 
-            "hrinfo_id": "231", 
-            "id": "51", 
+            },
+            "hrinfo_id": "231",
+            "id": "51",
             "intermediate-region": {
-                "code": "17", 
+                "code": "17",
                 "label": {
                     "default": "Middle Africa"
                 }
-            }, 
-            "iso2": "CG", 
-            "iso3": "COG", 
+            },
+            "iso2": "CG",
+            "iso3": "COG",
             "label": {
-                "arabic-short": "\u0627\u0644\u0643\u0648\u0646\u063a\u0648", 
-                "chinese-short": "\u521a\u679c", 
-                "default": "Congo", 
-                "english-short": "Congo Republic", 
-                "french-short": "Congo (le)", 
-                "fts": "Congo", 
-                "humanitarianresponse": "Congo", 
-                "iso": "Congo (the)", 
-                "m49": null, 
-                "reliefweb-api": "Congo", 
-                "reliefweb-short": null, 
-                "russian-short": "\u041a\u043e\u043d\u0433\u043e", 
-                "spanish-short": "Congo (el)", 
+                "arabic-short": "\u0627\u0644\u0643\u0648\u0646\u063a\u0648",
+                "chinese-short": "\u521a\u679c",
+                "default": "Congo",
+                "english-short": "Congo Republic",
+                "french-short": "Congo (le)",
+                "fts": "Congo",
+                "humanitarianresponse": "Congo",
+                "iso": "Congo (the)",
+                "m49": null,
+                "reliefweb-api": "Congo",
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u043e\u043d\u0433\u043e",
+                "spanish-short": "Congo (el)",
                 "unterm": null
-            }, 
-            "m49": "178", 
-            "regex": "^(?!.*\\bdem)(?!.*\\bdr)(?!.*kinshasa)(?!.*zaire)(?!.*belg)(?!.*l\\w{1,2}opoldville)(?!.*free)(^rep.*).*\\bcongo.*(?!.*\\bdem)(?!.*\\bdr).*|\\bwest.*congo|^congo.+republic$|^congo.+rep\\.$|^congo$|\\bcongo.*brazza.*", 
+            },
+            "m49": "178",
+            "regex": "^(?!.*\\bdem)(?!.*\\bdr)(?!.*kinshasa)(?!.*zaire)(?!.*belg)(?!.*l\\w{1,2}opoldville)(?!.*free)(^rep.*).*\\bcongo.*(?!.*\\bdem)(?!.*\\bdr).*|\\bwest.*congo|^congo.+republic$|^congo.+rep\\.$|^congo$|\\bcongo.*brazza.*",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "66", 
+            },
+            "reliefweb_id": "66",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "CG", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CG",
             "x-alpha-3": "COG"
         }
     ]

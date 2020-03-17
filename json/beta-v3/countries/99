@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "99", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "99",
             "geolocation": {
-                "lat": "14.80908243", 
+                "lat": "14.80908243",
                 "lon": "-86.63495948"
-            }, 
-            "hrinfo_id": "279", 
-            "id": "99", 
+            },
+            "hrinfo_id": "279",
+            "id": "99",
             "intermediate-region": {
-                "code": "13", 
+                "code": "13",
                 "label": {
                     "default": "Central America"
                 }
-            }, 
-            "iso2": "HN", 
-            "iso3": "HND", 
+            },
+            "iso2": "HN",
+            "iso3": "HND",
             "label": {
-                "arabic-short": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633", 
-                "chinese-short": "\u6d2a\u90fd\u62c9\u65af", 
-                "default": "Honduras", 
-                "english-short": "Honduras", 
-                "french-short": "Honduras (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441", 
-                "spanish-short": "Honduras", 
+                "arabic-short": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+                "chinese-short": "\u6d2a\u90fd\u62c9\u65af",
+                "default": "Honduras",
+                "english-short": "Honduras",
+                "french-short": "Honduras (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+                "spanish-short": "Honduras",
                 "unterm": null
-            }, 
-            "m49": "340", 
-            "regex": "^(?!.*brit).*honduras", 
+            },
+            "m49": "340",
+            "regex": "^(?!.*brit).*honduras",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "116", 
+            },
+            "reliefweb_id": "116",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "HN", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "HN",
             "x-alpha-3": "HND"
         }
     ]

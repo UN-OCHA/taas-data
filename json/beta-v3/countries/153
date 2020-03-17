@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "153", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "153",
             "geolocation": {
-                "lat": "21.17952353", 
+                "lat": "21.17952353",
                 "lon": "96.50232755"
-            }, 
-            "hrinfo_id": "333", 
-            "id": "153", 
+            },
+            "hrinfo_id": "333",
+            "id": "153",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "MM", 
-            "iso3": "MMR", 
+            },
+            "iso2": "MM",
+            "iso3": "MMR",
             "label": {
-                "arabic-short": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631", 
-                "chinese-short": "\u7f05\u7538", 
-                "default": "Myanmar", 
-                "english-short": "Myanmar", 
-                "french-short": "Myanmar (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041c\u044c\u044f\u043d\u043c\u0430", 
-                "spanish-short": "Myanmar", 
+                "arabic-short": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631",
+                "chinese-short": "\u7f05\u7538",
+                "default": "Myanmar",
+                "english-short": "Myanmar",
+                "french-short": "Myanmar (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041c\u044c\u044f\u043d\u043c\u0430",
+                "spanish-short": "Myanmar",
                 "unterm": null
-            }, 
-            "m49": "104", 
-            "regex": "myanmar|burma", 
+            },
+            "m49": "104",
+            "regex": "myanmar|burma",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "165", 
+            },
+            "reliefweb_id": "165",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "MM", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "MM",
             "x-alpha-3": "MMR"
         }
     ]

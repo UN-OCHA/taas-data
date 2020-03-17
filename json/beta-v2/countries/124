@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "124", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "124",
             "geolocation": {
-                "lat": "33.91995955", 
+                "lat": "33.91995955",
                 "lon": "35.88513386"
-            }, 
-            "hrinfo_id": "304", 
-            "id": "124", 
+            },
+            "hrinfo_id": "304",
+            "id": "124",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "LB", 
-            "iso3": "LBN", 
+            },
+            "iso2": "LB",
+            "iso3": "LBN",
             "label": {
-                "arabic-short": "\u0644\u0628\u0646\u0627\u0646", 
-                "chinese-short": "\u9ece\u5df4\u5ae9", 
-                "default": "Lebanon", 
-                "french-short": "Liban (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041b\u0438\u0432\u0430\u043d", 
-                "spanish-short": "L\u00edbano (el)", 
+                "arabic-short": "\u0644\u0628\u0646\u0627\u0646",
+                "chinese-short": "\u9ece\u5df4\u5ae9",
+                "default": "Lebanon",
+                "french-short": "Liban (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041b\u0438\u0432\u0430\u043d",
+                "spanish-short": "L\u00edbano (el)",
                 "unterm": null
-            }, 
-            "m49": "422", 
-            "regex": "lebanon|lebanese", 
+            },
+            "m49": "422",
+            "regex": "lebanon|lebanese",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "137", 
+            },
+            "reliefweb_id": "137",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "LB", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "LB",
             "x-alpha-3": "LBN"
         }
     ]

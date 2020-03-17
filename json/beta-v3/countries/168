@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "169", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "169",
             "geolocation": {
-                "lat": "29.35468377", 
+                "lat": "29.35468377",
                 "lon": "68.78655545"
-            }, 
-            "hrinfo_id": "349", 
-            "id": "168", 
+            },
+            "hrinfo_id": "349",
+            "id": "168",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "PK", 
-            "iso3": "PAK", 
+            },
+            "iso2": "PK",
+            "iso3": "PAK",
             "label": {
-                "arabic-short": "\u0628\u0627\u0643\u0633\u062a\u0627\u0646", 
-                "chinese-short": "\u5df4\u57fa\u65af\u5766", 
-                "default": "Pakistan", 
-                "english-short": "Pakistan", 
-                "french-short": "Pakistan (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d", 
-                "spanish-short": "Pakist\u00e1n (el)", 
+                "arabic-short": "\u0628\u0627\u0643\u0633\u062a\u0627\u0646",
+                "chinese-short": "\u5df4\u57fa\u65af\u5766",
+                "default": "Pakistan",
+                "english-short": "Pakistan",
+                "french-short": "Pakistan (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+                "spanish-short": "Pakist\u00e1n (el)",
                 "unterm": null
-            }, 
-            "m49": "586", 
-            "regex": "^(?!.*east).*paki?stan", 
+            },
+            "m49": "586",
+            "regex": "^(?!.*east).*paki?stan",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "182", 
+            },
+            "reliefweb_id": "182",
             "sub-region": {
-                "code": "34", 
+                "code": "34",
                 "label": {
                     "default": "Southern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "PK", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "PK",
             "x-alpha-3": "PAK"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "55", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "55",
             "geolocation": {
-                "lat": "7.630087005", 
+                "lat": "7.630087005",
                 "lon": "-5.552402136"
-            }, 
-            "hrinfo_id": "235", 
-            "id": "55", 
+            },
+            "hrinfo_id": "235",
+            "id": "55",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "CI", 
-            "iso3": "CIV", 
+            },
+            "iso2": "CI",
+            "iso3": "CIV",
             "label": {
-                "arabic-short": "\u0643\u0648\u062a \u062f\u064a\u0641\u0648\u0627\u0631", 
-                "chinese-short": "\u79d1\u7279\u8fea\u74e6", 
-                "default": "C\u00f4te d'Ivoire", 
-                "english-short": "Cote d'Ivoire", 
-                "french-short": "C\u00f4te d'Ivoire (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440", 
-                "spanish-short": "C\u00f4te d'Ivoire", 
+                "arabic-short": "\u0643\u0648\u062a \u062f\u064a\u0641\u0648\u0627\u0631",
+                "chinese-short": "\u79d1\u7279\u8fea\u74e6",
+                "default": "C\u00f4te d'Ivoire",
+                "english-short": "Cote d'Ivoire",
+                "french-short": "C\u00f4te d'Ivoire (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440",
+                "spanish-short": "C\u00f4te d'Ivoire",
                 "unterm": null
-            }, 
-            "m49": "384", 
-            "regex": ".*(ivoire|ivory)", 
+            },
+            "m49": "384",
+            "regex": ".*(ivoire|ivory)",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "69", 
+            },
+            "reliefweb_id": "69",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "CI", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CI",
             "x-alpha-3": "CIV"
         }
     ]

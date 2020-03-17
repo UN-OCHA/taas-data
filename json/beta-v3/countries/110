@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "110", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "110",
             "geolocation": {
-                "lat": "43.76610159", 
+                "lat": "43.76610159",
                 "lon": "11.68396919"
-            }, 
-            "hrinfo_id": "290", 
-            "id": "110", 
+            },
+            "hrinfo_id": "290",
+            "id": "110",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "IT", 
-            "iso3": "ITA", 
+            },
+            "iso2": "IT",
+            "iso3": "ITA",
             "label": {
-                "arabic-short": "\u0625\u064a\u0637\u0627\u0644\u064a\u0627", 
-                "chinese-short": "\u610f\u5927\u5229", 
-                "default": "Italy", 
-                "english-short": "Italy", 
-                "french-short": "Italie (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0418\u0442\u0430\u043b\u0438\u044f", 
-                "spanish-short": "Italia", 
+                "arabic-short": "\u0625\u064a\u0637\u0627\u0644\u064a\u0627",
+                "chinese-short": "\u610f\u5927\u5229",
+                "default": "Italy",
+                "english-short": "Italy",
+                "french-short": "Italie (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0418\u0442\u0430\u043b\u0438\u044f",
+                "spanish-short": "Italia",
                 "unterm": null
-            }, 
-            "m49": "380", 
-            "regex": ".*italy|.*italia.*", 
+            },
+            "m49": "380",
+            "regex": ".*italy|.*italia.*",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "126", 
+            },
+            "reliefweb_id": "126",
             "sub-region": {
-                "code": "39", 
+                "code": "39",
                 "label": {
                     "default": "Southern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "IT", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "IT",
             "x-alpha-3": "ITA"
         }
     ]

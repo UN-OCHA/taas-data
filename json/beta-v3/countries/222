@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "223", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "223",
             "geolocation": {
-                "lat": "-8.767718612", 
+                "lat": "-8.767718612",
                 "lon": "126.0420452"
-            }, 
-            "hrinfo_id": "403", 
-            "id": "222", 
+            },
+            "hrinfo_id": "403",
+            "id": "222",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "TL", 
-            "iso3": "TLS", 
+            },
+            "iso2": "TL",
+            "iso3": "TLS",
             "label": {
-                "arabic-short": "\u062a\u064a\u0645\u0648\u0631- \u0644\u064a\u0634\u062a\u064a", 
-                "chinese-short": "\u4e1c\u5e1d\u6c76", 
-                "default": "Timor-Leste", 
-                "english-short": "Timor-Leste", 
-                "french-short": "Timor-Leste (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0438", 
-                "spanish-short": "Timor-Leste", 
+                "arabic-short": "\u062a\u064a\u0645\u0648\u0631- \u0644\u064a\u0634\u062a\u064a",
+                "chinese-short": "\u4e1c\u5e1d\u6c76",
+                "default": "Timor-Leste",
+                "english-short": "Timor-Leste",
+                "french-short": "Timor-Leste (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0438",
+                "spanish-short": "Timor-Leste",
                 "unterm": null
-            }, 
-            "m49": "626", 
-            "regex": "^(?=.*leste).*timor|^(?=.*east).*timor", 
+            },
+            "m49": "626",
+            "regex": "^(?=.*leste).*timor|^(?=.*east).*timor",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "230", 
+            },
+            "reliefweb_id": "230",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "TL", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "TL",
             "x-alpha-3": "TLS"
         }
     ]

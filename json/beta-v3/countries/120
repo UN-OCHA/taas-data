@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "120", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "120",
             "geolocation": {
-                "lat": "29.29832118", 
+                "lat": "29.29832118",
                 "lon": "47.53304536"
-            }, 
-            "hrinfo_id": "300", 
-            "id": "120", 
+            },
+            "hrinfo_id": "300",
+            "id": "120",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "KW", 
-            "iso3": "KWT", 
+            },
+            "iso2": "KW",
+            "iso3": "KWT",
             "label": {
-                "arabic-short": "\u0627\u0644\u0643\u0648\u064a\u062a", 
-                "chinese-short": "\u79d1\u5a01\u7279", 
-                "default": "Kuwait", 
-                "english-short": "Kuwait", 
-                "french-short": "Kowe\u00eft (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041a\u0443\u0432\u0435\u0439\u0442", 
-                "spanish-short": "Kuwait", 
+                "arabic-short": "\u0627\u0644\u0643\u0648\u064a\u062a",
+                "chinese-short": "\u79d1\u5a01\u7279",
+                "default": "Kuwait",
+                "english-short": "Kuwait",
+                "french-short": "Kowe\u00eft (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u0443\u0432\u0435\u0439\u0442",
+                "spanish-short": "Kuwait",
                 "unterm": null
-            }, 
-            "m49": "414", 
-            "regex": "kuwait", 
+            },
+            "m49": "414",
+            "regex": "kuwait",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "133", 
+            },
+            "reliefweb_id": "133",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "KW", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "KW",
             "x-alpha-3": "KWT"
         }
     ]

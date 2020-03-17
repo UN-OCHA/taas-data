@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "232", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "232",
             "geolocation": {
-                "lat": "-10.46069351", 
+                "lat": "-10.46069351",
                 "lon": "181.0881855"
-            }, 
-            "hrinfo_id": "412", 
-            "id": "231", 
+            },
+            "hrinfo_id": "412",
+            "id": "231",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "TV", 
-            "iso3": "TUV", 
+            },
+            "iso2": "TV",
+            "iso3": "TUV",
             "label": {
-                "arabic-short": "\u062a\u0648\u0641\u0627\u0644\u0648", 
-                "chinese-short": "\u56fe\u74e6\u5362", 
-                "default": "Tuvalu", 
-                "english-short": "Tuvalu", 
-                "french-short": "Tuvalu (les) [masc.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0422\u0443\u0432\u0430\u043b\u0443", 
-                "spanish-short": "Tuvalu", 
+                "arabic-short": "\u062a\u0648\u0641\u0627\u0644\u0648",
+                "chinese-short": "\u56fe\u74e6\u5362",
+                "default": "Tuvalu",
+                "english-short": "Tuvalu",
+                "french-short": "Tuvalu (les) [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0422\u0443\u0432\u0430\u043b\u0443",
+                "spanish-short": "Tuvalu",
                 "unterm": null
-            }, 
-            "m49": "798", 
-            "regex": "tuvalu", 
+            },
+            "m49": "798",
+            "regex": "tuvalu",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "239", 
+            },
+            "reliefweb_id": "239",
             "sub-region": {
-                "code": "61", 
+                "code": "61",
                 "label": {
                     "default": "Polynesia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "TV", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "TV",
             "x-alpha-3": "TUV"
         }
     ]

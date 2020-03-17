@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "242", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "242",
             "geolocation": {
-                "lat": "7.115201972", 
+                "lat": "7.115201972",
                 "lon": "-66.18367077"
-            }, 
-            "hrinfo_id": "422", 
-            "id": "241", 
+            },
+            "hrinfo_id": "422",
+            "id": "241",
             "intermediate-region": {
-                "code": "5", 
+                "code": "5",
                 "label": {
                     "default": "South America"
                 }
-            }, 
-            "iso2": "VE", 
-            "iso3": "VEN", 
+            },
+            "iso2": "VE",
+            "iso3": "VEN",
             "label": {
-                "arabic-short": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627", 
-                "chinese-short": "\u59d4\u5185\u745e\u62c9(\u73bb\u5229\u74e6\u5c14\u5171\u548c\u56fd)", 
-                "default": "Venezuela (Bolivarian Republic of)", 
-                "english-short": "Venezuela", 
-                "french-short": "Venezuela (R\u00e9publique bolivarienne du)", 
-                "fts": "Venezuela, Bolivarian Republic of", 
-                "humanitarianresponse": "Venezuela, Bolivarian Republic of", 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": "Venezuela", 
-                "russian-short": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430 (\u0411\u043e\u043b\u0438\u0432\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430)", 
-                "spanish-short": "Venezuela (Rep\u00fablica Bolivariana de)", 
+                "arabic-short": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627",
+                "chinese-short": "\u59d4\u5185\u745e\u62c9(\u73bb\u5229\u74e6\u5c14\u5171\u548c\u56fd)",
+                "default": "Venezuela (Bolivarian Republic of)",
+                "english-short": "Venezuela",
+                "french-short": "Venezuela (R\u00e9publique bolivarienne du)",
+                "fts": "Venezuela, Bolivarian Republic of",
+                "humanitarianresponse": "Venezuela, Bolivarian Republic of",
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": "Venezuela",
+                "russian-short": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430 (\u0411\u043e\u043b\u0438\u0432\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430)",
+                "spanish-short": "Venezuela (Rep\u00fablica Bolivariana de)",
                 "unterm": null
-            }, 
-            "m49": "862", 
-            "regex": "venezuela", 
+            },
+            "m49": "862",
+            "regex": "venezuela",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "250", 
+            },
+            "reliefweb_id": "250",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "VE", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "VE",
             "x-alpha-3": "VEN"
         }
     ]

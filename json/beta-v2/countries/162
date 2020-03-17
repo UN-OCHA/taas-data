@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "162", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "162",
             "geolocation": {
-                "lat": "17.42463558", 
+                "lat": "17.42463558",
                 "lon": "9.397470038"
-            }, 
-            "hrinfo_id": "342", 
-            "id": "162", 
+            },
+            "hrinfo_id": "342",
+            "id": "162",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "NE", 
-            "iso3": "NER", 
+            },
+            "iso2": "NE",
+            "iso3": "NER",
             "label": {
-                "arabic-short": "\u0627\u0644\u0646\u064a\u062c\u0631", 
-                "chinese-short": "\u5c3c\u65e5\u5c14", 
-                "default": "Niger", 
-                "french-short": "Niger (le)", 
-                "fts": "Niger", 
-                "humanitarianresponse": "Niger", 
-                "iso": "Niger (the)", 
-                "m49": null, 
-                "reliefweb-api": "Niger", 
-                "reliefweb-short": null, 
-                "russian-short": "\u041d\u0438\u0433\u0435\u0440", 
-                "spanish-short": "N\u00edger (el)", 
+                "arabic-short": "\u0627\u0644\u0646\u064a\u062c\u0631",
+                "chinese-short": "\u5c3c\u65e5\u5c14",
+                "default": "Niger",
+                "french-short": "Niger (le)",
+                "fts": "Niger",
+                "humanitarianresponse": "Niger",
+                "iso": "Niger (the)",
+                "m49": null,
+                "reliefweb-api": "Niger",
+                "reliefweb-short": null,
+                "russian-short": "\u041d\u0438\u0433\u0435\u0440",
+                "spanish-short": "N\u00edger (el)",
                 "unterm": null
-            }, 
-            "m49": "562", 
-            "regex": "\\bniger(?!ia)", 
+            },
+            "m49": "562",
+            "regex": "\\bniger(?!ia)",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "174", 
+            },
+            "reliefweb_id": "174",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "NE", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "NE",
             "x-alpha-3": "NER"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "155", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "155",
             "geolocation": {
-                "lat": "-0.528781574", 
+                "lat": "-0.528781574",
                 "lon": "166.9232132"
-            }, 
-            "hrinfo_id": "335", 
-            "id": "155", 
+            },
+            "hrinfo_id": "335",
+            "id": "155",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "NR", 
-            "iso3": "NRU", 
+            },
+            "iso2": "NR",
+            "iso3": "NRU",
             "label": {
-                "arabic-short": "\u0646\u0627\u0648\u0631\u0648", 
-                "chinese-short": "\u7459\u9c81", 
-                "default": "Nauru", 
-                "english-short": "Nauru", 
-                "french-short": "Nauru [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041d\u0430\u0443\u0440\u0443", 
-                "spanish-short": "Nauru", 
+                "arabic-short": "\u0646\u0627\u0648\u0631\u0648",
+                "chinese-short": "\u7459\u9c81",
+                "default": "Nauru",
+                "english-short": "Nauru",
+                "french-short": "Nauru [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041d\u0430\u0443\u0440\u0443",
+                "spanish-short": "Nauru",
                 "unterm": null
-            }, 
-            "m49": "520", 
-            "regex": "nauru", 
+            },
+            "m49": "520",
+            "regex": "nauru",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "167", 
+            },
+            "reliefweb_id": "167",
             "sub-region": {
-                "code": "57", 
+                "code": "57",
                 "label": {
                     "default": "Micronesia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "NR", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "NR",
             "x-alpha-3": "NRU"
         }
     ]

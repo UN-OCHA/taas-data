@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "100", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "100",
             "geolocation": {
-                "lat": "22.4216098", 
+                "lat": "22.4216098",
                 "lon": "114.1539976"
-            }, 
-            "hrinfo_id": "280", 
-            "id": "100", 
+            },
+            "hrinfo_id": "280",
+            "id": "100",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "HK", 
-            "iso3": "HKG", 
+            },
+            "iso2": "HK",
+            "iso3": "HKG",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "China, Hong Kong Special Administrative Region", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": "Hong Kong", 
-                "m49": null, 
-                "reliefweb-api": "China - Hong Kong (Special Administrative Region)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "China, Hong Kong Special Administrative Region",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": "Hong Kong",
+                "m49": null,
+                "reliefweb-api": "China - Hong Kong (Special Administrative Region)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "344", 
-            "regex": ".*hong.*kong", 
+            },
+            "m49": "344",
+            "regex": ".*hong.*kong",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "59", 
+            },
+            "reliefweb_id": "59",
             "sub-region": {
-                "code": "30", 
+                "code": "30",
                 "label": {
                     "default": "Eastern Asia"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "HK", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "HK",
             "x-alpha-3": "HKG"
         }
     ]

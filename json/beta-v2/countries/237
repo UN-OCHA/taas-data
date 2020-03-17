@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "238", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "238",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "418", 
-            "id": "237", 
+            },
+            "hrinfo_id": "418",
+            "id": "237",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "UM", 
-            "iso3": "UMI", 
+            },
+            "iso2": "UM",
+            "iso3": "UMI",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "United States Minor Outlying Islands (the)", 
-                "french-short": null, 
-                "fts": "United States Minor Outlying Islands", 
-                "humanitarianresponse": "United States Minor Outlying Islands", 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "United States Minor Outlying Islands (the)",
+                "french-short": null,
+                "fts": "United States Minor Outlying Islands",
+                "humanitarianresponse": "United States Minor Outlying Islands",
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "581", 
-            "regex": "minor.?outlying.?is", 
+            },
+            "m49": "581",
+            "regex": "minor.?outlying.?is",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": null, 
+            },
+            "reliefweb_id": null,
             "sub-region": {
-                "code": "57", 
+                "code": "57",
                 "label": {
                     "default": "Micronesia"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "UM", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "UM",
             "x-alpha-3": "UMI"
         }
     ]

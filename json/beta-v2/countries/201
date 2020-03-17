@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "202", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "202",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "382", 
-            "id": "201", 
+            },
+            "hrinfo_id": "382",
+            "id": "201",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "SX", 
-            "iso3": "SXM", 
+            },
+            "iso2": "SX",
+            "iso3": "SXM",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Sint Maarten (Dutch part)", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Sint Maarten (The Netherlands)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Sint Maarten (Dutch part)",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Sint Maarten (The Netherlands)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "534", 
-            "regex": "^(?!.*martin)(?!.*saba).*maarten|dutch.*martin|martin.*dutch", 
+            },
+            "m49": "534",
+            "regex": "^(?!.*martin)(?!.*saba).*maarten|dutch.*martin|martin.*dutch",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "14892", 
+            },
+            "reliefweb_id": "14892",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "SX", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "SX",
             "x-alpha-3": "SXM"
         }
     ]

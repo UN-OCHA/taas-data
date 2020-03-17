@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "208", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "208",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "388", 
-            "id": "207", 
+            },
+            "hrinfo_id": "388",
+            "id": "207",
             "intermediate-region": {
-                "code": "5", 
+                "code": "5",
                 "label": {
                     "default": "South America"
                 }
-            }, 
-            "iso2": "GS", 
-            "iso3": "SGS", 
+            },
+            "iso2": "GS",
+            "iso3": "SGS",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "South Georgia and the South Sandwich Islands", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "South Georgia and the South Sandwich Islands",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "239", 
-            "regex": "south.?georgia|sandwich", 
+            },
+            "m49": "239",
+            "regex": "south.?georgia|sandwich",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": null, 
+            },
+            "reliefweb_id": null,
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "GS", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "GS",
             "x-alpha-3": "SGS"
         }
     ]

@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "23", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "23",
             "geolocation": {
-                "lat": "17.20829609", 
+                "lat": "17.20829609",
                 "lon": "-88.69988922"
-            }, 
-            "hrinfo_id": "203", 
-            "id": "23", 
+            },
+            "hrinfo_id": "203",
+            "id": "23",
             "intermediate-region": {
-                "code": "13", 
+                "code": "13",
                 "label": {
                     "default": "Central America"
                 }
-            }, 
-            "iso2": "BZ", 
-            "iso3": "BLZ", 
+            },
+            "iso2": "BZ",
+            "iso3": "BLZ",
             "label": {
-                "arabic-short": "\u0628\u0644\u064a\u0632", 
-                "chinese-short": "\u4f2f\u5229\u5179", 
-                "default": "Belize", 
-                "french-short": "Belize (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u0435\u043b\u0438\u0437", 
-                "spanish-short": "Belice", 
+                "arabic-short": "\u0628\u0644\u064a\u0632",
+                "chinese-short": "\u4f2f\u5229\u5179",
+                "default": "Belize",
+                "french-short": "Belize (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u0435\u043b\u0438\u0437",
+                "spanish-short": "Belice",
                 "unterm": null
-            }, 
-            "m49": "84", 
-            "regex": "belize|^(?=.*british).*honduras", 
+            },
+            "m49": "84",
+            "regex": "belize|^(?=.*british).*honduras",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "35", 
+            },
+            "reliefweb_id": "35",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BZ", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BZ",
             "x-alpha-3": "BLZ"
         }
     ]

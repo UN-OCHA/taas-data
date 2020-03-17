@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "163", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "163",
             "geolocation": {
-                "lat": "9.590667555", 
+                "lat": "9.590667555",
                 "lon": "8.10605344"
-            }, 
-            "hrinfo_id": "343", 
-            "id": "163", 
+            },
+            "hrinfo_id": "343",
+            "id": "163",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "NG", 
-            "iso3": "NGA", 
+            },
+            "iso2": "NG",
+            "iso3": "NGA",
             "label": {
-                "arabic-short": "\u0646\u064a\u062c\u064a\u0631\u064a\u0627", 
-                "chinese-short": "\u5c3c\u65e5\u5229\u4e9a", 
-                "default": "Nigeria", 
-                "french-short": "Nig\u00e9ria (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f", 
-                "spanish-short": "Nigeria", 
+                "arabic-short": "\u0646\u064a\u062c\u064a\u0631\u064a\u0627",
+                "chinese-short": "\u5c3c\u65e5\u5229\u4e9a",
+                "default": "Nigeria",
+                "french-short": "Nig\u00e9ria (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                "spanish-short": "Nigeria",
                 "unterm": null
-            }, 
-            "m49": "566", 
-            "regex": "nigeria", 
+            },
+            "m49": "566",
+            "regex": "nigeria",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "175", 
+            },
+            "reliefweb_id": "175",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "NG", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "NG",
             "x-alpha-3": "NGA"
         }
     ]

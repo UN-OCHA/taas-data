@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "29", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "29",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "209", 
-            "id": "29", 
+            },
+            "hrinfo_id": "209",
+            "id": "29",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "BQ", 
-            "iso3": "BES", 
+            },
+            "iso2": "BQ",
+            "iso3": "BES",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Bonaire, Sint Eustatius and Saba", 
-                "english-short": "Bosnia and Herzegovina", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Bonaire, Saint Eustatius and Saba (The Netherlands)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Bonaire, Sint Eustatius and Saba",
+                "english-short": "Bosnia and Herzegovina",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Bonaire, Saint Eustatius and Saba (The Netherlands)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "535", 
-            "regex": "^(?=.*bonaire).*eustatius|^(?=.*carib).*netherlands|\\bbes.?islands", 
+            },
+            "m49": "535",
+            "regex": "^(?=.*bonaire).*eustatius|^(?=.*carib).*netherlands|\\bbes.?islands",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "14894", 
+            },
+            "reliefweb_id": "14894",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "BQ", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "BQ",
             "x-alpha-3": "BES"
         }
     ]

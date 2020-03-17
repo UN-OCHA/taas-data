@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "246", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "246",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "426", 
-            "id": "244", 
+            },
+            "hrinfo_id": "426",
+            "id": "244",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "WF", 
-            "iso3": "WLF", 
+            },
+            "iso2": "WF",
+            "iso3": "WLF",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Wallis and Futuna Islands", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": "Wallis and Futuna", 
-                "m49": null, 
-                "reliefweb-api": "Wallis and Futuna (France)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Wallis and Futuna Islands",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": "Wallis and Futuna",
+                "m49": null,
+                "reliefweb-api": "Wallis and Futuna (France)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "876", 
-            "regex": "futuna|wallis", 
+            },
+            "m49": "876",
+            "regex": "futuna|wallis",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "252", 
+            },
+            "reliefweb_id": "252",
             "sub-region": {
-                "code": "61", 
+                "code": "61",
                 "label": {
                     "default": "Polynesia"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "WF", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "WF",
             "x-alpha-3": "WLF"
         }
     ]

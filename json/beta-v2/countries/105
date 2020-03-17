@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "105", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "105",
             "geolocation": {
-                "lat": "32.57533772", 
+                "lat": "32.57533772",
                 "lon": "54.2973284"
-            }, 
-            "hrinfo_id": "285", 
-            "id": "105", 
+            },
+            "hrinfo_id": "285",
+            "id": "105",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "IR", 
-            "iso3": "IRN", 
+            },
+            "iso2": "IR",
+            "iso3": "IRN",
             "label": {
-                "arabic-short": "\u0625\u064a\u0631\u0627\u0646 (\u062c\u0645\u0647\u0648\u0631\u064a\u0629 - \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629)", 
-                "chinese-short": "\u4f0a\u6717\uff08\u4f0a\u65af\u5170\u5171\u548c\u56fd\uff09", 
-                "default": "Iran (Islamic Republic of)", 
-                "french-short": "Iran (R\u00e9publique islamique d')", 
-                "fts": "Iran, Islamic Republic of", 
-                "humanitarianresponse": "Iran, Islamic Republic of", 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": "Iran", 
-                "russian-short": "\u0418\u0440\u0430\u043d (\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430)", 
-                "spanish-short": "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica del)", 
+                "arabic-short": "\u0625\u064a\u0631\u0627\u0646 (\u062c\u0645\u0647\u0648\u0631\u064a\u0629 - \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629)",
+                "chinese-short": "\u4f0a\u6717\uff08\u4f0a\u65af\u5170\u5171\u548c\u56fd\uff09",
+                "default": "Iran (Islamic Republic of)",
+                "french-short": "Iran (R\u00e9publique islamique d')",
+                "fts": "Iran, Islamic Republic of",
+                "humanitarianresponse": "Iran, Islamic Republic of",
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": "Iran",
+                "russian-short": "\u0418\u0440\u0430\u043d (\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430)",
+                "spanish-short": "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica del)",
                 "unterm": null
-            }, 
-            "m49": "364", 
-            "regex": "\\biran|persia", 
+            },
+            "m49": "364",
+            "regex": "\\biran|persia",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "121", 
+            },
+            "reliefweb_id": "121",
             "sub-region": {
-                "code": "34", 
+                "code": "34",
                 "label": {
                     "default": "Southern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "IR", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "IR",
             "x-alpha-3": "IRN"
         }
     ]

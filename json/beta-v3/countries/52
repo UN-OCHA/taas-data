@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "52", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "52",
             "geolocation": {
-                "lat": "-2.876807692", 
+                "lat": "-2.876807692",
                 "lon": "23.65623593"
-            }, 
-            "hrinfo_id": "232", 
-            "id": "52", 
+            },
+            "hrinfo_id": "232",
+            "id": "52",
             "intermediate-region": {
-                "code": "17", 
+                "code": "17",
                 "label": {
                     "default": "Middle Africa"
                 }
-            }, 
-            "iso2": "CD", 
-            "iso3": "COD", 
+            },
+            "iso2": "CD",
+            "iso3": "COD",
             "label": {
-                "arabic-short": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629", 
-                "chinese-short": "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd", 
-                "default": "Democratic Republic of the Congo", 
-                "english-short": "DR Congo", 
-                "french-short": "R\u00e9publique d\u00e9mocratique du Congo (la)", 
-                "fts": "Congo, The Democratic Republic of the", 
-                "humanitarianresponse": "Congo, Democratic Republic of the", 
-                "iso": "Congo (the Democratic Republic of the)", 
-                "m49": null, 
-                "reliefweb-api": "Democratic Republic of the Congo", 
-                "reliefweb-short": "DR Congo", 
-                "russian-short": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e", 
-                "spanish-short": "Rep\u00fablica Democr\u00e1tica del Congo (la)", 
+                "arabic-short": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+                "chinese-short": "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd",
+                "default": "Democratic Republic of the Congo",
+                "english-short": "DR Congo",
+                "french-short": "R\u00e9publique d\u00e9mocratique du Congo (la)",
+                "fts": "Congo, The Democratic Republic of the",
+                "humanitarianresponse": "Congo, Democratic Republic of the",
+                "iso": "Congo (the Democratic Republic of the)",
+                "m49": null,
+                "reliefweb-api": "Democratic Republic of the Congo",
+                "reliefweb-short": "DR Congo",
+                "russian-short": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
+                "spanish-short": "Rep\u00fablica Democr\u00e1tica del Congo (la)",
                 "unterm": "Democratic Republic of the Congo (the)"
-            }, 
-            "m49": "180", 
-            "regex": "\\bdem.*congo|congo.*\\bdem|congo.*\\bdr|\\bdr.*congo|\\bd\\.?r\\.?c|\\bd\\.?r\\.?o\\.?c|\\br\\.?d\\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\\w{1,2}opoldville|^the\\ congo$|^RDC$|^DROC$", 
+            },
+            "m49": "180",
+            "regex": "\\bdem.*congo|congo.*\\bdem|congo.*\\bdr|\\bdr.*congo|\\bd\\.?r\\.?c|\\bd\\.?r\\.?o\\.?c|\\br\\.?d\\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\\w{1,2}opoldville|^the\\ congo$|^RDC$|^DROC$",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "75", 
+            },
+            "reliefweb_id": "75",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "CD", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CD",
             "x-alpha-3": "COD"
         }
     ]

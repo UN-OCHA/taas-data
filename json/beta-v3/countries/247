@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "249", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "249",
             "geolocation": {
-                "lat": "-13.45369192", 
+                "lat": "-13.45369192",
                 "lon": "27.80039565"
-            }, 
-            "hrinfo_id": "429", 
-            "id": "247", 
+            },
+            "hrinfo_id": "429",
+            "id": "247",
             "intermediate-region": {
-                "code": "14", 
+                "code": "14",
                 "label": {
                     "default": "Eastern Africa"
                 }
-            }, 
-            "iso2": "ZM", 
-            "iso3": "ZMB", 
+            },
+            "iso2": "ZM",
+            "iso3": "ZMB",
             "label": {
-                "arabic-short": "\u0632\u0627\u0645\u0628\u064a\u0627", 
-                "chinese-short": "\u8d5e\u6bd4\u4e9a", 
-                "default": "Zambia", 
-                "english-short": "Zambia", 
-                "french-short": "Zambie (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0417\u0430\u043c\u0431\u0438\u044f", 
-                "spanish-short": "Zambia", 
+                "arabic-short": "\u0632\u0627\u0645\u0628\u064a\u0627",
+                "chinese-short": "\u8d5e\u6bd4\u4e9a",
+                "default": "Zambia",
+                "english-short": "Zambia",
+                "french-short": "Zambie (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0417\u0430\u043c\u0431\u0438\u044f",
+                "spanish-short": "Zambia",
                 "unterm": null
-            }, 
-            "m49": "894", 
-            "regex": "zambia|northern.?rhodesia", 
+            },
+            "m49": "894",
+            "regex": "zambia|northern.?rhodesia",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "256", 
+            },
+            "reliefweb_id": "256",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "ZM", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "ZM",
             "x-alpha-3": "ZMB"
         }
     ]

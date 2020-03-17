@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "96", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "96",
             "geolocation": {
-                "lat": "18.94164176", 
+                "lat": "18.94164176",
                 "lon": "-72.65840205"
-            }, 
-            "hrinfo_id": "276", 
-            "id": "96", 
+            },
+            "hrinfo_id": "276",
+            "id": "96",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "HT", 
-            "iso3": "HTI", 
+            },
+            "iso2": "HT",
+            "iso3": "HTI",
             "label": {
-                "arabic-short": "\u0647\u0627\u064a\u062a\u064a", 
-                "chinese-short": "\u6d77\u5730", 
-                "default": "Haiti", 
-                "english-short": "Haiti", 
-                "french-short": "Ha\u00efti [masc.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0413\u0430\u0438\u0442\u0438", 
-                "spanish-short": "Hait\u00ed", 
+                "arabic-short": "\u0647\u0627\u064a\u062a\u064a",
+                "chinese-short": "\u6d77\u5730",
+                "default": "Haiti",
+                "english-short": "Haiti",
+                "french-short": "Ha\u00efti [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0430\u0438\u0442\u0438",
+                "spanish-short": "Hait\u00ed",
                 "unterm": null
-            }, 
-            "m49": "332", 
-            "regex": "(ha(i|\\xef|\\xc3\\xaf)ti)", 
+            },
+            "m49": "332",
+            "regex": "(ha(i|\\xef|\\xc3\\xaf)ti)",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "113", 
+            },
+            "reliefweb_id": "113",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "HT", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "HT",
             "x-alpha-3": "HTI"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "138", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "138",
             "geolocation": {
-                "lat": "35.90417953", 
+                "lat": "35.90417953",
                 "lon": "14.42365795"
-            }, 
-            "hrinfo_id": "318", 
-            "id": "138", 
+            },
+            "hrinfo_id": "318",
+            "id": "138",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "MT", 
-            "iso3": "MLT", 
+            },
+            "iso2": "MT",
+            "iso3": "MLT",
             "label": {
-                "arabic-short": "\u0645\u0627\u0644\u0637\u0629", 
-                "chinese-short": "\u9a6c\u8033\u4ed6", 
-                "default": "Malta", 
-                "english-short": "Malta", 
-                "french-short": "Malte [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041c\u0430\u043b\u044c\u0442\u0430", 
-                "spanish-short": "Malta", 
+                "arabic-short": "\u0645\u0627\u0644\u0637\u0629",
+                "chinese-short": "\u9a6c\u8033\u4ed6",
+                "default": "Malta",
+                "english-short": "Malta",
+                "french-short": "Malte [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041c\u0430\u043b\u044c\u0442\u0430",
+                "spanish-short": "Malta",
                 "unterm": null
-            }, 
-            "m49": "470", 
-            "regex": "\\bmalta", 
+            },
+            "m49": "470",
+            "regex": "\\bmalta",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "150", 
+            },
+            "reliefweb_id": "150",
             "sub-region": {
-                "code": "39", 
+                "code": "39",
                 "label": {
                     "default": "Southern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "MT", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "MT",
             "x-alpha-3": "MLT"
         }
     ]

@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "226", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "226",
             "geolocation": {
-                "lat": "-22.92273894", 
+                "lat": "-22.92273894",
                 "lon": "-176.0448464"
-            }, 
-            "hrinfo_id": "406", 
-            "id": "225", 
+            },
+            "hrinfo_id": "406",
+            "id": "225",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "TO", 
-            "iso3": "TON", 
+            },
+            "iso2": "TO",
+            "iso3": "TON",
             "label": {
-                "arabic-short": "\u062a\u0648\u0646\u063a\u0627", 
-                "chinese-short": "\u6c64\u52a0", 
-                "default": "Tonga", 
-                "french-short": "Tonga (les) [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0422\u043e\u043d\u0433\u0430", 
-                "spanish-short": "Tonga", 
+                "arabic-short": "\u062a\u0648\u0646\u063a\u0627",
+                "chinese-short": "\u6c64\u52a0",
+                "default": "Tonga",
+                "french-short": "Tonga (les) [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0422\u043e\u043d\u0433\u0430",
+                "spanish-short": "Tonga",
                 "unterm": null
-            }, 
-            "m49": "776", 
-            "regex": "tonga", 
+            },
+            "m49": "776",
+            "regex": "tonga",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "233", 
+            },
+            "reliefweb_id": "233",
             "sub-region": {
-                "code": "61", 
+                "code": "61",
                 "label": {
                     "default": "Polynesia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "TO", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "TO",
             "x-alpha-3": "TON"
         }
     ]

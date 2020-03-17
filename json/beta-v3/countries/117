@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "117", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "117",
             "geolocation": {
-                "lat": "1.844810739", 
+                "lat": "1.844810739",
                 "lon": "-160.2677952"
-            }, 
-            "hrinfo_id": "297", 
-            "id": "117", 
+            },
+            "hrinfo_id": "297",
+            "id": "117",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "KI", 
-            "iso3": "KIR", 
+            },
+            "iso2": "KI",
+            "iso3": "KIR",
             "label": {
-                "arabic-short": "\u0643\u064a\u0631\u064a\u0628\u0627\u0633", 
-                "chinese-short": "\u57fa\u91cc\u5df4\u65af", 
-                "default": "Kiribati", 
-                "english-short": "Kiribati", 
-                "french-short": "Kiribati [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438", 
-                "spanish-short": "Kiribati", 
+                "arabic-short": "\u0643\u064a\u0631\u064a\u0628\u0627\u0633",
+                "chinese-short": "\u57fa\u91cc\u5df4\u65af",
+                "default": "Kiribati",
+                "english-short": "Kiribati",
+                "french-short": "Kiribati [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438",
+                "spanish-short": "Kiribati",
                 "unterm": null
-            }, 
-            "m49": "296", 
-            "regex": "kiribati", 
+            },
+            "m49": "296",
+            "regex": "kiribati",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "132", 
+            },
+            "reliefweb_id": "132",
             "sub-region": {
-                "code": "57", 
+                "code": "57",
                 "label": {
                     "default": "Micronesia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "KI", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "KI",
             "x-alpha-3": "KIR"
         }
     ]

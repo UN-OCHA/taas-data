@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "201", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "201",
             "geolocation": {
-                "lat": "1.344965221", 
+                "lat": "1.344965221",
                 "lon": "103.8094495"
-            }, 
-            "hrinfo_id": "381", 
-            "id": "200", 
+            },
+            "hrinfo_id": "381",
+            "id": "200",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "SG", 
-            "iso3": "SGP", 
+            },
+            "iso2": "SG",
+            "iso3": "SGP",
             "label": {
-                "arabic-short": "\u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629", 
-                "chinese-short": "\u65b0\u52a0\u5761", 
-                "default": "Singapore", 
-                "english-short": "Singapore", 
-                "french-short": "Singapour [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440", 
-                "spanish-short": "Singapur", 
+                "arabic-short": "\u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629",
+                "chinese-short": "\u65b0\u52a0\u5761",
+                "default": "Singapore",
+                "english-short": "Singapore",
+                "french-short": "Singapour [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
+                "spanish-short": "Singapur",
                 "unterm": null
-            }, 
-            "m49": "702", 
-            "regex": "singapore", 
+            },
+            "m49": "702",
+            "regex": "singapore",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "212", 
+            },
+            "reliefweb_id": "212",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "SG", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "SG",
             "x-alpha-3": "SGP"
         }
     ]

@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "174", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "174",
             "geolocation": {
-                "lat": "-23.23840821", 
+                "lat": "-23.23840821",
                 "lon": "-58.39126243"
-            }, 
-            "hrinfo_id": "354", 
-            "id": "173", 
+            },
+            "hrinfo_id": "354",
+            "id": "173",
             "intermediate-region": {
-                "code": "5", 
+                "code": "5",
                 "label": {
                     "default": "South America"
                 }
-            }, 
-            "iso2": "PY", 
-            "iso3": "PRY", 
+            },
+            "iso2": "PY",
+            "iso3": "PRY",
             "label": {
-                "arabic-short": "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a", 
-                "chinese-short": "\u5df4\u62c9\u572d", 
-                "default": "Paraguay", 
-                "french-short": "Paraguay (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439", 
-                "spanish-short": "Paraguay (el)", 
+                "arabic-short": "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a",
+                "chinese-short": "\u5df4\u62c9\u572d",
+                "default": "Paraguay",
+                "french-short": "Paraguay (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+                "spanish-short": "Paraguay (el)",
                 "unterm": null
-            }, 
-            "m49": "600", 
-            "regex": "paraguay", 
+            },
+            "m49": "600",
+            "regex": "paraguay",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "186", 
+            },
+            "reliefweb_id": "186",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "PY", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "PY",
             "x-alpha-3": "PRY"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "234", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "234",
             "geolocation": {
-                "lat": "49.01900507", 
+                "lat": "49.01900507",
                 "lon": "31.37809941"
-            }, 
-            "hrinfo_id": "414", 
-            "id": "233", 
+            },
+            "hrinfo_id": "414",
+            "id": "233",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "UA", 
-            "iso3": "UKR", 
+            },
+            "iso2": "UA",
+            "iso3": "UKR",
             "label": {
-                "arabic-short": "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627", 
-                "chinese-short": "\u4e4c\u514b\u5170", 
-                "default": "Ukraine", 
-                "english-short": "Ukraine", 
-                "french-short": "Ukraine (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430", 
-                "spanish-short": "Ucrania", 
+                "arabic-short": "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627",
+                "chinese-short": "\u4e4c\u514b\u5170",
+                "default": "Ukraine",
+                "english-short": "Ukraine",
+                "french-short": "Ukraine (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+                "spanish-short": "Ucrania",
                 "unterm": null
-            }, 
-            "m49": "804", 
-            "regex": "ukrain", 
+            },
+            "m49": "804",
+            "regex": "ukrain",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "241", 
+            },
+            "reliefweb_id": "241",
             "sub-region": {
-                "code": "151", 
+                "code": "151",
                 "label": {
                     "default": "Eastern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "UA", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "UA",
             "x-alpha-3": "UKR"
         }
     ]

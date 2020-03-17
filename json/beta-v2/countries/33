@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "33", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "33",
             "geolocation": {
-                "lat": "-7.334186151", 
+                "lat": "-7.334186151",
                 "lon": "72.43402037"
-            }, 
-            "hrinfo_id": "213", 
-            "id": "33", 
+            },
+            "hrinfo_id": "213",
+            "id": "33",
             "intermediate-region": {
-                "code": "14", 
+                "code": "14",
                 "label": {
                     "default": "Eastern Africa"
                 }
-            }, 
-            "iso2": "IO", 
-            "iso3": "IOT", 
+            },
+            "iso2": "IO",
+            "iso3": "IOT",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "British Indian Ocean Territory", 
-                "french-short": null, 
-                "fts": "British Indian Ocean Territory", 
-                "humanitarianresponse": "British Indian Ocean Territory", 
-                "iso": "British Indian Ocean Territory (the)", 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "British Indian Ocean Territory",
+                "french-short": null,
+                "fts": "British Indian Ocean Territory",
+                "humanitarianresponse": "British Indian Ocean Territory",
+                "iso": "British Indian Ocean Territory (the)",
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "86", 
-            "regex": "br.*indian.?ocean", 
+            },
+            "m49": "86",
+            "regex": "br.*indian.?ocean",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": null, 
+            },
+            "reliefweb_id": null,
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "IO", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "IO",
             "x-alpha-3": "IOT"
         }
     ]

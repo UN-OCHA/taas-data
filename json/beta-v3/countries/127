@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "127", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "127",
             "geolocation": {
-                "lat": "27.04420762", 
+                "lat": "27.04420762",
                 "lon": "18.02212777"
-            }, 
-            "hrinfo_id": "307", 
-            "id": "127", 
+            },
+            "hrinfo_id": "307",
+            "id": "127",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "LY", 
-            "iso3": "LBY", 
+            },
+            "iso2": "LY",
+            "iso3": "LBY",
             "label": {
-                "arabic-short": "\u0644\u064a\u0628\u064a\u0627", 
-                "chinese-short": "\u5229\u6bd4\u4e9a", 
-                "default": "Libya", 
-                "english-short": "Libya", 
-                "french-short": "Libye (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041b\u0438\u0432\u0438\u044f", 
-                "spanish-short": "Libia", 
+                "arabic-short": "\u0644\u064a\u0628\u064a\u0627",
+                "chinese-short": "\u5229\u6bd4\u4e9a",
+                "default": "Libya",
+                "english-short": "Libya",
+                "french-short": "Libye (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041b\u0438\u0432\u0438\u044f",
+                "spanish-short": "Libia",
                 "unterm": null
-            }, 
-            "m49": "434", 
-            "regex": "libya", 
+            },
+            "m49": "434",
+            "regex": "libya",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "140", 
+            },
+            "reliefweb_id": "140",
             "sub-region": {
-                "code": "15", 
+                "code": "15",
                 "label": {
                     "default": "Northern Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "LY", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "LY",
             "x-alpha-3": "LBY"
         }
     ]

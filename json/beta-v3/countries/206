@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "207", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "207",
             "geolocation": {
-                "lat": "-28.99235649", 
+                "lat": "-28.99235649",
                 "lon": "25.09025016"
-            }, 
-            "hrinfo_id": "387", 
-            "id": "206", 
+            },
+            "hrinfo_id": "387",
+            "id": "206",
             "intermediate-region": {
-                "code": "18", 
+                "code": "18",
                 "label": {
                     "default": "Southern Africa"
                 }
-            }, 
-            "iso2": "ZA", 
-            "iso3": "ZAF", 
+            },
+            "iso2": "ZA",
+            "iso3": "ZAF",
             "label": {
-                "arabic-short": "\u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627", 
-                "chinese-short": "\u5357\u975e", 
-                "default": "South Africa", 
-                "english-short": "South Africa", 
-                "french-short": "Afrique du Sud (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430", 
-                "spanish-short": "Sud\u00e1frica", 
+                "arabic-short": "\u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+                "chinese-short": "\u5357\u975e",
+                "default": "South Africa",
+                "english-short": "South Africa",
+                "french-short": "Afrique du Sud (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430",
+                "spanish-short": "Sud\u00e1frica",
                 "unterm": null
-            }, 
-            "m49": "710", 
-            "regex": "\\bs(\\.|outh).*africa", 
+            },
+            "m49": "710",
+            "regex": "\\bs(\\.|outh).*africa",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "217", 
+            },
+            "reliefweb_id": "217",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "ZA", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "ZA",
             "x-alpha-3": "ZAF"
         }
     ]
