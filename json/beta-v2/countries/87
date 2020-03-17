@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "87", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "87",
             "geolocation": {
-                "lat": "74.714673", 
+                "lat": "74.714673",
                 "lon": "-41.37858526"
-            }, 
-            "hrinfo_id": "267", 
-            "id": "87", 
+            },
+            "hrinfo_id": "267",
+            "id": "87",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "GL", 
-            "iso3": "GRL", 
+            },
+            "iso2": "GL",
+            "iso3": "GRL",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Greenland", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Greenland (Denmark)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Greenland",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Greenland (Denmark)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "304", 
-            "regex": "greenland", 
+            },
+            "m49": "304",
+            "regex": "greenland",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "105", 
+            },
+            "reliefweb_id": "105",
             "sub-region": {
-                "code": "21", 
+                "code": "21",
                 "label": {
                     "default": "Northern America"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "GL", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "GL",
             "x-alpha-3": "GRL"
         }
     ]

@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "231", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "231",
             "geolocation": {
-                "lat": "21.81744592", 
+                "lat": "21.81744592",
                 "lon": "-71.77770318"
-            }, 
-            "hrinfo_id": "411", 
-            "id": "230", 
+            },
+            "hrinfo_id": "411",
+            "id": "230",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "TC", 
-            "iso3": "TCA", 
+            },
+            "iso2": "TC",
+            "iso3": "TCA",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Turks and Caicos Islands", 
-                "english-short": "Turks and Caicos Islands", 
-                "french-short": null, 
-                "fts": "Turks and Caicos Islands", 
-                "humanitarianresponse": "Turks and Caicos Islands", 
-                "iso": "Turks and Caicos Islands (the)", 
-                "m49": null, 
-                "reliefweb-api": "Turks and Caicos Islands", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Turks and Caicos Islands",
+                "english-short": "Turks and Caicos Islands",
+                "french-short": null,
+                "fts": "Turks and Caicos Islands",
+                "humanitarianresponse": "Turks and Caicos Islands",
+                "iso": "Turks and Caicos Islands (the)",
+                "m49": null,
+                "reliefweb-api": "Turks and Caicos Islands",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "796", 
-            "regex": "turks", 
+            },
+            "m49": "796",
+            "regex": "turks",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "238", 
+            },
+            "reliefweb_id": "238",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "TC", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "TC",
             "x-alpha-3": "TCA"
         }
     ]

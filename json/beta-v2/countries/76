@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "76", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "76",
             "geolocation": {
-                "lat": "46.6984015", 
+                "lat": "46.6984015",
                 "lon": "2.350055968"
-            }, 
-            "hrinfo_id": "256", 
-            "id": "76", 
+            },
+            "hrinfo_id": "256",
+            "id": "76",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "FR", 
-            "iso3": "FRA", 
+            },
+            "iso2": "FR",
+            "iso3": "FRA",
             "label": {
-                "arabic-short": "\u0641\u0631\u0646\u0633\u0627", 
-                "chinese-short": "\u6cd5\u56fd", 
-                "default": "France", 
-                "french-short": "France (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f", 
-                "spanish-short": "Francia", 
+                "arabic-short": "\u0641\u0631\u0646\u0633\u0627",
+                "chinese-short": "\u6cd5\u56fd",
+                "default": "France",
+                "french-short": "France (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+                "spanish-short": "Francia",
                 "unterm": null
-            }, 
-            "m49": "250", 
-            "regex": "^(?!.*\\bdep).*france|french.?republic|\\bgaul", 
+            },
+            "m49": "250",
+            "regex": "^(?!.*\\bdep).*france|french.?republic|\\bgaul",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "92", 
+            },
+            "reliefweb_id": "92",
             "sub-region": {
-                "code": "155", 
+                "code": "155",
                 "label": {
                     "default": "Western Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "FR", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "FR",
             "x-alpha-3": "FRA"
         }
     ]

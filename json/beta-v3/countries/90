@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "90", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "90",
             "geolocation": {
-                "lat": "13.47185432", 
+                "lat": "13.47185432",
                 "lon": "144.784677"
-            }, 
-            "hrinfo_id": "270", 
-            "id": "90", 
+            },
+            "hrinfo_id": "270",
+            "id": "90",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "GU", 
-            "iso3": "GUM", 
+            },
+            "iso2": "GU",
+            "iso3": "GUM",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Guam", 
-                "english-short": "Guam", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Guam",
+                "english-short": "Guam",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "316", 
-            "regex": "\\bguam", 
+            },
+            "m49": "316",
+            "regex": "\\bguam",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "108", 
+            },
+            "reliefweb_id": "108",
             "sub-region": {
-                "code": "57", 
+                "code": "57",
                 "label": {
                     "default": "Micronesia"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "GU", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "GU",
             "x-alpha-3": "GUM"
         }
     ]

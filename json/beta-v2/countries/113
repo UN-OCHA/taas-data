@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "113", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "113",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "293", 
-            "id": "113", 
+            },
+            "hrinfo_id": "293",
+            "id": "113",
             "intermediate-region": {
-                "code": "830", 
+                "code": "830",
                 "label": {
                     "default": "Channel Islands"
                 }
-            }, 
-            "iso2": "JE", 
-            "iso3": "JEY", 
+            },
+            "iso2": "JE",
+            "iso3": "JEY",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Jersey", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Jersey",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "832", 
-            "regex": "jersey", 
+            },
+            "m49": "832",
+            "regex": "jersey",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": null, 
+            },
+            "reliefweb_id": null,
             "sub-region": {
-                "code": "154", 
+                "code": "154",
                 "label": {
                     "default": "Northern Europe"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "JE", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "JE",
             "x-alpha-3": "JEY"
         }
     ]

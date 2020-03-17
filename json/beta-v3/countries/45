@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "45", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "45",
             "geolocation": {
-                "lat": "-37.68386885", 
+                "lat": "-37.68386885",
                 "lon": "-71.33321859"
-            }, 
-            "hrinfo_id": "225", 
-            "id": "45", 
+            },
+            "hrinfo_id": "225",
+            "id": "45",
             "intermediate-region": {
-                "code": "5", 
+                "code": "5",
                 "label": {
                     "default": "South America"
                 }
-            }, 
-            "iso2": "CL", 
-            "iso3": "CHL", 
+            },
+            "iso2": "CL",
+            "iso3": "CHL",
             "label": {
-                "arabic-short": "\u0634\u064a\u0644\u064a", 
-                "chinese-short": "\u667a\u5229", 
-                "default": "Chile", 
-                "english-short": "Channel Islands", 
-                "french-short": "Chili (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0427\u0438\u043b\u0438", 
-                "spanish-short": "Chile", 
+                "arabic-short": "\u0634\u064a\u0644\u064a",
+                "chinese-short": "\u667a\u5229",
+                "default": "Chile",
+                "english-short": "Chile",
+                "french-short": "Chili (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0427\u0438\u043b\u0438",
+                "spanish-short": "Chile",
                 "unterm": null
-            }, 
-            "m49": "152", 
-            "regex": "\\bchile", 
+            },
+            "m49": "152",
+            "regex": "\\bchile",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "57", 
+            },
+            "reliefweb_id": "57",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "CL", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CL",
             "x-alpha-3": "CHL"
         }
     ]

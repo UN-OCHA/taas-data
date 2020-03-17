@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "79", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "79",
             "geolocation": {
-                "lat": "-49.32257975", 
+                "lat": "-49.32257975",
                 "lon": "69.49884805"
-            }, 
-            "hrinfo_id": "259", 
-            "id": "79", 
+            },
+            "hrinfo_id": "259",
+            "id": "79",
             "intermediate-region": {
-                "code": "14", 
+                "code": "14",
                 "label": {
                     "default": "Eastern Africa"
                 }
-            }, 
-            "iso2": "TF", 
-            "iso3": "ATF", 
+            },
+            "iso2": "TF",
+            "iso3": "ATF",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "French Southern and Antarctic Territories", 
-                "english-short": "French Southern Territories", 
-                "french-short": null, 
-                "fts": "French Southern Territories", 
-                "humanitarianresponse": "French Southern Territories", 
-                "iso": "French Southern Territories (the)", 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "French Southern and Antarctic Territories",
+                "english-short": "French Southern Territories",
+                "french-short": null,
+                "fts": "French Southern Territories",
+                "humanitarianresponse": "French Southern Territories",
+                "iso": "French Southern Territories (the)",
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "260", 
-            "regex": "french.?southern|\\bfr.*\\bso.*\\ban.*\\b\\bt", 
+            },
+            "m49": "260",
+            "regex": "french.?southern|\\bfr.*\\bso.*\\ban.*\\b\\bt",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": null, 
+            },
+            "reliefweb_id": null,
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "TF", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "TF",
             "x-alpha-3": "ATF"
         }
     ]

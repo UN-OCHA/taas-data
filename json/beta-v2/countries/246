@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "248", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "248",
             "geolocation": {
-                "lat": "15.96506363", 
+                "lat": "15.96506363",
                 "lon": "47.50305348"
-            }, 
-            "hrinfo_id": "428", 
-            "id": "246", 
+            },
+            "hrinfo_id": "428",
+            "id": "246",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "YE", 
-            "iso3": "YEM", 
+            },
+            "iso2": "YE",
+            "iso3": "YEM",
             "label": {
-                "arabic-short": "\u0627\u0644\u064a\u0645\u0646", 
-                "chinese-short": "\u4e5f\u95e8", 
-                "default": "Yemen", 
-                "french-short": "Y\u00e9men (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0419\u0435\u043c\u0435\u043d", 
-                "spanish-short": "Yemen (el)", 
+                "arabic-short": "\u0627\u0644\u064a\u0645\u0646",
+                "chinese-short": "\u4e5f\u95e8",
+                "default": "Yemen",
+                "french-short": "Y\u00e9men (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0419\u0435\u043c\u0435\u043d",
+                "spanish-short": "Yemen (el)",
                 "unterm": null
-            }, 
-            "m49": "887", 
-            "regex": "yemen", 
+            },
+            "m49": "887",
+            "regex": "yemen",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "255", 
+            },
+            "reliefweb_id": "255",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "YE", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "YE",
             "x-alpha-3": "YEM"
         }
     ]

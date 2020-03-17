@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "34", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "34",
             "geolocation": {
-                "lat": "4.439247073", 
+                "lat": "4.439247073",
                 "lon": "114.4374636"
-            }, 
-            "hrinfo_id": "214", 
-            "id": "34", 
+            },
+            "hrinfo_id": "214",
+            "id": "34",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "BN", 
-            "iso3": "BRN", 
+            },
+            "iso2": "BN",
+            "iso3": "BRN",
             "label": {
-                "arabic-short": "\u0628\u0631\u0648\u0646\u064a \u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645", 
-                "chinese-short": "\u6587\u83b1\u8fbe\u9c81\u8428\u5170\u56fd", 
-                "default": "Brunei Darussalam", 
-                "french-short": "Brun\u00e9i Darussalam (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c", 
-                "spanish-short": "Brunei Darussalam", 
+                "arabic-short": "\u0628\u0631\u0648\u0646\u064a \u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645",
+                "chinese-short": "\u6587\u83b1\u8fbe\u9c81\u8428\u5170\u56fd",
+                "default": "Brunei Darussalam",
+                "french-short": "Brun\u00e9i Darussalam (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c",
+                "spanish-short": "Brunei Darussalam",
                 "unterm": null
-            }, 
-            "m49": "96", 
-            "regex": "brunei", 
+            },
+            "m49": "96",
+            "regex": "brunei",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "44", 
+            },
+            "reliefweb_id": "44",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BN", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BN",
             "x-alpha-3": "BRN"
         }
     ]

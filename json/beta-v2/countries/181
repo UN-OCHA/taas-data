@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "182", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "182",
             "geolocation": {
-                "lat": "-21.12280909", 
+                "lat": "-21.12280909",
                 "lon": "55.55123933"
-            }, 
-            "hrinfo_id": "362", 
-            "id": "181", 
+            },
+            "hrinfo_id": "362",
+            "id": "181",
             "intermediate-region": {
-                "code": "14", 
+                "code": "14",
                 "label": {
                     "default": "Eastern Africa"
                 }
-            }, 
-            "iso2": "RE", 
-            "iso3": "REU", 
+            },
+            "iso2": "RE",
+            "iso3": "REU",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "R\u00e9union", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "R\u00e9union (France)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "R\u00e9union",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "R\u00e9union (France)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "638", 
-            "regex": "reunion|r\u00e9union", 
+            },
+            "m49": "638",
+            "regex": "reunion|r\u00e9union",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "195", 
+            },
+            "reliefweb_id": "195",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "RE", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "RE",
             "x-alpha-3": "REU"
         }
     ]

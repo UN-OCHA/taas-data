@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "106", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "106",
             "geolocation": {
-                "lat": "33.04497404", 
+                "lat": "33.04497404",
                 "lon": "43.77207391"
-            }, 
-            "hrinfo_id": "286", 
-            "id": "106", 
+            },
+            "hrinfo_id": "286",
+            "id": "106",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "IQ", 
-            "iso3": "IRQ", 
+            },
+            "iso2": "IQ",
+            "iso3": "IRQ",
             "label": {
-                "arabic-short": "\u0627\u0644\u0639\u0631\u0627\u0642", 
-                "chinese-short": "\u4f0a\u62c9\u514b", 
-                "default": "Iraq", 
-                "french-short": "Iraq (l') [masc.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0418\u0440\u0430\u043a", 
-                "spanish-short": "Iraq (el)", 
+                "arabic-short": "\u0627\u0644\u0639\u0631\u0627\u0642",
+                "chinese-short": "\u4f0a\u62c9\u514b",
+                "default": "Iraq",
+                "french-short": "Iraq (l') [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0418\u0440\u0430\u043a",
+                "spanish-short": "Iraq (el)",
                 "unterm": null
-            }, 
-            "m49": "368", 
-            "regex": "\\biraq|mesopotamia", 
+            },
+            "m49": "368",
+            "regex": "\\biraq|mesopotamia",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "122", 
+            },
+            "reliefweb_id": "122",
             "sub-region": {
-                "code": "145", 
+                "code": "145",
                 "label": {
                     "default": "Western Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "IQ", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "IQ",
             "x-alpha-3": "IRQ"
         }
     ]

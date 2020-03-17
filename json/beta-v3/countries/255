@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "166", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "166",
             "geolocation": {
-                "lat": "25.56053736", 
+                "lat": "25.56053736",
                 "lon": "152.1251419"
-            }, 
-            "hrinfo_id": "346", 
-            "id": "255", 
+            },
+            "hrinfo_id": "346",
+            "id": "255",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "MP", 
-            "iso3": "MNP", 
+            },
+            "iso2": "MP",
+            "iso3": "MNP",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Northern Mariana Islands", 
-                "english-short": "Northern Mariana Islands", 
-                "french-short": null, 
-                "fts": "Northern Mariana Islands", 
-                "humanitarianresponse": "Northern Mariana Islands", 
-                "iso": "Northern Mariana Islands (the)", 
-                "m49": null, 
-                "reliefweb-api": "Northern Mariana Islands (The United States of America)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Northern Mariana Islands",
+                "english-short": "Northern Mariana Islands",
+                "french-short": null,
+                "fts": "Northern Mariana Islands",
+                "humanitarianresponse": "Northern Mariana Islands",
+                "iso": "Northern Mariana Islands (the)",
+                "m49": null,
+                "reliefweb-api": "Northern Mariana Islands (The United States of America)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "580", 
-            "regex": "mariana", 
+            },
+            "m49": "580",
+            "regex": "mariana",
             "region": {
-                "code": "9", 
+                "code": "9",
                 "label": {
                     "default": "Oceania"
                 }
-            }, 
-            "reliefweb_id": "178", 
+            },
+            "reliefweb_id": "178",
             "sub-region": {
-                "code": "57", 
+                "code": "57",
                 "label": {
                     "default": "Micronesia"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "MP", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "MP",
             "x-alpha-3": "MNP"
         }
     ]

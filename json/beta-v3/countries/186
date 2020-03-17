@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "187", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "187",
             "geolocation": {
-                "lat": null, 
+                "lat": null,
                 "lon": null
-            }, 
-            "hrinfo_id": "367", 
-            "id": "186", 
+            },
+            "hrinfo_id": "367",
+            "id": "186",
             "intermediate-region": {
-                "code": "11", 
+                "code": "11",
                 "label": {
                     "default": "Western Africa"
                 }
-            }, 
-            "iso2": "SH", 
-            "iso3": "SHN", 
+            },
+            "iso2": "SH",
+            "iso3": "SHN",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Saint Helena", 
-                "english-short": "St. Helena", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": "Saint Helena, Ascension and Tristan da Cunha", 
-                "m49": null, 
-                "reliefweb-api": "Saint Helena", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Saint Helena",
+                "english-short": "St. Helena",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": "Saint Helena, Ascension and Tristan da Cunha",
+                "m49": null,
+                "reliefweb-api": "Saint Helena",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "654", 
-            "regex": "helena", 
+            },
+            "m49": "654",
+            "regex": "helena",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "199", 
+            },
+            "reliefweb_id": "199",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "SH", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "SH",
             "x-alpha-3": "SHN"
         }
     ]

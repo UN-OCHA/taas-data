@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "178", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "178",
             "geolocation": {
-                "lat": "52.12847492", 
+                "lat": "52.12847492",
                 "lon": "19.40086"
-            }, 
-            "hrinfo_id": "358", 
-            "id": "177", 
+            },
+            "hrinfo_id": "358",
+            "id": "177",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "PL", 
-            "iso3": "POL", 
+            },
+            "iso2": "PL",
+            "iso3": "POL",
             "label": {
-                "arabic-short": "\u0628\u0648\u0644\u0646\u062f\u0627", 
-                "chinese-short": "\u6ce2\u5170", 
-                "default": "Poland", 
-                "french-short": "Pologne (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041f\u043e\u043b\u044c\u0448\u0430", 
-                "spanish-short": "Polonia", 
+                "arabic-short": "\u0628\u0648\u0644\u0646\u062f\u0627",
+                "chinese-short": "\u6ce2\u5170",
+                "default": "Poland",
+                "french-short": "Pologne (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041f\u043e\u043b\u044c\u0448\u0430",
+                "spanish-short": "Polonia",
                 "unterm": null
-            }, 
-            "m49": "616", 
-            "regex": "poland", 
+            },
+            "m49": "616",
+            "regex": "poland",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "190", 
+            },
+            "reliefweb_id": "190",
             "sub-region": {
-                "code": "151", 
+                "code": "151",
                 "label": {
                     "default": "Eastern Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "PL", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "PL",
             "x-alpha-3": "POL"
         }
     ]

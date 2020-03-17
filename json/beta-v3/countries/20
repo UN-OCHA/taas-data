@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "20", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "20",
             "geolocation": {
-                "lat": "13.184952", 
+                "lat": "13.184952",
                 "lon": "-59.55382245"
-            }, 
-            "hrinfo_id": "200", 
-            "id": "20", 
+            },
+            "hrinfo_id": "200",
+            "id": "20",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "BB", 
-            "iso3": "BRB", 
+            },
+            "iso2": "BB",
+            "iso3": "BRB",
             "label": {
-                "arabic-short": "\u0628\u0631\u0628\u0627\u062f\u0648\u0633", 
-                "chinese-short": "\u5df4\u5df4\u591a\u65af", 
-                "default": "Barbados", 
-                "english-short": "Barbados", 
-                "french-short": "Barbade (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441", 
-                "spanish-short": "Barbados", 
+                "arabic-short": "\u0628\u0631\u0628\u0627\u062f\u0648\u0633",
+                "chinese-short": "\u5df4\u5df4\u591a\u65af",
+                "default": "Barbados",
+                "english-short": "Barbados",
+                "french-short": "Barbade (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+                "spanish-short": "Barbados",
                 "unterm": null
-            }, 
-            "m49": "52", 
-            "regex": "barbados", 
+            },
+            "m49": "52",
+            "regex": "barbados",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "32", 
+            },
+            "reliefweb_id": "32",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "BB", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BB",
             "x-alpha-3": "BRB"
         }
     ]

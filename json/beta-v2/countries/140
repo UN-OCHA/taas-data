@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": null, 
-            "fts_api_id": "140", 
+            "admin_level": "0",
+            "dgacm-list": null,
+            "fts_api_id": "140",
             "geolocation": {
-                "lat": "14.65403719", 
+                "lat": "14.65403719",
                 "lon": "-61.02842534"
-            }, 
-            "hrinfo_id": "320", 
-            "id": "140", 
+            },
+            "hrinfo_id": "320",
+            "id": "140",
             "intermediate-region": {
-                "code": "29", 
+                "code": "29",
                 "label": {
                     "default": "Caribbean"
                 }
-            }, 
-            "iso2": "MQ", 
-            "iso3": "MTQ", 
+            },
+            "iso2": "MQ",
+            "iso3": "MTQ",
             "label": {
-                "arabic-short": null, 
-                "chinese-short": null, 
-                "default": "Martinique", 
-                "french-short": null, 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": "Martinique (France)", 
-                "reliefweb-short": null, 
-                "russian-short": null, 
-                "spanish-short": null, 
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Martinique",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Martinique (France)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
                 "unterm": null
-            }, 
-            "m49": "474", 
-            "regex": "martinique", 
+            },
+            "m49": "474",
+            "regex": "martinique",
             "region": {
-                "code": "19", 
+                "code": "19",
                 "label": {
                     "default": "Americas"
                 }
-            }, 
-            "reliefweb_id": "152", 
+            },
+            "reliefweb_id": "152",
             "sub-region": {
-                "code": "419", 
+                "code": "419",
                 "label": {
                     "default": "Latin America and the Caribbean"
                 }
-            }, 
-            "unterm-list": null, 
-            "x-alpha-2": "MQ", 
+            },
+            "unterm-list": null,
+            "x-alpha-2": "MQ",
             "x-alpha-3": "MTQ"
         }
     ]

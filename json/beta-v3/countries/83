@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "83", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "83",
             "geolocation": {
-                "lat": "51.08227882", 
+                "lat": "51.08227882",
                 "lon": "10.37515859"
-            }, 
-            "hrinfo_id": "263", 
-            "id": "83", 
+            },
+            "hrinfo_id": "263",
+            "id": "83",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "DE", 
-            "iso3": "DEU", 
+            },
+            "iso2": "DE",
+            "iso3": "DEU",
             "label": {
-                "arabic-short": "\u0623\u0644\u0645\u0627\u0646\u064a\u0627", 
-                "chinese-short": "\u5fb7\u56fd", 
-                "default": "Germany", 
-                "english-short": "Germany", 
-                "french-short": "Allemagne (l') [f\u00e9m.]", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f", 
-                "spanish-short": "Alemania", 
+                "arabic-short": "\u0623\u0644\u0645\u0627\u0646\u064a\u0627",
+                "chinese-short": "\u5fb7\u56fd",
+                "default": "Germany",
+                "english-short": "Germany",
+                "french-short": "Allemagne (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+                "spanish-short": "Alemania",
                 "unterm": null
-            }, 
-            "m49": "276", 
-            "regex": "^(?!e|w)(fed)?.*germany(?!,? *e|,? *w)(,? *)(\\bfed)?", 
+            },
+            "m49": "276",
+            "regex": "^(?!e|w)(fed)?.*germany(?!,? *e|,? *w)(,? *)(\\bfed)?",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "101", 
+            },
+            "reliefweb_id": "101",
             "sub-region": {
-                "code": "155", 
+                "code": "155",
                 "label": {
                     "default": "Western Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "DE", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "DE",
             "x-alpha-3": "DEU"
         }
     ]

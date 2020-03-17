@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "116", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "116",
             "geolocation": {
-                "lat": "0.529620946", 
+                "lat": "0.529620946",
                 "lon": "37.85784174"
-            }, 
-            "hrinfo_id": "296", 
-            "id": "116", 
+            },
+            "hrinfo_id": "296",
+            "id": "116",
             "intermediate-region": {
-                "code": "14", 
+                "code": "14",
                 "label": {
                     "default": "Eastern Africa"
                 }
-            }, 
-            "iso2": "KE", 
-            "iso3": "KEN", 
+            },
+            "iso2": "KE",
+            "iso3": "KEN",
             "label": {
-                "arabic-short": "\u0643\u064a\u0646\u064a\u0627", 
-                "chinese-short": "\u80af\u5c3c\u4e9a", 
-                "default": "Kenya", 
-                "english-short": "Kenya", 
-                "french-short": "Kenya (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041a\u0435\u043d\u0438\u044f", 
-                "spanish-short": "Kenya", 
+                "arabic-short": "\u0643\u064a\u0646\u064a\u0627",
+                "chinese-short": "\u80af\u5c3c\u4e9a",
+                "default": "Kenya",
+                "english-short": "Kenya",
+                "french-short": "Kenya (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u0435\u043d\u0438\u044f",
+                "spanish-short": "Kenya",
                 "unterm": null
-            }, 
-            "m49": "404", 
-            "regex": "kenya|british.?east.?africa|east.?africa.?prot", 
+            },
+            "m49": "404",
+            "regex": "kenya|british.?east.?africa|east.?africa.?prot",
             "region": {
-                "code": "2", 
+                "code": "2",
                 "label": {
                     "default": "Africa"
                 }
-            }, 
-            "reliefweb_id": "131", 
+            },
+            "reliefweb_id": "131",
             "sub-region": {
-                "code": "202", 
+                "code": "202",
                 "label": {
                     "default": "Sub-Saharan Africa"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "KE", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "KE",
             "x-alpha-3": "KEN"
         }
     ]

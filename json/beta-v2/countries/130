@@ -1,55 +1,55 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "130", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "130",
             "geolocation": {
-                "lat": "49.77027091", 
+                "lat": "49.77027091",
                 "lon": "6.08637699"
-            }, 
-            "hrinfo_id": "310", 
-            "id": "130", 
+            },
+            "hrinfo_id": "310",
+            "id": "130",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "LU", 
-            "iso3": "LUX", 
+            },
+            "iso2": "LU",
+            "iso3": "LUX",
             "label": {
-                "arabic-short": "\u0644\u0643\u0633\u0645\u0628\u0631\u063a", 
-                "chinese-short": "\u5362\u68ee\u5821", 
-                "default": "Luxembourg", 
-                "french-short": "Luxembourg (le)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433", 
-                "spanish-short": "Luxemburgo", 
+                "arabic-short": "\u0644\u0643\u0633\u0645\u0628\u0631\u063a",
+                "chinese-short": "\u5362\u68ee\u5821",
+                "default": "Luxembourg",
+                "french-short": "Luxembourg (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+                "spanish-short": "Luxemburgo",
                 "unterm": null
-            }, 
-            "m49": "442", 
-            "regex": "^(?!.*belg).*luxem", 
+            },
+            "m49": "442",
+            "regex": "^(?!.*belg).*luxem",
             "region": {
-                "code": "150", 
+                "code": "150",
                 "label": {
                     "default": "Europe"
                 }
-            }, 
-            "reliefweb_id": "143", 
+            },
+            "reliefweb_id": "143",
             "sub-region": {
-                "code": "155", 
+                "code": "155",
                 "label": {
                     "default": "Western Europe"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "LU", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "LU",
             "x-alpha-3": "LUX"
         }
     ]

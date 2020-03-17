@@ -1,56 +1,56 @@
 {
     "data": [
         {
-            "admin_level": "0", 
-            "dgacm-list": "Y", 
-            "fts_api_id": "222", 
+            "admin_level": "0",
+            "dgacm-list": "Y",
+            "fts_api_id": "222",
             "geolocation": {
-                "lat": "15.15949511", 
+                "lat": "15.15949511",
                 "lon": "101.020107"
-            }, 
-            "hrinfo_id": "402", 
-            "id": "221", 
+            },
+            "hrinfo_id": "402",
+            "id": "221",
             "intermediate-region": {
-                "code": null, 
+                "code": null,
                 "label": {
                     "default": null
                 }
-            }, 
-            "iso2": "TH", 
-            "iso3": "THA", 
+            },
+            "iso2": "TH",
+            "iso3": "THA",
             "label": {
-                "arabic-short": "\u062a\u0627\u064a\u0644\u0646\u062f", 
-                "chinese-short": "\u6cf0\u56fd", 
-                "default": "Thailand", 
-                "english-short": "Thailand", 
-                "french-short": "Tha\u00eflande (la)", 
-                "fts": null, 
-                "humanitarianresponse": null, 
-                "iso": null, 
-                "m49": null, 
-                "reliefweb-api": null, 
-                "reliefweb-short": null, 
-                "russian-short": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434", 
-                "spanish-short": "Tailandia", 
+                "arabic-short": "\u062a\u0627\u064a\u0644\u0646\u062f",
+                "chinese-short": "\u6cf0\u56fd",
+                "default": "Thailand",
+                "english-short": "Thailand",
+                "french-short": "Tha\u00eflande (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+                "spanish-short": "Tailandia",
                 "unterm": null
-            }, 
-            "m49": "764", 
-            "regex": "thailand|\\bsiam", 
+            },
+            "m49": "764",
+            "regex": "thailand|\\bsiam",
             "region": {
-                "code": "142", 
+                "code": "142",
                 "label": {
                     "default": "Asia"
                 }
-            }, 
-            "reliefweb_id": "228", 
+            },
+            "reliefweb_id": "228",
             "sub-region": {
-                "code": "35", 
+                "code": "35",
                 "label": {
                     "default": "South-eastern Asia"
                 }
-            }, 
-            "unterm-list": "Y", 
-            "x-alpha-2": "TH", 
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "TH",
             "x-alpha-3": "THA"
         }
     ]
