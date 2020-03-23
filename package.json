@@ -6,6 +6,7 @@
   "repository": "git@github.com:UN-OCHA/taas-data.git",
   "license": "Apache-2.0",
   "devDependencies": {
+    "acorn": ">=5.7.4",
     "autoprefixer": "^9.0.1",
     "axios": ">=0.18.1",
     "braces": "^2.3.2",
@@ -31,6 +32,8 @@
     "jshint": "^2.10.2",
     "jshint-stylish": "^2.2.1",
     "lodash": ">=4.17.14",
+    "minimist": ">=1.2.2",
+    "set-value": ">=2.0.1",
     "tar": ">=4.4.2",
     "uncss": "^0.16.2"
   },
