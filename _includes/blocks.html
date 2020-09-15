@@ -1,7 +1,7 @@
 <div class="blocks-holder">
 	{% for vocab in site.vocabs %}
 	<div class="block">
-		<h2 class="block__heading">
+		<h2 id="{{ vocab.title | slugify }}" class="block__heading">
 		{% if vocab.display-title %}
 			{{ vocab.display-title }}
 		{% else %}
