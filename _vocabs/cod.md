@@ -7,7 +7,7 @@ contact-email: ocha-fis-data@un.org
 ---
 
 Contains country-based Common Operations Datasets (COD) administrative boundary names, P-codes and geometry. In some instances populated places are provided - including names, P-codes and coordinates. The 3-letter ISO code and the UN Short Term are used in the COD datasets and services.\\
-[More details about COD](https://sites.google.com/site/commonoperationaldataset/other-resources/itos-and-cod-services)
+[More details about COD](https://cod.unocha.org/)
 
 [Access live services](http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External)
 
