@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "882",
-            "regex": "^(?!.*amer.*)samoa|(\\bindep.*samoa)",
+            "regex": "^(?!.*amer.*)samoa|(\\bindep.*samoa)|^west.*samoa",
             "region": {
                 "code": "9",
                 "label": {

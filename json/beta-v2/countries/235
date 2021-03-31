@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "826",
-            "regex": ".*(united.?kingdom|britain|^u\\.?k\\.?$|GB)",
+            "regex": ".*(united.?kingdom|britain|^u\\.?k\\.?$|gb)",
             "region": {
                 "code": "150",
                 "label": {

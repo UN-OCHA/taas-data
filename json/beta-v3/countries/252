@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": null,
-            "regex": "channel",
+            "regex": "channel.?island.*",
             "region": {
                 "code": "150",
                 "label": {

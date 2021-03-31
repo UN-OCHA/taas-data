@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "678",
-            "regex": "tome|tom\u00c3\u00a9",
+            "regex": "tome|tom\u00e9",
             "region": {
                 "code": "2",
                 "label": {
