@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "372",
-            "regex": "^(?!north.*)ireland",
+            "regex": "^(?!.*north.*).*ireland",
             "region": {
                 "code": "150",
                 "label": {

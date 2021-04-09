@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "178",
-            "regex": "^(?!.*\\bdem)(?!.*\\bdr)(?!.*kinshasa)(?!.*zaire)(?!.*belg)(?!.*l\\w{1,2}opoldville)(?!.*free)(^rep.*).*\\bcongo.*(?!.*\\bdem)(?!.*\\bdr).*|\\bwest.*congo|^congo.+republic$|^congo.+rep\\.$|^congo$|\\bcongo.*brazza.*",
+            "regex": "^(?!.*\\bdem)(?!.*\\bdr)(?!.*kinshasa)(?!.*zaire)(?!.*belg)(?!.*l\\w{1,2}opoldville)(?!.*free)(^rep.*).*\\bcongo.*(?!.*\\bdem)(?!.*\\bdr).*|\\bwest.*congo|^congo[,;\\s]*(?!.*dem)rep.*?$|^congo$|\\bcongo.*brazza.*",
             "region": {
                 "code": "2",
                 "label": {
