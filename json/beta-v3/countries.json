@@ -2685,7 +2685,7 @@
                 "unterm": null
             },
             "m49": "178",
-            "regex": "^(?!.*\\bdem)(?!.*\\bdr)(?!.*kinshasa)(?!.*zaire)(?!.*belg)(?!.*l\\w{1,2}opoldville)(?!.*free)(^rep.*).*\\bcongo.*(?!.*\\bdem)(?!.*\\bdr).*|\\bwest.*congo|^congo.+republic$|^congo.+rep\\.$|^congo$|\\bcongo.*brazza.*",
+            "regex": "^(?!.*\\bdem)(?!.*\\bdr)(?!.*kinshasa)(?!.*zaire)(?!.*belg)(?!.*l\\w{1,2}opoldville)(?!.*free)(^rep.*).*\\bcongo.*(?!.*\\bdem)(?!.*\\bdr).*|\\bwest.*congo|^congo[,;\\s]*(?!.*dem)rep.*?$|^congo$|\\bcongo.*brazza.*",
             "region": {
                 "code": "2",
                 "label": {
@@ -2738,7 +2738,7 @@
                 "unterm": "Democratic Republic of the Congo (the)"
             },
             "m49": "180",
-            "regex": "\\bdem.*congo|congo.*\\bdem|congo.*\\bdr|\\bdr.*congo|\\bd\\.?r\\.?c|\\bd\\.?r\\.?o\\.?c|\\br\\.?d\\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\\w{1,2}opoldville|^the\\ congo$|^RDC$|^DROC$",
+            "regex": "\\bdem.*congo|congo.*\\bdem|congo.*\\bdr|\\bdr.*congo|\\bd\\.?r\\.?c|\\bd\\.?r\\.?o\\.?c|\\br\\.?d\\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\\w{1,2}opoldville|^the\\ congo$|^RDC$|^DROC$|\\bcongo.*dem.*",
             "region": {
                 "code": "2",
                 "label": {
@@ -5653,7 +5653,7 @@
                 "unterm": null
             },
             "m49": "372",
-            "regex": "^(?!north.*)ireland",
+            "regex": "^(?!.*north.*).*ireland",
             "region": {
                 "code": "150",
                 "label": {
@@ -6236,7 +6236,7 @@
                 "unterm": "Democratic People's Republic of Korea (the)"
             },
             "m49": "408",
-            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.?k",
+            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.|.*dpr.*",
             "region": {
                 "code": "142",
                 "label": {
@@ -6289,7 +6289,7 @@
                 "unterm": "Republic of Korea (the)"
             },
             "m49": "410",
-            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor).*\\bkorea|\\br\\.?o\\.?k\\b",
+            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor)(?!.*dpr)(?!d\\.p\\.r).*\\bkorea|\\br\\.?o\\.?k\\b",
             "region": {
                 "code": "142",
                 "label": {
@@ -10158,7 +10158,7 @@
                 "unterm": null
             },
             "m49": "882",
-            "regex": "^(?!.*amer.*)samoa|(\\bindep.*samoa)",
+            "regex": "^(?!.*amer.*)samoa|(\\bindep.*samoa)|^west.*samoa",
             "region": {
                 "code": "9",
                 "label": {
@@ -10264,7 +10264,7 @@
                 "unterm": null
             },
             "m49": "678",
-            "regex": "tome|tom\u00c3\u00a9",
+            "regex": "tome|tom\u00e9",
             "region": {
                 "code": "2",
                 "label": {
@@ -10900,7 +10900,7 @@
                 "unterm": null
             },
             "m49": "710",
-            "regex": "\\bs(\\.|outh).*africa",
+            "regex": "\\bs(\\.|outh).*africa|^r\\.?s\\.?a\\.?$",
             "region": {
                 "code": "2",
                 "label": {
@@ -11324,7 +11324,7 @@
                 "unterm": null
             },
             "m49": "748",
-            "regex": "eswatini|swaziland",
+            "regex": "swaziland|eswatini",
             "region": {
                 "code": "2",
                 "label": {
@@ -11536,7 +11536,7 @@
                 "unterm": null
             },
             "m49": "158",
-            "regex": ".*taiwan|.*taipei|.*formosa|^(?!.*\\bdem)(?!.*\\bpe)(?!.*\\bdr)(^rep.*).*\\bchina.*(?!.*\\bdem.*)(?!\\bpe.*)(?!.*\\bdr.*).*|^ROC$",
+            "regex": ".*taiwan|.*taipei|.*formosa|^(?!.*\\bdem)(?!.*\\bpe)(?!.*\\bdr)(^rep.*).*\\bchina.*(?!.*\\bdem.*)(?!\\bpe.*)(?!.*\\bdr.*).*|^ROC$|^taiwan r\\.?o\\.?c\\.?$",
             "region": {
                 "code": "142",
                 "label": {
@@ -12437,7 +12437,7 @@
                 "unterm": null
             },
             "m49": "826",
-            "regex": ".*(united.?kingdom|britain|^u\\.?k\\.?$|GB)",
+            "regex": ".*(united.?kingdom|britain|^u\\.?k\\.?$|gb)",
             "region": {
                 "code": "150",
                 "label": {
@@ -13285,7 +13285,7 @@
                 "unterm": null
             },
             "m49": null,
-            "regex": "channel",
+            "regex": "channel.?island.*",
             "region": {
                 "code": "150",
                 "label": {
