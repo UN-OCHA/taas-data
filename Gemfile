@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.4.4'
+ruby '2.6.3'
 
 # security update which prevented upgrading past 1.9.18 was fixed in 1.9.22
 # @see https://github.com/ffi/ffi/issues/608
