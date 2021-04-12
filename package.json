@@ -33,6 +33,7 @@
     "jshint-stylish": "^2.2.1",
     "lodash": ">=4.17.19",
     "minimist": ">=1.2.2",
+    "postcss": "^8.2.10",
     "set-value": ">=2.0.1",
     "tar": "^6.1.0",
     "uncss": "^0.16.2"
