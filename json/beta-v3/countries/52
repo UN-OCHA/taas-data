@@ -35,7 +35,7 @@
                 "unterm": "Democratic Republic of the Congo (the)"
             },
             "m49": "180",
-            "regex": "\\bdem.*congo|congo.*\\bdem|congo.*\\bdr|\\bdr.*congo|\\bd\\.?r\\.?c|\\bd\\.?r\\.?o\\.?c|\\br\\.?d\\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\\w{1,2}opoldville|^the\\ congo$|^RDC$|^DROC$",
+            "regex": "\\bdem.*congo|congo.*\\bdem|congo.*\\bdr|\\bdr.*congo|\\bd\\.?r\\.?c|\\bd\\.?r\\.?o\\.?c|\\br\\.?d\\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\\w{1,2}opoldville|^the\\ congo$|^RDC$|^DROC$|\\bcongo.*dem.*",
             "region": {
                 "code": "2",
                 "label": {
