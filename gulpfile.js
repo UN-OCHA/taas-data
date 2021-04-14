@@ -13,7 +13,6 @@ const notify = browserSync.notify;
 const rename = require('gulp-rename');
 const sass = require('gulp-sass');
 const postcss = require('gulp-postcss');
-const cssnano = require('cssnano');
 const uncss = require('uncss').postcssPlugin;
 const prefix = require('autoprefixer');
 const sourcemaps = require('gulp-sourcemaps');
@@ -90,7 +89,6 @@ function sassTask() {
         ],
         inject: function(window){ window.document.querySelector('html').classList.add('flexbox', 'no-flexbox', 'mediaqueries', 'no-mediaqueries', 'svg', 'no-svg'); },
       }),
-      cssnano(),
     ]))
     .pipe(rename('styles.min.css'))
     .pipe(gulpif(process.env.NODE_ENV !== 'production', sourcemaps.write('./')))
