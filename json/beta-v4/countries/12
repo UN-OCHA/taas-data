@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "AMD",
+            "dgacm-list": "Y",
+            "fts_api_id": "12",
+            "geolocation": {
+                "lat": "40.29202499",
+                "lon": "44.9429026"
+            },
+            "hrinfo_id": "192",
+            "id": "12",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "AM",
+            "iso3": "ARM",
+            "label": {
+                "arabic-short": "\u0623\u0631\u0645\u064a\u0646\u064a\u0627",
+                "chinese-short": "\u4e9a\u7f8e\u5c3c\u4e9a",
+                "default": "Armenia",
+                "english-short": "Armenia",
+                "french-short": "Arm\u00e9nie (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+                "spanish-short": "Armenia",
+                "unterm": null
+            },
+            "m49": "51",
+            "regex": "armenia",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "23",
+            "sub-region": {
+                "code": "145",
+                "label": {
+                    "default": "Western Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "AM",
+            "x-alpha-3": "ARM"
+        }
+    ]
+}

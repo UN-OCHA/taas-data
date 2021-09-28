@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "BWP",
+            "dgacm-list": "Y",
+            "fts_api_id": "30",
+            "geolocation": {
+                "lat": "-22.17991766",
+                "lon": "23.81673035"
+            },
+            "hrinfo_id": "210",
+            "id": "30",
+            "intermediate-region": {
+                "code": "18",
+                "label": {
+                    "default": "Southern Africa"
+                }
+            },
+            "iso2": "BW",
+            "iso3": "BWA",
+            "label": {
+                "arabic-short": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
+                "chinese-short": "\u535a\u8328\u74e6\u7eb3",
+                "default": "Botswana",
+                "english-short": "Botswana",
+                "french-short": "Botswana (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430",
+                "spanish-short": "Botswana",
+                "unterm": null
+            },
+            "m49": "72",
+            "regex": "botswana|bechuana",
+            "region": {
+                "code": "2",
+                "label": {
+                    "default": "Africa"
+                }
+            },
+            "reliefweb_id": "41",
+            "sub-region": {
+                "code": "202",
+                "label": {
+                    "default": "Sub-Saharan Africa"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "BW",
+            "x-alpha-3": "BWA"
+        }
+    ]
+}
