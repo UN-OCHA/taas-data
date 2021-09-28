@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "KMF",
+            "dgacm-list": "Y",
+            "fts_api_id": "50",
+            "geolocation": {
+                "lat": "-11.42407818",
+                "lon": "42.8293551"
+            },
+            "hrinfo_id": "230",
+            "id": "50",
+            "intermediate-region": {
+                "code": "14",
+                "label": {
+                    "default": "Eastern Africa"
+                }
+            },
+            "iso2": "KM",
+            "iso3": "COM",
+            "label": {
+                "arabic-short": "\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+                "chinese-short": "\u79d1\u6469\u7f57",
+                "default": "Comoros",
+                "english-short": "Comoros",
+                "french-short": "Comores (les) [f\u00e9m.]",
+                "fts": "Comoros",
+                "humanitarianresponse": "Comoros",
+                "iso": "Comoros (the)",
+                "m49": null,
+                "reliefweb-api": "Comoros",
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+                "spanish-short": "Comoras (las)",
+                "unterm": null
+            },
+            "m49": "174",
+            "regex": "comoro",
+            "region": {
+                "code": "2",
+                "label": {
+                    "default": "Africa"
+                }
+            },
+            "reliefweb_id": "65",
+            "sub-region": {
+                "code": "202",
+                "label": {
+                    "default": "Sub-Saharan Africa"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "KM",
+            "x-alpha-3": "COM"
+        }
+    ]
+}

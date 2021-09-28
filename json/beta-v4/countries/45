@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "CLP",
+            "dgacm-list": "Y",
+            "fts_api_id": "45",
+            "geolocation": {
+                "lat": "-37.68386885",
+                "lon": "-71.33321859"
+            },
+            "hrinfo_id": "225",
+            "id": "45",
+            "intermediate-region": {
+                "code": "5",
+                "label": {
+                    "default": "South America"
+                }
+            },
+            "iso2": "CL",
+            "iso3": "CHL",
+            "label": {
+                "arabic-short": "\u0634\u064a\u0644\u064a",
+                "chinese-short": "\u667a\u5229",
+                "default": "Chile",
+                "english-short": "Chile",
+                "french-short": "Chili (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0427\u0438\u043b\u0438",
+                "spanish-short": "Chile",
+                "unterm": null
+            },
+            "m49": "152",
+            "regex": "\\bchile",
+            "region": {
+                "code": "19",
+                "label": {
+                    "default": "Americas"
+                }
+            },
+            "reliefweb_id": "57",
+            "sub-region": {
+                "code": "419",
+                "label": {
+                    "default": "Latin America and the Caribbean"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CL",
+            "x-alpha-3": "CHL"
+        }
+    ]
+}

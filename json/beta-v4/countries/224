@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "NZD",
+            "dgacm-list": null,
+            "fts_api_id": "225",
+            "geolocation": {
+                "lat": "-9.195175351",
+                "lon": "-171.8526597"
+            },
+            "hrinfo_id": "405",
+            "id": "224",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "TK",
+            "iso3": "TKL",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Tokelau",
+                "english-short": "Tokelau",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "772",
+            "regex": "tokelau",
+            "region": {
+                "code": "9",
+                "label": {
+                    "default": "Oceania"
+                }
+            },
+            "reliefweb_id": "232",
+            "sub-region": {
+                "code": "61",
+                "label": {
+                    "default": "Polynesia"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "TK",
+            "x-alpha-3": "TKL"
+        }
+    ]
+}

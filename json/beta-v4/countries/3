@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "ALL",
+            "dgacm-list": "Y",
+            "fts_api_id": "3",
+            "geolocation": {
+                "lat": "41.13180899",
+                "lon": "20.06882519"
+            },
+            "hrinfo_id": "183",
+            "id": "3",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "AL",
+            "iso3": "ALB",
+            "label": {
+                "arabic-short": "\u0623\u0644\u0628\u0627\u0646\u064a\u0627",
+                "chinese-short": "\u963f\u5c14\u5df4\u5c3c\u4e9a",
+                "default": "Albania",
+                "english-short": "Albania",
+                "french-short": "Albanie (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f",
+                "spanish-short": "Albania",
+                "unterm": null
+            },
+            "m49": "8",
+            "regex": "albania",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "15",
+            "sub-region": {
+                "code": "39",
+                "label": {
+                    "default": "Southern Europe"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "AL",
+            "x-alpha-3": "ALB"
+        }
+    ]
+}

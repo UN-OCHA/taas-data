@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "GBP",
+            "dgacm-list": "Y",
+            "fts_api_id": "236",
+            "geolocation": {
+                "lat": "53.75504855",
+                "lon": "-2.103843405"
+            },
+            "hrinfo_id": "416",
+            "id": "235",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "GB",
+            "iso3": "GBR",
+            "label": {
+                "arabic-short": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627 \u0627\u0644\u0639\u0638\u0645\u0649 \u0648\u0622\u064a\u0631\u0644\u0646\u062f\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+                "chinese-short": "\u5927\u4e0d\u5217\u98a0\u53ca\u5317\u7231\u5c14\u5170\u8054\u5408\u738b\u56fd",
+                "default": "United Kingdom of Great Britain and Northern Ireland",
+                "english-short": "United Kingdom",
+                "french-short": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+                "fts": "United Kingdom",
+                "humanitarianresponse": "United Kingdom",
+                "iso": "United Kingdom of Great Britain and Northern Ireland (the)",
+                "m49": null,
+                "reliefweb-api": "United Kingdom of Great Britain and Northern Ireland",
+                "reliefweb-short": "UK",
+                "russian-short": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438",
+                "spanish-short": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte (el)",
+                "unterm": null
+            },
+            "m49": "826",
+            "regex": ".*(united.?kingdom|britain|^u\\.?k\\.?$|gb)",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "243",
+            "sub-region": {
+                "code": "154",
+                "label": {
+                    "default": "Northern Europe"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GB",
+            "x-alpha-3": "GBR"
+        }
+    ]
+}

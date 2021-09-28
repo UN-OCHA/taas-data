@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "NOK",
+            "dgacm-list": null,
+            "fts_api_id": "214",
+            "geolocation": {
+                "lat": "77.62362195",
+                "lon": "6.012261852"
+            },
+            "hrinfo_id": "394",
+            "id": "213",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "SJ",
+            "iso3": "SJM",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Svalbard and Jan Mayen Islands",
+                "english-short": "Svalbard and Jan Mayen Islands",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": "Svalbard and Jan Mayen",
+                "m49": null,
+                "reliefweb-api": "Svalbard and Jan Mayen Islands",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "744",
+            "regex": "^(?!norway).*svalbard",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "222",
+            "sub-region": {
+                "code": "154",
+                "label": {
+                    "default": "Northern Europe"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "SJ",
+            "x-alpha-3": "SJM"
+        }
+    ]
+}

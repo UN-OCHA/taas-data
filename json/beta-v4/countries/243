@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "USD",
+            "dgacm-list": null,
+            "fts_api_id": "244",
+            "geolocation": {
+                "lat": "18.30332154",
+                "lon": "-65.11493198"
+            },
+            "hrinfo_id": "424",
+            "id": "243",
+            "intermediate-region": {
+                "code": "29",
+                "label": {
+                    "default": "Caribbean"
+                }
+            },
+            "iso2": "VG",
+            "iso3": "VGB",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "British Virgin Islands",
+                "english-short": "British Virgin Islands",
+                "french-short": null,
+                "fts": "Virgin Islands, British",
+                "humanitarianresponse": "Virgin Islands, British",
+                "iso": "Virgin Islands (British)",
+                "m49": null,
+                "reliefweb-api": "British Virgin Islands",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "92",
+            "regex": "^(?=.*\\bu\\.?\\s?k).*virgin|^(?=.*br.*).*virgin|^(?=.*kingdom).*virgin|BVI",
+            "region": {
+                "code": "19",
+                "label": {
+                    "default": "Americas"
+                }
+            },
+            "reliefweb_id": "43",
+            "sub-region": {
+                "code": "419",
+                "label": {
+                    "default": "Latin America and the Caribbean"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "VG",
+            "x-alpha-3": "VGB"
+        }
+    ]
+}
