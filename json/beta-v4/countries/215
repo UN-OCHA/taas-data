@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "SEK",
+            "dgacm-list": "Y",
+            "fts_api_id": "216",
+            "geolocation": {
+                "lat": "62.88018421",
+                "lon": "16.72425629"
+            },
+            "hrinfo_id": "396",
+            "id": "215",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "SE",
+            "iso3": "SWE",
+            "label": {
+                "arabic-short": "\u0627\u0644\u0633\u0648\u064a\u062f",
+                "chinese-short": "\u745e\u5178",
+                "default": "Sweden",
+                "english-short": "Sweden",
+                "french-short": "Su\u00e8de (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0428\u0432\u0435\u0446\u0438\u044f",
+                "spanish-short": "Suecia",
+                "unterm": null
+            },
+            "m49": "752",
+            "regex": "swedish|sweden",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "224",
+            "sub-region": {
+                "code": "154",
+                "label": {
+                    "default": "Northern Europe"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "SE",
+            "x-alpha-3": "SWE"
+        }
+    ]
+}

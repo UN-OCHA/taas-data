@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "GHS",
+            "dgacm-list": "Y",
+            "fts_api_id": "84",
+            "geolocation": {
+                "lat": "7.956118608",
+                "lon": "-1.209564758"
+            },
+            "hrinfo_id": "264",
+            "id": "84",
+            "intermediate-region": {
+                "code": "11",
+                "label": {
+                    "default": "Western Africa"
+                }
+            },
+            "iso2": "GH",
+            "iso3": "GHA",
+            "label": {
+                "arabic-short": "\u063a\u0627\u0646\u0627",
+                "chinese-short": "\u52a0\u7eb3",
+                "default": "Ghana",
+                "english-short": "Ghana",
+                "french-short": "Ghana (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0430\u043d\u0430",
+                "spanish-short": "Ghana",
+                "unterm": null
+            },
+            "m49": "288",
+            "regex": "ghana|gold.?coast",
+            "region": {
+                "code": "2",
+                "label": {
+                    "default": "Africa"
+                }
+            },
+            "reliefweb_id": "102",
+            "sub-region": {
+                "code": "202",
+                "label": {
+                    "default": "Sub-Saharan Africa"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GH",
+            "x-alpha-3": "GHA"
+        }
+    ]
+}

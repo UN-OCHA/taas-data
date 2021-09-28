@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "KPW",
+            "dgacm-list": "Y",
+            "fts_api_id": "118",
+            "geolocation": {
+                "lat": "40.14251168",
+                "lon": "127.1828259"
+            },
+            "hrinfo_id": "298",
+            "id": "118",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "KP",
+            "iso3": "PRK",
+            "label": {
+                "arabic-short": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+                "chinese-short": "\u671d\u9c9c\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd",
+                "default": "Democratic People's Republic of Korea",
+                "english-short": "North Korea",
+                "french-short": "R\u00e9publique populaire d\u00e9mocratique de Cor\u00e9e (la)",
+                "fts": "Korea, Democratic People's Republic of",
+                "humanitarianresponse": "Korea, Democratic People's Republic of",
+                "iso": "Korea (the Democratic People's Republic of)",
+                "m49": null,
+                "reliefweb-api": "Democratic People's Republic of Korea",
+                "reliefweb-short": "DPRK",
+                "russian-short": "\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "spanish-short": "Rep\u00fablica Popular Democr\u00e1tica de Corea (la)",
+                "unterm": "Democratic People's Republic of Korea (the)"
+            },
+            "m49": "408",
+            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.|.*dpr.*",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "74",
+            "sub-region": {
+                "code": "30",
+                "label": {
+                    "default": "Eastern Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "KP",
+            "x-alpha-3": "PRK"
+        }
+    ]
+}

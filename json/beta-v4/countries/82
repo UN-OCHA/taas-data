@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "GEL",
+            "dgacm-list": "Y",
+            "fts_api_id": "82",
+            "geolocation": {
+                "lat": "42.17290221",
+                "lon": "43.5117089"
+            },
+            "hrinfo_id": "262",
+            "id": "82",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "GE",
+            "iso3": "GEO",
+            "label": {
+                "arabic-short": "\u062c\u0648\u0631\u062c\u064a\u0627",
+                "chinese-short": "\u683c\u9c81\u5409\u4e9a",
+                "default": "Georgia",
+                "english-short": "Georgia",
+                "french-short": "G\u00e9orgie (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0440\u0443\u0437\u0438\u044f",
+                "spanish-short": "Georgia",
+                "unterm": null
+            },
+            "m49": "268",
+            "regex": "^(?!.*south).*georgia",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "100",
+            "sub-region": {
+                "code": "145",
+                "label": {
+                    "default": "Western Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GE",
+            "x-alpha-3": "GEO"
+        }
+    ]
+}

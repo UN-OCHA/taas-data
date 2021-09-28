@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "TJS",
+            "dgacm-list": "Y",
+            "fts_api_id": "220",
+            "geolocation": {
+                "lat": "38.52699814",
+                "lon": "71.04232577"
+            },
+            "hrinfo_id": "400",
+            "id": "219",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "TJ",
+            "iso3": "TJK",
+            "label": {
+                "arabic-short": "\u0637\u0627\u062c\u064a\u0643\u0633\u062a\u0627\u0646",
+                "chinese-short": "\u5854\u5409\u514b\u65af\u5766",
+                "default": "Tajikistan",
+                "english-short": "Tajikistan",
+                "french-short": "Tadjikistan (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+                "spanish-short": "Tayikist\u00e1n",
+                "unterm": null
+            },
+            "m49": "762",
+            "regex": "tajik",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "227",
+            "sub-region": {
+                "code": "143",
+                "label": {
+                    "default": "Central Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "TJ",
+            "x-alpha-3": "TJK"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "NAD",
+            "dgacm-list": "Y",
+            "fts_api_id": "154",
+            "geolocation": {
+                "lat": "-22.13362728",
+                "lon": "17.21558466"
+            },
+            "hrinfo_id": "334",
+            "id": "154",
+            "intermediate-region": {
+                "code": "18",
+                "label": {
+                    "default": "Southern Africa"
+                }
+            },
+            "iso2": "NA",
+            "iso3": "NAM",
+            "label": {
+                "arabic-short": "\u0646\u0627\u0645\u064a\u0628\u064a\u0627",
+                "chinese-short": "\u7eb3\u7c73\u6bd4\u4e9a",
+                "default": "Namibia",
+                "english-short": "Namibia",
+                "french-short": "Namibie (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f",
+                "spanish-short": "Namibia",
+                "unterm": null
+            },
+            "m49": "516",
+            "regex": "namibia",
+            "region": {
+                "code": "2",
+                "label": {
+                    "default": "Africa"
+                }
+            },
+            "reliefweb_id": "166",
+            "sub-region": {
+                "code": "202",
+                "label": {
+                    "default": "Sub-Saharan Africa"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "NA",
+            "x-alpha-3": "NAM"
+        }
+    ]
+}
