@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "JPY",
+            "dgacm-list": "Y",
+            "fts_api_id": "112",
+            "geolocation": {
+                "lat": "37.63209801",
+                "lon": "138.0812256"
+            },
+            "hrinfo_id": "292",
+            "id": "112",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "JP",
+            "iso3": "JPN",
+            "label": {
+                "arabic-short": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646",
+                "chinese-short": "\u65e5\u672c",
+                "default": "Japan",
+                "english-short": "Japan",
+                "french-short": "Japon (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u042f\u043f\u043e\u043d\u0438\u044f",
+                "spanish-short": "Jap\u00f3n (el)",
+                "unterm": null
+            },
+            "m49": "392",
+            "regex": "japan",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "128",
+            "sub-region": {
+                "code": "30",
+                "label": {
+                    "default": "Eastern Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "JP",
+            "x-alpha-3": "JPN"
+        }
+    ]
+}

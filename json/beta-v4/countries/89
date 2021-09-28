@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "EUR",
+            "dgacm-list": null,
+            "fts_api_id": "89",
+            "geolocation": {
+                "lat": "16.40393131",
+                "lon": "-61.75296289"
+            },
+            "hrinfo_id": "269",
+            "id": "89",
+            "intermediate-region": {
+                "code": "29",
+                "label": {
+                    "default": "Caribbean"
+                }
+            },
+            "iso2": "GP",
+            "iso3": "GLP",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Guadeloupe",
+                "english-short": "Guadeloupe",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Guadeloupe (France)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "312",
+            "regex": "guadeloupe",
+            "region": {
+                "code": "19",
+                "label": {
+                    "default": "Americas"
+                }
+            },
+            "reliefweb_id": "107",
+            "sub-region": {
+                "code": "419",
+                "label": {
+                    "default": "Latin America and the Caribbean"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "GP",
+            "x-alpha-3": "GLP"
+        }
+    ]
+}

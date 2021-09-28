@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "FJD",
+            "dgacm-list": "Y",
+            "fts_api_id": "74",
+            "geolocation": {
+                "lat": "-19.0190607",
+                "lon": "195.3435043"
+            },
+            "hrinfo_id": "254",
+            "id": "74",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "FJ",
+            "iso3": "FJI",
+            "label": {
+                "arabic-short": "\u0641\u064a\u062c\u064a",
+                "chinese-short": "\u6590\u6d4e",
+                "default": "Fiji",
+                "english-short": "Fiji",
+                "french-short": "Fidji (les) [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0424\u0438\u0434\u0436\u0438",
+                "spanish-short": "Fiji",
+                "unterm": null
+            },
+            "m49": "242",
+            "regex": "fiji",
+            "region": {
+                "code": "9",
+                "label": {
+                    "default": "Oceania"
+                }
+            },
+            "reliefweb_id": "90",
+            "sub-region": {
+                "code": "54",
+                "label": {
+                    "default": "Melanesia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "FJ",
+            "x-alpha-3": "FJI"
+        }
+    ]
+}

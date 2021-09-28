@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "EUR",
+            "dgacm-list": "Y",
+            "fts_api_id": "149",
+            "geolocation": {
+                "lat": "42.78905871",
+                "lon": "19.26989732"
+            },
+            "hrinfo_id": "329",
+            "id": "149",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "ME",
+            "iso3": "MNE",
+            "label": {
+                "arabic-short": "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062f",
+                "chinese-short": "\u9ed1\u5c71",
+                "default": "Montenegro",
+                "english-short": "Montenegro",
+                "french-short": "Mont\u00e9n\u00e9gro (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f",
+                "spanish-short": "Montenegro",
+                "unterm": null
+            },
+            "m49": "499",
+            "regex": "^(?!.*serbia).*montenegro",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "161",
+            "sub-region": {
+                "code": "39",
+                "label": {
+                    "default": "Southern Europe"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "ME",
+            "x-alpha-3": "MNE"
+        }
+    ]
+}

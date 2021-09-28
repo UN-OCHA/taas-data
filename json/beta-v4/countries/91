@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "GTQ",
+            "dgacm-list": "Y",
+            "fts_api_id": "91",
+            "geolocation": {
+                "lat": "15.699081",
+                "lon": "-90.35850945"
+            },
+            "hrinfo_id": "271",
+            "id": "91",
+            "intermediate-region": {
+                "code": "13",
+                "label": {
+                    "default": "Central America"
+                }
+            },
+            "iso2": "GT",
+            "iso3": "GTM",
+            "label": {
+                "arabic-short": "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627",
+                "chinese-short": "\u5371\u5730\u9a6c\u62c9",
+                "default": "Guatemala",
+                "english-short": "Guatemala",
+                "french-short": "Guatemala (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+                "spanish-short": "Guatemala",
+                "unterm": null
+            },
+            "m49": "320",
+            "regex": "guatemala",
+            "region": {
+                "code": "19",
+                "label": {
+                    "default": "Americas"
+                }
+            },
+            "reliefweb_id": "109",
+            "sub-region": {
+                "code": "419",
+                "label": {
+                    "default": "Latin America and the Caribbean"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GT",
+            "x-alpha-3": "GTM"
+        }
+    ]
+}

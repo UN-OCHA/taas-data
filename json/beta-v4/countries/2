@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "EUR",
+            "dgacm-list": null,
+            "fts_api_id": "2",
+            "geolocation": {
+                "lat": null,
+                "lon": null
+            },
+            "hrinfo_id": "182",
+            "id": "2",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "AX",
+            "iso3": "ALA",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "\u00c5land Islands",
+                "english-short": "Aland Islands",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": "Aland Islands (Finland)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "248",
+            "regex": "\\b(a|\u00e5)land",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "14",
+            "sub-region": {
+                "code": "154",
+                "label": {
+                    "default": "Northern Europe"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "AX",
+            "x-alpha-3": "ALA"
+        }
+    ]
+}

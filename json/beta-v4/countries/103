@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "INR",
+            "dgacm-list": "Y",
+            "fts_api_id": "103",
+            "geolocation": {
+                "lat": "22.37137039",
+                "lon": "79.32792202"
+            },
+            "hrinfo_id": "283",
+            "id": "103",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "IN",
+            "iso3": "IND",
+            "label": {
+                "arabic-short": "\u0627\u0644\u0647\u0646\u062f",
+                "chinese-short": "\u5370\u5ea6",
+                "default": "India",
+                "english-short": "India",
+                "french-short": "Inde (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0418\u043d\u0434\u0438\u044f",
+                "spanish-short": "India (la)",
+                "unterm": null
+            },
+            "m49": "356",
+            "regex": "india(?!.*ocea)",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "119",
+            "sub-region": {
+                "code": "34",
+                "label": {
+                    "default": "Southern Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "IN",
+            "x-alpha-3": "IND"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "MAD",
+            "dgacm-list": "Y",
+            "fts_api_id": "151",
+            "geolocation": {
+                "lat": "31.8836769",
+                "lon": "-6.317283613"
+            },
+            "hrinfo_id": "331",
+            "id": "151",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "MA",
+            "iso3": "MAR",
+            "label": {
+                "arabic-short": "\u0627\u0644\u0645\u063a\u0631\u0628",
+                "chinese-short": "\u6469\u6d1b\u54e5",
+                "default": "Morocco",
+                "english-short": "Morocco",
+                "french-short": "Maroc (le)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+                "spanish-short": "Marruecos",
+                "unterm": null
+            },
+            "m49": "504",
+            "regex": "morocco|\\bmaroc",
+            "region": {
+                "code": "2",
+                "label": {
+                    "default": "Africa"
+                }
+            },
+            "reliefweb_id": "163",
+            "sub-region": {
+                "code": "15",
+                "label": {
+                    "default": "Northern Africa"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "MA",
+            "x-alpha-3": "MAR"
+        }
+    ]
+}
