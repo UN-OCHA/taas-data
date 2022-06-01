@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "324",
-            "regex": "^(?!.*eq)(?!.*span)(?!.*bissau)(?!.*portu)(?!.*new).*guinea",
+            "regex": "^(?!.*eq)(?!.*span)(?!.*bissau)(?!.*pap)(?!.*new)(?!p.*n.*).*guinea",
             "region": {
                 "code": "2",
                 "label": {
