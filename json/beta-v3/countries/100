@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "344",
-            "regex": ".*hong.*kong|hksar",
+            "regex": ".*hong.*kong",
             "region": {
                 "code": "142",
                 "label": {

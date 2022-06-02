@@ -4328,7 +4328,7 @@
                 "unterm": null
             },
             "m49": "268",
-            "regex": "^(?!.*south).*georgia(?!.*US.*)",
+            "regex": "^(?!.*south).*georgia",
             "region": {
                 "code": "142",
                 "label": {
@@ -4911,7 +4911,7 @@
                 "unterm": null
             },
             "m49": "324",
-            "regex": "^(?!.*eq)(?!.*span)(?!.*bissau)(?!.*pap)(?!.*new)(?!p.*n.*).*guinea",
+            "regex": "^(?!.*eq)(?!.*span)(?!.*bissau)(?!.*portu)(?!.*new).*guinea",
             "region": {
                 "code": "2",
                 "label": {
@@ -5282,7 +5282,7 @@
                 "unterm": null
             },
             "m49": "344",
-            "regex": ".*hong.*kong|hksar",
+            "regex": ".*hong.*kong",
             "region": {
                 "code": "142",
                 "label": {
@@ -5441,7 +5441,7 @@
                 "unterm": null
             },
             "m49": "356",
-            "regex": "india(?!.*ocea)(?!na)",
+            "regex": "india(?!.*ocea)",
             "region": {
                 "code": "142",
                 "label": {
@@ -5971,7 +5971,7 @@
                 "unterm": null
             },
             "m49": "832",
-            "regex": "^(?!.*new).*jersey",
+            "regex": "jersey",
             "region": {
                 "code": "150",
                 "label": {
@@ -6236,7 +6236,7 @@
                 "unterm": "Democratic People's Republic of Korea (the)"
             },
             "m49": "408",
-            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.|.*dpr.*|^(?=.*n\\.).*\\bkorea",
+            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.|.*dpr.*",
             "region": {
                 "code": "142",
                 "label": {
@@ -6289,7 +6289,7 @@
                 "unterm": "Republic of Korea (the)"
             },
             "m49": "410",
-            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor)(?!.*n\\.)(?!.*dpr)(?!d\\.p\\.r).*\\bkorea|\\br\\.?o\\.?k\\b",
+            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor)(?!.*dpr)(?!d\\.p\\.r).*\\bkorea|\\br\\.?o\\.?k\\b",
             "region": {
                 "code": "142",
                 "label": {
@@ -7614,7 +7614,7 @@
                 "unterm": null
             },
             "m49": "484",
-            "regex": "^(?!.*new).*mexi(?!.*city)",
+            "regex": "\\bmexic",
             "region": {
                 "code": "19",
                 "label": {
@@ -8356,7 +8356,7 @@
                 "unterm": null
             },
             "m49": null,
-            "regex": "^(?=.*\\bant).*(neth.*|dutch)",
+            "regex": "antilles",
             "region": {
                 "code": "19",
                 "label": {
@@ -8462,7 +8462,7 @@
                 "unterm": null
             },
             "m49": "554",
-            "regex": "(new|n).*zealand",
+            "regex": "(new|n)?.? *zealand",
             "region": {
                 "code": "9",
                 "label": {
@@ -8727,7 +8727,7 @@
                 "unterm": null
             },
             "m49": "574",
-            "regex": "norfolk.*is",
+            "regex": "norfolk",
             "region": {
                 "code": "9",
                 "label": {
@@ -9098,7 +9098,7 @@
                 "unterm": null
             },
             "m49": "598",
-            "regex": "\\bp.*\\bn.*\\bguin.*|^p\\.?n\\.?g\\.?$|new.?guinea",
+            "regex": "papua|\\bp.*\\bn.*\\bguin.*|^p\\.?n\\.?g\\.?$|new.?guinea",
             "region": {
                 "code": "9",
                 "label": {
@@ -10900,7 +10900,7 @@
                 "unterm": null
             },
             "m49": "710",
-            "regex": "\\bs(\\.|outh)(?!.*sahar).*africa|^r\\.?s\\.?a\\.?$",
+            "regex": "\\bs(\\.|outh).*africa|^r\\.?s\\.?a\\.?$",
             "region": {
                 "code": "2",
                 "label": {
@@ -11377,7 +11377,7 @@
                 "unterm": null
             },
             "m49": "752",
-            "regex": "swedish|sweden(?!.*except)",
+            "regex": "swedish|sweden",
             "region": {
                 "code": "150",
                 "label": {

@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "832",
-            "regex": "^(?!.*new).*jersey",
+            "regex": "jersey",
             "region": {
                 "code": "150",
                 "label": {

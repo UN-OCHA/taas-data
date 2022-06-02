@@ -36,7 +36,7 @@
                 "unterm": null
             },
             "m49": "710",
-            "regex": "\\bs(\\.|outh)(?!.*sahar).*africa|^r\\.?s\\.?a\\.?$",
+            "regex": "\\bs(\\.|outh).*africa|^r\\.?s\\.?a\\.?$",
             "region": {
                 "code": "2",
                 "label": {

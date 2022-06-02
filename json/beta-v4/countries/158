@@ -36,7 +36,7 @@
                 "unterm": null
             },
             "m49": null,
-            "regex": "^(?=.*\\bant).*(neth.*|dutch)",
+            "regex": "antilles",
             "region": {
                 "code": "19",
                 "label": {
