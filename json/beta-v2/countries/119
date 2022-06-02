@@ -34,7 +34,7 @@
                 "unterm": "Republic of Korea (the)"
             },
             "m49": "410",
-            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor)(?!.*dpr)(?!d\\.p\\.r).*\\bkorea|\\br\\.?o\\.?k\\b",
+            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor)(?!.*n\\.)(?!.*dpr)(?!d\\.p\\.r).*\\bkorea|\\br\\.?o\\.?k\\b",
             "region": {
                 "code": "142",
                 "label": {
