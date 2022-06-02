@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "574",
-            "regex": "norfolk.*is",
+            "regex": "norfolk",
             "region": {
                 "code": "9",
                 "label": {

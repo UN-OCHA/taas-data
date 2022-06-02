@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "268",
-            "regex": "^(?!.*south).*georgia(?!.*US.*)",
+            "regex": "^(?!.*south).*georgia",
             "region": {
                 "code": "142",
                 "label": {

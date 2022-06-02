@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "484",
-            "regex": "^(?!.*new).*mexi(?!.*city)",
+            "regex": "\\bmexic",
             "region": {
                 "code": "19",
                 "label": {

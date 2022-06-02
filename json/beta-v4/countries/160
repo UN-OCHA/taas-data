@@ -36,7 +36,7 @@
                 "unterm": null
             },
             "m49": "554",
-            "regex": "(new|n).*zealand",
+            "regex": "(new|n)?.? *zealand",
             "region": {
                 "code": "9",
                 "label": {
