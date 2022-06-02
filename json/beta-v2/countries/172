@@ -34,7 +34,7 @@
                 "unterm": null
             },
             "m49": "598",
-            "regex": "papua|\\bp.*\\bn.*\\bguin.*|^p\\.?n\\.?g\\.?$|new.?guinea",
+            "regex": "\\bp.*\\bn.*\\bguin.*|^p\\.?n\\.?g\\.?$|new.?guinea",
             "region": {
                 "code": "9",
                 "label": {
