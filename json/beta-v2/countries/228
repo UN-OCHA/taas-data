@@ -21,8 +21,8 @@
             "label": {
                 "arabic-short": "\u062a\u0631\u0643\u064a\u0627",
                 "chinese-short": "\u571f\u8033\u5176",
-                "default": "Turkey",
-                "french-short": "Turquie (la)",
+                "default": "T\u00fcrkiye",
+                "french-short": "T\u00fcrkiye (la)",
                 "fts": null,
                 "humanitarianresponse": null,
                 "iso": null,
@@ -30,7 +30,7 @@
                 "reliefweb-api": null,
                 "reliefweb-short": null,
                 "russian-short": "\u0422\u0443\u0440\u0446\u0438\u044f",
-                "spanish-short": "Turqu\u00eda",
+                "spanish-short": "T\u00fcrkiye",
                 "unterm": null
             },
             "m49": "792",

@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "752",
-            "regex": "swedish|sweden",
+            "regex": "swedish|sweden(?!.*except)",
             "region": {
                 "code": "150",
                 "label": {

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "AFN",
+            "dgacm-list": "Y",
+            "fts_api_id": "1",
+            "geolocation": {
+                "lat": "33.83147477",
+                "lon": "66.02621828"
+            },
+            "hrinfo_id": "181",
+            "id": "1",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "AF",
+            "iso3": "AFG",
+            "label": {
+                "arabic-short": "\u0623\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+                "chinese-short": "\u963f\u5bcc\u6c57",
+                "default": "Afghanistan",
+                "english-short": "Afghanistan",
+                "french-short": "Afghanistan (l') [masc.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
+                "spanish-short": "Afganist\u00e1n (el)",
+                "unterm": null
+            },
+            "m49": "4",
+            "regex": "afghan",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "13",
+            "sub-region": {
+                "code": "34",
+                "label": {
+                    "default": "Southern Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "AF",
+            "x-alpha-3": "AFG"
+        }
+    ]
+}

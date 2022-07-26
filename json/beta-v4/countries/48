@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "AUD",
+            "dgacm-list": null,
+            "fts_api_id": "48",
+            "geolocation": {
+                "lat": "-12.17127014",
+                "lon": "96.83690355"
+            },
+            "hrinfo_id": "228",
+            "id": "48",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "CC",
+            "iso3": "CCK",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Cocos (Keeling) Islands",
+                "english-short": "Cocos (Keeling) Islands",
+                "french-short": null,
+                "fts": "Cocos (Keeling) Islands",
+                "humanitarianresponse": "Cocos (Keeling) Islands",
+                "iso": "Cocos (Keeling) Islands (the)",
+                "m49": null,
+                "reliefweb-api": "Cocos (Keeling) Islands (Australia)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "166",
+            "regex": "\\bcocos|keeling",
+            "region": {
+                "code": "9",
+                "label": {
+                    "default": "Oceania"
+                }
+            },
+            "reliefweb_id": "63",
+            "sub-region": {
+                "code": "53",
+                "label": {
+                    "default": "Australia and New Zealand"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "CC",
+            "x-alpha-3": "CCK"
+        }
+    ]
+}

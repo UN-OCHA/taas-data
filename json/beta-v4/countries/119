@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "KRW",
+            "dgacm-list": "Y",
+            "fts_api_id": "119",
+            "geolocation": {
+                "lat": "36.52377792",
+                "lon": "127.8821461"
+            },
+            "hrinfo_id": "299",
+            "id": "119",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "KR",
+            "iso3": "KOR",
+            "label": {
+                "arabic-short": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0631\u064a\u0627",
+                "chinese-short": "\u5927\u97e9\u6c11\u56fd",
+                "default": "Republic of Korea",
+                "english-short": "South Korea",
+                "french-short": "R\u00e9publique de Cor\u00e9e (la)",
+                "fts": "Korea, Republic of",
+                "humanitarianresponse": "Korea, Republic of",
+                "iso": "Korea (the Republic of)",
+                "m49": null,
+                "reliefweb-api": "Republic of Korea",
+                "reliefweb-short": null,
+                "russian-short": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
+                "spanish-short": "Rep\u00fablica de Corea (la)",
+                "unterm": "Republic of Korea (the)"
+            },
+            "m49": "410",
+            "regex": "^(?!.*dem)(?!.*peo)(?!.*nor)(?!.*n\\.)(?!.*dpr)(?!d\\.p\\.r).*\\bkorea|\\br\\.?o\\.?k\\b",
+            "region": {
+                "code": "142",
+                "label": {
+                    "default": "Asia"
+                }
+            },
+            "reliefweb_id": "194",
+            "sub-region": {
+                "code": "30",
+                "label": {
+                    "default": "Eastern Asia"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "KR",
+            "x-alpha-3": "KOR"
+        }
+    ]
+}

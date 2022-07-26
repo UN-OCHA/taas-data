@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "GNF",
+            "dgacm-list": "Y",
+            "fts_api_id": "93",
+            "geolocation": {
+                "lat": "10.43642262",
+                "lon": "-10.95068301"
+            },
+            "hrinfo_id": "273",
+            "id": "93",
+            "intermediate-region": {
+                "code": "11",
+                "label": {
+                    "default": "Western Africa"
+                }
+            },
+            "iso2": "GN",
+            "iso3": "GIN",
+            "label": {
+                "arabic-short": "\u063a\u064a\u0646\u064a\u0627",
+                "chinese-short": "\u51e0\u5185\u4e9a",
+                "default": "Guinea",
+                "english-short": "Guinea",
+                "french-short": "Guin\u00e9e (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0413\u0432\u0438\u043d\u0435\u044f",
+                "spanish-short": "Guinea",
+                "unterm": null
+            },
+            "m49": "324",
+            "regex": "^(?!.*eq)(?!.*span)(?!.*bissau)(?!.*pap)(?!.*new)(?!p.*n.*).*guinea",
+            "region": {
+                "code": "2",
+                "label": {
+                    "default": "Africa"
+                }
+            },
+            "reliefweb_id": "110",
+            "sub-region": {
+                "code": "202",
+                "label": {
+                    "default": "Sub-Saharan Africa"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "GN",
+            "x-alpha-3": "GIN"
+        }
+    ]
+}

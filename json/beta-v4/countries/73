@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "DKK",
+            "dgacm-list": null,
+            "fts_api_id": "73",
+            "geolocation": {
+                "lat": "61.64924758",
+                "lon": "-6.548553177"
+            },
+            "hrinfo_id": "253",
+            "id": "73",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "FO",
+            "iso3": "FRO",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Faroe Islands",
+                "english-short": "Faeroe Islands",
+                "french-short": null,
+                "fts": "Faroe Islands",
+                "humanitarianresponse": "Faroe Islands",
+                "iso": "Faroe Islands (the)",
+                "m49": null,
+                "reliefweb-api": "Faroe Islands (Denmark)",
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "234",
+            "regex": "faroe|faeroe",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "89",
+            "sub-region": {
+                "code": "154",
+                "label": {
+                    "default": "Northern Europe"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "FO",
+            "x-alpha-3": "FRO"
+        }
+    ]
+}

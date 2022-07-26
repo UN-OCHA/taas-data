@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "CUP",
+            "dgacm-list": "Y",
+            "fts_api_id": "57",
+            "geolocation": {
+                "lat": "21.6053525",
+                "lon": "-78.90713844"
+            },
+            "hrinfo_id": "237",
+            "id": "57",
+            "intermediate-region": {
+                "code": "29",
+                "label": {
+                    "default": "Caribbean"
+                }
+            },
+            "iso2": "CU",
+            "iso3": "CUB",
+            "label": {
+                "arabic-short": "\u0643\u0648\u0628\u0627",
+                "chinese-short": "\u53e4\u5df4",
+                "default": "Cuba",
+                "english-short": "Cuba",
+                "french-short": "Cuba [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u041a\u0443\u0431\u0430",
+                "spanish-short": "Cuba",
+                "unterm": null
+            },
+            "m49": "192",
+            "regex": "\\bcuba",
+            "region": {
+                "code": "19",
+                "label": {
+                    "default": "Americas"
+                }
+            },
+            "reliefweb_id": "71",
+            "sub-region": {
+                "code": "419",
+                "label": {
+                    "default": "Latin America and the Caribbean"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "CU",
+            "x-alpha-3": "CUB"
+        }
+    ]
+}

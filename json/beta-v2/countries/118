@@ -34,7 +34,7 @@
                 "unterm": "Democratic People's Republic of Korea (the)"
             },
             "m49": "408",
-            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.|.*dpr.*",
+            "regex": "^(?=.*dem).*\\bkorea|^(?=.*peo).*\\bkorea|^(?=.*nor).*\\bkorea|\\bd\\.?p\\.?r\\.|.*dpr.*|^(?=.*n\\.).*\\bkorea",
             "region": {
                 "code": "142",
                 "label": {

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "USD",
+            "dgacm-list": null,
+            "fts_api_id": "90",
+            "geolocation": {
+                "lat": "13.47185432",
+                "lon": "144.784677"
+            },
+            "hrinfo_id": "270",
+            "id": "90",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "GU",
+            "iso3": "GUM",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Guam",
+                "english-short": "Guam",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "316",
+            "regex": "\\bguam",
+            "region": {
+                "code": "9",
+                "label": {
+                    "default": "Oceania"
+                }
+            },
+            "reliefweb_id": "108",
+            "sub-region": {
+                "code": "57",
+                "label": {
+                    "default": "Micronesia"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "GU",
+            "x-alpha-3": "GUM"
+        }
+    ]
+}

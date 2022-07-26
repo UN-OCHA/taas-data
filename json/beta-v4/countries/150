@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "XCD",
+            "dgacm-list": null,
+            "fts_api_id": "150",
+            "geolocation": {
+                "lat": "16.73536624",
+                "lon": "-62.18693595"
+            },
+            "hrinfo_id": "330",
+            "id": "150",
+            "intermediate-region": {
+                "code": "29",
+                "label": {
+                    "default": "Caribbean"
+                }
+            },
+            "iso2": "MS",
+            "iso3": "MSR",
+            "label": {
+                "arabic-short": null,
+                "chinese-short": null,
+                "default": "Montserrat",
+                "english-short": "Montserrat",
+                "french-short": null,
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": null,
+                "spanish-short": null,
+                "unterm": null
+            },
+            "m49": "500",
+            "regex": "montserrat",
+            "region": {
+                "code": "19",
+                "label": {
+                    "default": "Americas"
+                }
+            },
+            "reliefweb_id": "162",
+            "sub-region": {
+                "code": "419",
+                "label": {
+                    "default": "Latin America and the Caribbean"
+                }
+            },
+            "unterm-list": null,
+            "x-alpha-2": "MS",
+            "x-alpha-3": "MSR"
+        }
+    ]
+}

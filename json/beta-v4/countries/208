@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "EUR",
+            "dgacm-list": "Y",
+            "fts_api_id": "209",
+            "geolocation": {
+                "lat": "40.3097875",
+                "lon": "-3.578125378"
+            },
+            "hrinfo_id": "389",
+            "id": "208",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "ES",
+            "iso3": "ESP",
+            "label": {
+                "arabic-short": "\u0625\u0633\u0628\u0627\u0646\u064a\u0627",
+                "chinese-short": "\u897f\u73ed\u7259",
+                "default": "Spain",
+                "english-short": "Spain",
+                "french-short": "Espagne (l') [f\u00e9m.]",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+                "spanish-short": "Espa\u00f1a",
+                "unterm": null
+            },
+            "m49": "724",
+            "regex": "spain",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "218",
+            "sub-region": {
+                "code": "39",
+                "label": {
+                    "default": "Southern Europe"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "ES",
+            "x-alpha-3": "ESP"
+        }
+    ]
+}

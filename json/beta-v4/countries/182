@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "admin_level": "0",
+            "currency": "RON",
+            "dgacm-list": "Y",
+            "fts_api_id": "183",
+            "geolocation": {
+                "lat": "45.84314501",
+                "lon": "24.96613666"
+            },
+            "hrinfo_id": "363",
+            "id": "182",
+            "intermediate-region": {
+                "code": null,
+                "label": {
+                    "default": null
+                }
+            },
+            "iso2": "RO",
+            "iso3": "ROU",
+            "label": {
+                "arabic-short": "\u0631\u0648\u0645\u0627\u0646\u064a\u0627",
+                "chinese-short": "\u7f57\u9a6c\u5c3c\u4e9a",
+                "default": "Romania",
+                "english-short": "Romania",
+                "french-short": "Roumanie (la)",
+                "fts": null,
+                "humanitarianresponse": null,
+                "iso": null,
+                "m49": null,
+                "reliefweb-api": null,
+                "reliefweb-short": null,
+                "russian-short": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+                "spanish-short": "Rumania",
+                "unterm": null
+            },
+            "m49": "642",
+            "regex": "r(o|u|ou)mania",
+            "region": {
+                "code": "150",
+                "label": {
+                    "default": "Europe"
+                }
+            },
+            "reliefweb_id": "196",
+            "sub-region": {
+                "code": "151",
+                "label": {
+                    "default": "Eastern Europe"
+                }
+            },
+            "unterm-list": "Y",
+            "x-alpha-2": "RO",
+            "x-alpha-3": "ROU"
+        }
+    ]
+}

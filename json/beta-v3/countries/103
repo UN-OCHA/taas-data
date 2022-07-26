@@ -35,7 +35,7 @@
                 "unterm": null
             },
             "m49": "356",
-            "regex": "india(?!.*ocea)",
+            "regex": "india(?!.*ocea)(?!na)",
             "region": {
                 "code": "142",
                 "label": {
