@@ -1,3 +1,10 @@
+# ARCHIVED
+
+This site is no longer used to maintain vocabulary.unocha.org.
+
+
+# This page is maintained for historical purposes only.
+
 # How to add a new / edit an existing vocabulary on the OCHA Vocabularies website
 
 ## Adding a new vocabulary to the website
